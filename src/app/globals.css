@@ -20,28 +20,6 @@
   --skeleton-shine: #f8f8f8;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b0b0b;
-    --surface: #0b0b0b;
-    --surface-2: #161616;
-    --ink: #ededed;
-    --muted: #8a8a8a;
-    --line: #262626;
-    --brand: #ededed;
-    --brand-ink: #0b0b0b;
-    --brand-soft: #1a1a1a;
-    --accent: #d6a24e;
-    --accent-soft: #1f1910;
-    --ok: #4ade80;
-    --ok-soft: #0f1a13;
-    --bad: #f87171;
-    --bad-soft: #1f1111;
-    --skeleton: #181818;
-    --skeleton-shine: #202020;
-  }
-}
-
 @theme inline {
   --color-bg: var(--bg);
   --color-surface: var(--surface);
@@ -63,6 +41,7 @@
 }
 
 html {
+  color-scheme: light;
   -webkit-tap-highlight-color: transparent;
 }
 

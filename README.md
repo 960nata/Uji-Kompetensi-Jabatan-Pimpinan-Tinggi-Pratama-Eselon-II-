@@ -25,7 +25,7 @@ Tanpa login, mobile-first, soal & opsi diacak tiap sesi.
 | 📝 **Latihan essay** | 50 soal essay & studi kasus, draf jawaban tersimpan otomatis, tombol *lihat pokok jawaban* + pedoman bobot penilaian. |
 | 📊 **Hasil & pembahasan** | Skor, statistik benar/salah/kosong, nilai per bagian, pembahasan dengan filter. |
 | 💾 **Tanpa database** | Progres sesi, riwayat nilai, dan draf essay disimpan di `localStorage` perangkat. Refresh tidak menghilangkan progres. |
-| 📱 **Mobile-first & minimalis** | Tampilan monokrom, bottom bar jempol-friendly, *bottom sheet* daftar soal, swipe kiri/kanan untuk pindah soal, dark mode otomatis. |
+| 📱 **Mobile-first & minimalis** | Tampilan monokrom, bottom bar jempol-friendly, *bottom sheet* daftar soal, swipe kiri/kanan untuk pindah soal, selalu tema terang. |
 | ⚡ **Skeleton loading** | Shimmer skeleton di setiap halaman selama bank soal dimuat. |
 | ⌨️ **Pintasan keyboard** | `A–E` / `1–5` pilih jawaban, `← →` pindah soal, `F` tandai ragu-ragu. |
 
