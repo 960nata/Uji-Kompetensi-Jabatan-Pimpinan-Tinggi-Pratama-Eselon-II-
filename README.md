@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# 🪪 Simulasi Ujian JPT Pratama — Dukcapil
 
-First, run the development server:
+**Latihan 450 soal pilihan ganda + 50 essay untuk seleksi terbuka JPT Pratama bidang Kependudukan & Pencatatan Sipil.**
+Tanpa login, mobile-first, soal & opsi diacak tiap sesi.
+
+![Next.js](https://img.shields.io/badge/Next.js-15-000?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-19-149eca?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-ff0080?logo=framer&logoColor=white)
+
+</div>
+
+---
+
+## ✨ Fitur
+
+| | |
+|---|---|
+| 🔀 **Acak soal & opsi** | Urutan soal dan opsi A–E diacak setiap sesi (Fisher–Yates + `crypto.getRandomValues`). Kunci jawaban otomatis mengikuti posisi opsi yang baru. |
+| 🎯 **Dua mode** | **Ujian**: nilai di akhir. **Belajar**: langsung tahu benar/salah + kunci per soal. |
+| ⚙️ **Sesi fleksibel** | Pilih 20 / 50 / 100 / 200 / semua soal, filter per bagian materi (I–V), timer opsional (1 menit/soal, auto-submit saat habis). |
+| 📝 **Latihan essay** | 50 soal essay & studi kasus, draf jawaban tersimpan otomatis, tombol *lihat pokok jawaban* + pedoman bobot penilaian. |
+| 📊 **Hasil & pembahasan** | Skor animasi, statistik benar/salah/kosong, nilai per bagian, pembahasan dengan filter. |
+| 💾 **Tanpa database** | Progres sesi, riwayat nilai, dan draf essay disimpan di `localStorage` perangkat. Refresh tidak menghilangkan progres. |
+| 📱 **Mobile-first** | Bottom bar jempol-friendly, *bottom sheet* daftar soal, swipe kiri/kanan untuk pindah soal, dark mode otomatis. |
+| ⚡ **Skeleton loading** | Shimmer skeleton di setiap halaman selama bank soal dimuat. |
+| ⌨️ **Pintasan keyboard** | `A–E` / `1–5` pilih jawaban, `← →` pindah soal, `F` tandai ragu-ragu. |
+
+## 🚀 Menjalankan
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Build produksi:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build && npm start
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deploy paling cepat: push ke GitHub lalu import di [Vercel](https://vercel.com/new), tanpa konfigurasi tambahan.
 
-## Learn More
+## 🗂️ Struktur
 
-To learn more about Next.js, take a look at the following resources:
+```
+src/
+├── app/
+│   ├── page.tsx              # Beranda: atur sesi + riwayat nilai
+│   ├── ujian/page.tsx        # Halaman ujian pilihan ganda
+│   ├── hasil/[id]/page.tsx   # Hasil & pembahasan
+│   └── essay/page.tsx        # Latihan essay
+├── components/
+│   ├── home/                 # SetupCard, History
+│   ├── quiz/                 # Quiz, OptionList, Navigator
+│   ├── result/               # ResultView, ScoreRing
+│   ├── essay/                # EssayPractice
+│   ├── ui/Overlay.tsx        # Dialog & bottom sheet (framer-motion)
+│   └── Skeletons.tsx         # Skeleton loader
+└── lib/
+    ├── quiz.ts               # Acak, buat sesi, penilaian
+    ├── storage.ts            # localStorage (sesi, riwayat, draf essay)
+    ├── useBank.ts            # Loader bank soal + cache
+    └── types.ts
+public/data/questions.json    # Bank soal hasil ekstraksi PDF
+scripts/parse_questions.py    # Ekstraktor PDF → JSON
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🔄 Memperbarui bank soal
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Bank soal diekstrak dari PDF naskah soal dan kunci jawaban:
 
-## Deploy on Vercel
+```bash
+pip install pypdf
+python scripts/parse_questions.py naskah_soal.pdf kunci_jawaban.pdf public/data/questions.json
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Skrip memvalidasi bahwa ke-450 soal memiliki 5 opsi dan kunci, serta ke-50 essay memiliki pokok jawaban.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Cara kerja pengacakan
+
+Setiap soal di sesi menyimpan `order`, yaitu permutasi indeks opsi asli. `order[posisiTampil] = indeksAsli`, jadi jawaban benar bila `order[pilihan] === soal.answer`. Kunci tidak pernah perlu ditulis ulang.
+
+## ⚠️ Catatan
+
+Aplikasi ini adalah alat latihan mandiri, bukan aplikasi resmi panitia seleksi. Kunci jawaban ikut dimuat di sisi klien (diperlukan untuk mode belajar dan pembahasan).

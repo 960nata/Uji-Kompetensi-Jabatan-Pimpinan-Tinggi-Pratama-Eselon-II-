@@ -1,0 +1,6128 @@
+{
+ "sections": [
+  {
+   "id": "I",
+   "title": "Kebijakan & Regulasi Adminduk"
+  },
+  {
+   "id": "II",
+   "title": "Pelayanan Publik, Inovasi & Transformasi Digital"
+  },
+  {
+   "id": "III",
+   "title": "Pencatatan Sipil & Pendaftaran Penduduk"
+  },
+  {
+   "id": "IV",
+   "title": "Data & Kebijakan Kependudukan"
+  },
+  {
+   "id": "V",
+   "title": "Sosial Kultural, Wawasan Kebangsaan & Kepemimpinan"
+  }
+ ],
+ "mc": [
+  {
+   "id": 1,
+   "section": "I",
+   "question": "Berdasarkan UU No. 23 Tahun 2014 tentang Pemerintahan Daerah, urusan administrasi kependudukan dan pencatatan sipil termasuk urusan pemerintahan konkuren yang berklasifikasi...",
+   "options": [
+    "Wajib yang berkaitan dengan pelayanan dasar",
+    "Umum",
+    "Pilihan",
+    "Wajib yang tidak berkaitan dengan pelayanan dasar",
+    "Absolut"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 2,
+   "section": "I",
+   "question": "Dalam pembagian kewenangan Adminduk antar tingkat pemerintahan, penyelenggaraan pelayanan langsung kepada penduduk menjadi kewenangan...",
+   "options": [
+    "Pemerintah Pusat",
+    "Pemerintah Desa",
+    "Pemerintah Kabupaten/Kota",
+    "Kecamatan",
+    "Pemerintah Provinsi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 3,
+   "section": "I",
+   "question": "Peran Pemerintah Provinsi di bidang Adminduk yang paling tepat adalah...",
+   "options": [
+    "Melakukan koordinasi, pembinaan, dan fasilitasi kepada kabupaten/kota",
+    "Menetapkan norma, standar, prosedur, dan kriteria nasional",
+    "Menerbitkan akta kelahiran langsung kepada penduduk",
+    "Mencetak KTP-el seluruh penduduk provinsi",
+    "Menggantikan fungsi Dinas Dukcapil kabupaten/kota"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 4,
+   "section": "I",
+   "question": "Karena Adminduk bukan urusan pelayanan dasar, konsekuensi kebijakannya bagi daerah adalah...",
+   "options": [
+    "Boleh ditiadakan pelayanannya",
+    "Tidak terikat Standar Pelayanan Minimal (SPM) sebagaimana urusan pelayanan dasar, tetapi tetap wajib diselenggarakan",
+    "Hanya diselenggarakan bila ada dana pusat",
+    "Tidak boleh dianggarkan dalam APBD",
+    "Dapat diserahkan seluruhnya kepada swasta"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 5,
+   "section": "I",
+   "question": "Kebijakan Adminduk yang bersifat NSPK (norma, standar, prosedur, kriteria) ditetapkan oleh...",
+   "options": [
+    "Pemerintah Pusat",
+    "Gubernur",
+    "Camat",
+    "DPRD",
+    "Bupati/Wali Kota"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 6,
+   "section": "I",
+   "question": "Instrumen hukum daerah yang paling tepat untuk mengatur pelaksanaan pelayanan Adminduk secara teknis di tingkat kabupaten/kota adalah...",
+   "options": [
+    "Peraturan Presiden",
+    "Peraturan Pemerintah",
+    "Undang-Undang",
+    "Peraturan Bupati/Wali Kota",
+    "Peraturan Menteri"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 7,
+   "section": "I",
+   "question": "Sebuah Perda tentang penyelenggaraan Adminduk tidak boleh...",
+   "options": [
+    "Memuat ketentuan sanksi administratif",
+    "Mengatur tata cara layanan",
+    "Bertentangan dengan peraturan perundang-undangan yang lebih tinggi",
+    "Mengatur kelembagaan UPTD",
+    "Memuat ketentuan pembinaan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 8,
+   "section": "I",
+   "question": "Hierarki peraturan perundang-undangan menurut UU No. 12 Tahun 2011 menempatkan Peraturan Daerah Kabupaten/Kota...",
+   "options": [
+    "Di atas Undang-Undang",
+    "Di bawah Peraturan Daerah Provinsi",
+    "Di luar hierarki",
+    "Di atas Peraturan Pemerintah",
+    "Sejajar dengan Peraturan Presiden"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 9,
+   "section": "I",
+   "question": "Asas pembentukan peraturan perundang-undangan yang baik mengharuskan peraturan dapat dilaksanakan, yaitu asas...",
+   "options": [
+    "Kedayagunaan dan kehasilgunaan",
+    "Dapat dilaksanakan",
+    "Kejelasan tujuan",
+    "Keterbukaan",
+    "Kesesuaian jenis dan hierarki"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 10,
+   "section": "I",
+   "question": "Pernyataan yang paling tepat mengenai sifat pelayanan Adminduk dalam UU Adminduk adalah...",
+   "options": [
+    "Biaya dikenakan untuk pelayanan cepat",
+    "Biaya dibebankan pada pemohon yang mampu",
+    "Penerbitan dokumen kependudukan tidak dipungut biaya",
+    "Biaya ditentukan oleh Kepala Dinas",
+    "Dapat dikenakan retribusi daerah oleh Perda"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 11,
+   "section": "I",
+   "question": "Jika seorang pejabat di daerah memungut biaya dalam penerbitan dokumen kependudukan, maka tindakan tersebut berpotensi melanggar...",
+   "options": [
+    "Tidak ada aturan",
+    "Hanya etika",
+    "Larangan pungutan dan dapat dikategorikan maladministrasi atau pidana tertentu",
+    "Asas keterbukaan semata",
+    "Hanya kebiasaan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 12,
+   "section": "I",
+   "question": "Maladministrasi menurut UU Ombudsman antara lain mencakup...",
+   "options": [
+    "Penggunaan aplikasi daring",
+    "Pelayanan tepat waktu",
+    "Pengumuman standar pelayanan",
+    "Pelayanan jemput bola",
+    "Penundaan berlarut, penyalahgunaan wewenang, dan penyimpangan prosedur"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 13,
+   "section": "I",
+   "question": "Kebijakan reformasi birokrasi yang menekankan pelayanan publik prima di Dukcapil sejalan dengan...",
+   "options": [
+    "Peningkatan pendapatan asli daerah dari retribusi",
+    "Pembatasan akses data",
+    "Peningkatan kualitas pelayanan publik yang cepat, mudah, murah, dan transparan",
+    "Penambahan jumlah jabatan struktural",
+    "Penghapusan standar pelayanan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 14,
+   "section": "I",
+   "question": "Berdasarkan UU Pelayanan Publik (UU 25/2009), komponen standar pelayanan yang wajib ada antara lain...",
+   "options": [
+    "Hanya persyaratan dan biaya",
+    "Hanya dasar hukum",
+    "Hanya prosedur dan waktu",
+    "Dasar hukum, persyaratan, sistem/mekanisme/prosedur, jangka waktu, biaya/tarif, produk layanan, sarana prasarana, kompetensi pelaksana",
+    "Hanya sarana prasarana"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 15,
+   "section": "I",
+   "question": "Maklumat pelayanan adalah...",
+   "options": [
+    "Anggaran dinas",
+    "Laporan keuangan",
+    "Daftar pegawai",
+    "Pernyataan tertulis penyelenggara tentang kesanggupan melaksanakan pelayanan sesuai standar",
+    "Daftar tarif"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 16,
+   "section": "I",
+   "question": "Pengelolaan pengaduan pelayanan publik secara nasional diatur dengan...",
+   "options": [
+    "Perpres No. 39 Tahun 2019",
+    "Perpres No. 76 Tahun 2013",
+    "Perpres No. 95 Tahun 2018",
+    "Perpres No. 81 Tahun 2010",
+    "Perpres No. 29 Tahun 2014"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 17,
+   "section": "I",
+   "question": "Sistem Pemerintahan Berbasis Elektronik (SPBE) diatur dengan...",
+   "options": [
+    "Perpres No. 76 Tahun 2013",
+    "Perpres No. 81 Tahun 2010",
+    "Perpres No. 95 Tahun 2018",
+    "Perpres No. 39 Tahun 2019",
+    "Perpres No. 29 Tahun 2014"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 18,
+   "section": "I",
+   "question": "Satu Data Indonesia diatur dengan...",
+   "options": [
+    "Perpres No. 95 Tahun 2018",
+    "Perpres No. 76 Tahun 2013",
+    "Perpres No. 67 Tahun 2011",
+    "Perpres No. 39 Tahun 2019",
+    "Perpres No. 29 Tahun 2014"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 19,
+   "section": "I",
+   "question": "Dalam prinsip Satu Data Indonesia, data kependudukan dari Dukcapil berperan sebagai...",
+   "options": [
+    "Data pelengkap saja",
+    "Data internal dinas",
+    "Data referensi/induk bagi sektor lain",
+    "Data pribadi pegawai",
+    "Data sampah"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 20,
+   "section": "I",
+   "question": "Kebijakan Akuntabilitas Kinerja Instansi Pemerintah (SAKIP) diatur dengan...",
+   "options": [
+    "Perpres No. 76 Tahun 2013",
+    "Perpres No. 29 Tahun 2014",
+    "Perpres No. 67 Tahun 2011",
+    "Perpres No. 39 Tahun 2019",
+    "Perpres No. 95 Tahun 2018"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 21,
+   "section": "I",
+   "question": "Sebagai kepala perangkat daerah, Kepala Dinas Dukcapil bertanggung jawab menyusun...",
+   "options": [
+    "APBN",
+    "RPJPD",
+    "RPJMN",
+    "Rencana Strategis (Renstra) Perangkat Daerah",
+    "RPJPN"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 22,
+   "section": "I",
+   "question": "Dokumen perencanaan yang menjadi acuan penyusunan Renstra Perangkat Daerah adalah...",
+   "options": [
+    "UUD 1945",
+    "RPJMD",
+    "RPJPN",
+    "APBN",
+    "Perda Pajak"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 23,
+   "section": "I",
+   "question": "Rencana kerja tahunan perangkat daerah disebut...",
+   "options": [
+    "Renstra",
+    "LKPJ",
+    "Renja",
+    "RKP",
+    "RPJMD"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 24,
+   "section": "I",
+   "question": "Dokumen anggaran satuan kerja perangkat daerah disebut...",
+   "options": [
+    "RPJPD",
+    "LPPD",
+    "LKPJ",
+    "RKA/DPA SKPD (Perangkat Daerah)",
+    "RPJMD"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 25,
+   "section": "I",
+   "question": "Laporan penyelenggaraan pemerintahan daerah yang disampaikan kepala daerah kepada Pemerintah Pusat disebut...",
+   "options": [
+    "Renja",
+    "LKjIP",
+    "LPPD",
+    "LKPJ",
+    "RKPD"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 26,
+   "section": "I",
+   "question": "Laporan kinerja instansi pemerintah disebut...",
+   "options": [
+    "LKPJ",
+    "LKjIP",
+    "DPA",
+    "LPPD",
+    "RKPD"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 27,
+   "section": "I",
+   "question": "Indikator Kinerja Utama (IKU) perangkat daerah di bidang Adminduk yang paling relevan adalah...",
+   "options": [
+    "Jumlah pegawai",
+    "Jumlah rapat",
+    "Cakupan kepemilikan dokumen kependudukan (misalnya akta kelahiran, KTP-el, KIA)",
+    "Jumlah mobil dinas",
+    "Persentase pendapatan retribusi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 28,
+   "section": "I",
+   "question": "Indikator keberhasilan program Adminduk yang menunjukkan kualitas data kependudukan adalah...",
+   "options": [
+    "Luas kantor",
+    "Jumlah pegawai honorer",
+    "Jumlah surat masuk",
+    "Tingkat akurasi dan kebersihan data (misalnya NIK ganda, data tidak valid)",
+    "Jumlah penduduk"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 29,
+   "section": "I",
+   "question": "Program prioritas nasional di bidang Adminduk yang berhubungan dengan anak adalah...",
+   "options": [
+    "Kredit usaha rakyat",
+    "Bantuan modal usaha",
+    "Percepatan kepemilikan akta kelahiran dan KIA",
+    "Program makan gratis",
+    "Subsidi pangan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 30,
+   "section": "I",
+   "question": "Dasar percepatan peningkatan cakupan kepemilikan akta kelahiran diatur dalam Permendagri No...",
+   "options": [
+    "2 Tahun 2016",
+    "3 Tahun 2018",
+    "108 Tahun 2019",
+    "7 Tahun 2019",
+    "9 Tahun 2016"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 31,
+   "section": "I",
+   "question": "Instrumen yang digunakan untuk menerbitkan akta kelahiran bagi anak yang orang tuanya tidak memiliki buku nikah atau akta perkawinan, dalam kebijakan percepatan, adalah...",
+   "options": [
+    "Surat izin camat",
+    "Surat keterangan kerja",
+    "Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) kebenaran data kelahiran",
+    "Surat Izin Mengemudi",
+    "Surat Keputusan Bupati"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 32,
+   "section": "I",
+   "question": "Penggunaan SPTJM dalam pelayanan Adminduk dimaksudkan untuk...",
+   "options": [
+    "Menggantikan putusan pengadilan",
+    "Menghindari tanggung jawab petugas sepenuhnya",
+    "Menghapus kewajiban dokumen lain secara total",
+    "Mempercepat layanan dengan tetap menjaga akuntabilitas pemohon atas kebenaran data",
+    "Menaikkan pendapatan daerah"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 33,
+   "section": "I",
+   "question": "Kebijakan afirmatif Adminduk bagi kelompok rentan antara lain bertujuan...",
+   "options": [
+    "Menunda pelayanan reguler",
+    "Mengurangi beban dinas",
+    "Mengurangi hak kelompok mampu",
+    "Memastikan seluruh penduduk, termasuk kelompok rentan, memperoleh dokumen kependudukan",
+    "Memberi prioritas pada pejabat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 34,
+   "section": "I",
+   "question": "Kelompok penduduk rentan Adminduk meliputi...",
+   "options": [
+    "Pejabat dan keluarganya",
+    "Penyandang disabilitas, lansia, masyarakat adat terpencil, penghuni panti, korban bencana, dan anak terlantar",
+    "Pegawai swasta",
+    "Pengusaha",
+    "Wisatawan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 35,
+   "section": "I",
+   "question": "Pendekatan yang paling tepat menurunkan jumlah penduduk belum ber-KTP-el di daerah kepulauan adalah...",
+   "options": [
+    "Menutup layanan",
+    "Menunggu penduduk datang ke kantor",
+    "Menaikkan syarat",
+    "Layanan jemput bola, kolaborasi dengan kecamatan/desa, dan perekaman keliling",
+    "Menunda sampai ada anggaran besar"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 36,
+   "section": "I",
+   "question": "Putusan MK yang memberi dasar pencantuman penghayat kepercayaan pada kolom agama KK dan KTP-el adalah...",
+   "options": [
+    "Putusan MK No. 22/PUU-XV/2017",
+    "Putusan MK No. 46/PUU-VIII/2010",
+    "Putusan MK No. 97/PUU-XIV/2016",
+    "Putusan MK No. 69/PUU-XIII/2015",
+    "Putusan MK No. 12/PUU-V/2007"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 37,
+   "section": "I",
+   "question": "Putusan MK No. 46/PUU-VIII/2010 berkaitan dengan...",
+   "options": [
+    "Hubungan perdata anak luar kawin dengan ayah biologisnya",
+    "Pencatatan kematian",
+    "Perjanjian perkawinan",
+    "Perubahan nama",
+    "Kolom agama KTP-el"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 38,
+   "section": "I",
+   "question": "Implikasi praktis Putusan MK 97/PUU-XIV/2016 bagi Dinas Dukcapil adalah...",
+   "options": [
+    "Penolakan pencantuman penghayat",
+    "Penyesuaian sistem dan layanan agar penghayat kepercayaan dapat dicatat tanpa diskriminasi",
+    "Penghapusan kolom agama",
+    "Penetapan agama baru",
+    "Pencabutan KTP-el penghayat"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 39,
+   "section": "I",
+   "question": "Prinsip nondiskriminasi dalam pelayanan Adminduk berarti...",
+   "options": [
+    "Pelayanan dibedakan berdasarkan agama",
+    "Pelayanan diberikan sama tanpa membedakan agama, suku, ras, golongan, gender, dan kondisi sosial",
+    "Pelayanan berdasarkan status sosial",
+    "Pelayanan hanya untuk mayoritas",
+    "Pelayanan berdasarkan jabatan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 40,
+   "section": "I",
+   "question": "Pengangkatan anak harus didasarkan pada...",
+   "options": [
+    "Surat RT",
+    "Surat kepala desa",
+    "Surat kepala dinas",
+    "Surat camat",
+    "Penetapan pengadilan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 41,
+   "section": "I",
+   "question": "Peraturan Pemerintah yang mengatur pelaksanaan pengangkatan anak adalah...",
+   "options": [
+    "PP No. 40 Tahun 2019",
+    "PP No. 12 Tahun 2017",
+    "PP No. 54 Tahun 2007",
+    "PP No. 11 Tahun 2017",
+    "PP No. 18 Tahun 2016"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 42,
+   "section": "I",
+   "question": "Pencatatan pengangkatan anak oleh Dinas Dukcapil dilakukan setelah ada...",
+   "options": [
+    "Penetapan pengadilan tentang pengangkatan anak",
+    "Surat desa",
+    "Kesepakatan keluarga saja",
+    "Surat dokter",
+    "Surat sekolah"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 43,
+   "section": "I",
+   "question": "Pengakuan anak berbeda dengan pengesahan anak karena...",
+   "options": [
+    "Pengakuan hanya untuk yatim",
+    "Keduanya sama",
+    "Pengakuan anak untuk anak yang lahir di luar perkawinan sah yang diakui ayah biologisnya sesuai ketentuan; pengesahan untuk anak yang orang tuanya menikah setelah anak lahir",
+    "Pengakuan hanya untuk WNA",
+    "Pengesahan hanya untuk dewasa"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 44,
+   "section": "I",
+   "question": "Pencatatan perkawinan bagi penduduk beragama selain Islam dilakukan oleh...",
+   "options": [
+    "Kepolisian",
+    "Pengadilan Agama",
+    "KUA",
+    "Instansi Pelaksana (Dinas Dukcapil)",
+    "Kantor Pos"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 45,
+   "section": "I",
+   "question": "Pencatatan perkawinan bagi penduduk beragama Islam dilakukan oleh...",
+   "options": [
+    "Kecamatan",
+    "Dinas Dukcapil",
+    "KUA (Kantor Urusan Agama)",
+    "Pengadilan Negeri",
+    "Kelurahan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 46,
+   "section": "I",
+   "question": "Data perkawinan yang dicatat KUA kemudian...",
+   "options": [
+    "Dilaporkan ke Instansi Pelaksana untuk dicatat dalam database kependudukan",
+    "Dihapus",
+    "Diserahkan kepada RT",
+    "Disimpan sendiri",
+    "Tidak perlu dilaporkan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 47,
+   "section": "I",
+   "question": "Perceraian bagi non-Muslim diputus oleh...",
+   "options": [
+    "Kecamatan",
+    "Dinas Dukcapil",
+    "KUA",
+    "Pengadilan Negeri",
+    "Pengadilan Agama"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 48,
+   "section": "I",
+   "question": "Perceraian bagi Muslim diputus oleh...",
+   "options": [
+    "KUA",
+    "Pengadilan Negeri",
+    "Camat",
+    "Pengadilan Agama",
+    "Dukcapil"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 49,
+   "section": "I",
+   "question": "Peristiwa perceraian dicatat Dukcapil setelah...",
+   "options": [
+    "Surat kepala desa",
+    "Putusan pengadilan berkekuatan hukum tetap",
+    "Surat RT",
+    "Surat gereja/masjid",
+    "Kesepakatan suami istri"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 50,
+   "section": "I",
+   "question": "Kebijakan integrasi layanan Adminduk dengan lembaga peradilan bertujuan...",
+   "options": [
+    "Mempercepat pencatatan perubahan status hukum penduduk",
+    "Mengurangi tugas dukcapil",
+    "Menunda pencatatan",
+    "Menaikkan pendapatan",
+    "Mengurangi tugas pengadilan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 51,
+   "section": "I",
+   "question": "Salah satu bentuk integrasi layanan Adminduk dengan sektor kesehatan adalah...",
+   "options": [
+    "Pembayaran BPJS di Dukcapil",
+    "Penghapusan surat keterangan lahir",
+    "Penerbitan akta kelahiran otomatis berdasarkan surat keterangan lahir dari fasilitas kesehatan",
+    "Pendaftaran praktik dokter",
+    "Pengobatan gratis di Dukcapil"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 52,
+   "section": "I",
+   "question": "Integrasi layanan dengan BPJS Kesehatan memerlukan ketersediaan...",
+   "options": [
+    "Data kendaraan",
+    "Data kependudukan valid dan terkini yang dapat diverifikasi dengan NIK",
+    "Data hewan",
+    "Data pajak",
+    "Data keuangan daerah"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 53,
+   "section": "I",
+   "question": "Integrasi Dukcapil dengan Kementerian Agama terutama menyangkut...",
+   "options": [
+    "Pencatatan perkawinan dan perceraian Muslim",
+    "Perubahan nama",
+    "Pencatatan kelahiran",
+    "Pengangkatan anak",
+    "Pencatatan kematian"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 54,
+   "section": "I",
+   "question": "Integrasi Dukcapil dengan rumah sakit dan puskesmas dalam pencatatan kematian bertujuan...",
+   "options": [
+    "Mengurangi data",
+    "Menambah pasien",
+    "Memastikan pencatatan kematian akurat dan menghapus data penduduk yang meninggal",
+    "Menaikkan retribusi",
+    "Menghapus data kelahiran"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 55,
+   "section": "I",
+   "question": "Mengapa pencatatan kematian penting bagi kualitas data kependudukan?",
+   "options": [
+    "Hanya formalitas",
+    "Mencegah data penduduk meninggal tetap aktif dan disalahgunakan, termasuk dalam daftar pemilih dan penerima bantuan",
+    "Tidak penting",
+    "Hanya untuk pajak",
+    "Hanya untuk statistik"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 56,
+   "section": "I",
+   "question": "Salah satu strategi untuk mendorong pelaporan peristiwa penting oleh masyarakat adalah...",
+   "options": [
+    "Pemberian sanksi saja",
+    "Penambahan syarat",
+    "Sosialisasi masif, layanan terpadu, dan peran aktif RT/RW/desa",
+    "Penutupan layanan",
+    "Pengurangan jam layanan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 57,
+   "section": "I",
+   "question": "Kebijakan 'Dukcapil Go Digital' bertujuan...",
+   "options": [
+    "Meniadakan petugas",
+    "Membatasi akses",
+    "Menaikkan biaya layanan",
+    "Mengubah layanan menjadi daring dengan dokumen digital bertanda tangan elektronik",
+    "Menghapus layanan tatap muka sepenuhnya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 58,
+   "section": "I",
+   "question": "Dokumen kependudukan digital yang diterbitkan dengan tanda tangan elektronik (TTE) memiliki...",
+   "options": [
+    "Tidak sah",
+    "Kekuatan hukum sebagaimana dokumen cetak sesuai ketentuan",
+    "Hanya untuk WNA",
+    "Hanya untuk pemerintah",
+    "Hanya berlaku di daerah tertentu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 59,
+   "section": "I",
+   "question": "Dasar hukum pemanfaatan tanda tangan elektronik dalam pelayanan Adminduk adalah...",
+   "options": [
+    "UU Ketenagakerjaan",
+    "UU Pemilu",
+    "UU Pertanahan",
+    "UU Perpajakan",
+    "UU ITE dan peraturan turunannya"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 60,
+   "section": "I",
+   "question": "Keunggulan layanan Adminduk daring dibandingkan manual antara lain...",
+   "options": [
+    "Menaikkan biaya",
+    "Menghilangkan data",
+    "Mengurangi tatap muka, mempercepat layanan, dan menekan pungli",
+    "Menambah antrian",
+    "Memperlambat proses"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 61,
+   "section": "I",
+   "question": "Risiko utama transformasi digital Adminduk yang harus diantisipasi pemimpin adalah...",
+   "options": [
+    "Kesenjangan digital dan keamanan data pribadi",
+    "Peningkatan kecepatan",
+    "Pengurangan dokumen",
+    "Penghematan anggaran",
+    "Peningkatan transparansi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 62,
+   "section": "I",
+   "question": "Untuk mengatasi kesenjangan digital pada layanan daring Adminduk, kebijakan yang tepat adalah...",
+   "options": [
+    "Menghentikan layanan luring",
+    "Menyediakan layanan hybrid: daring dan luring dengan pendampingan",
+    "Menaikkan syarat",
+    "Menolak penduduk tanpa gawai",
+    "Memperpanjang waktu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 63,
+   "section": "I",
+   "question": "Identitas Kependudukan Digital (IKD) berfungsi...",
+   "options": [
+    "Mengganti SIM",
+    "Mengganti KK",
+    "Mengganti paspor",
+    "Mengganti akta",
+    "Sebagai bentuk digital KTP-el yang dapat ditampilkan melalui aplikasi di ponsel"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 64,
+   "section": "I",
+   "question": "Aspek keamanan IKD antara lain...",
+   "options": [
+    "Hanya NIK",
+    "Hanya foto",
+    "Hanya kata sandi sederhana",
+    "Verifikasi biometrik dan pengamanan data",
+    "Tidak ada"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 65,
+   "section": "I",
+   "question": "Pelayanan Adminduk berbasis inovasi daerah dapat didukung oleh...",
+   "options": [
+    "Hanya spanduk",
+    "Perda/Perbup, SOP, sistem informasi, dan SDM kompeten",
+    "Hanya pegawai tambahan",
+    "Hanya aplikasi",
+    "Hanya anggaran"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 66,
+   "section": "I",
+   "question": "Ukuran keberhasilan inovasi pelayanan publik dalam Dukcapil adalah...",
+   "options": [
+    "Jumlah spanduk",
+    "Dampak nyata pada kecepatan, kemudahan, dan kepuasan pengguna layanan",
+    "Jumlah penghargaan semata",
+    "Jumlah rapat inovasi",
+    "Jumlah aplikasi tanpa pengguna"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 67,
+   "section": "I",
+   "question": "Pelayanan publik yang responsif gender dalam Adminduk dapat berupa...",
+   "options": [
+    "Layanan berbayar",
+    "Layanan hanya laki-laki",
+    "Layanan yang memperhatikan kebutuhan perempuan, ibu hamil, dan kelompok rentan",
+    "Layanan acak",
+    "Layanan hanya perempuan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 68,
+   "section": "I",
+   "question": "Perubahan UU Adminduk melalui UU 24/2013 antara lain memperkuat...",
+   "options": [
+    "Penghapusan Dukcapil",
+    "Penghapusan KK",
+    "Penghapusan NIK",
+    "Penerapan KTP-el berbasis NIK nasional dan penyempurnaan pelayanan pencatatan sipil",
+    "Penghapusan akta"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 69,
+   "section": "I",
+   "question": "Dari sisi kebijakan, 'NIK sebagai identitas tunggal' berdampak pada...",
+   "options": [
+    "Penambahan dokumen",
+    "Pembatasan layanan",
+    "Integrasi data lintas sektor dan efisiensi layanan publik",
+    "Pemisahan data",
+    "Penambahan biaya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 70,
+   "section": "I",
+   "question": "UU Harmonisasi Peraturan Perpajakan (UU HPP) mengatur bahwa NPWP orang pribadi menggunakan...",
+   "options": [
+    "Nomor paspor",
+    "Nomor SIM",
+    "Nomor BPJS",
+    "Nomor KK",
+    "NIK"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 71,
+   "section": "I",
+   "question": "Pemadanan NIK dengan NPWP menunjukkan perlunya...",
+   "options": [
+    "Data fiktif",
+    "Data baru yang berbeda",
+    "Dokumen cetak",
+    "Perubahan NIK",
+    "Data kependudukan yang akurat sebagai dasar layanan sektor lain"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 72,
+   "section": "I",
+   "question": "Tujuan Daftar Penduduk Potensial Pemilih (DP4) yang disusun Dukcapil adalah...",
+   "options": [
+    "Menetapkan hasil pemilu",
+    "Menjadi bahan KPU menyusun daftar pemilih",
+    "Menghitung dana kampanye",
+    "Menetapkan calon",
+    "Menghitung kursi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 73,
+   "section": "I",
+   "question": "Dinas Dukcapil perlu menjaga netralitas dalam pemilu dengan cara...",
+   "options": [
+    "Mendukung salah satu calon",
+    "Menyediakan data kependudukan secara objektif, tidak memihak, dan sesuai ketentuan",
+    "Mengubah data",
+    "Menyembunyikan data",
+    "Memberi data ke tim sukses"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 74,
+   "section": "I",
+   "question": "Jika terdapat permintaan data kependudukan dari pihak swasta tanpa dasar kerja sama resmi, pimpinan harus...",
+   "options": [
+    "Menjual data",
+    "Menolak dan mengarahkan sesuai prosedur kerja sama pemanfaatan data",
+    "Menyerahkan data langsung",
+    "Mengabaikan",
+    "Memberikan setengah data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 75,
+   "section": "I",
+   "question": "Pemanfaatan data kependudukan oleh pihak ketiga wajib didasarkan pada...",
+   "options": [
+    "Perjanjian kerja sama dan perlindungan data pribadi",
+    "Permintaan lisan",
+    "Kebiasaan",
+    "Tradisi",
+    "Hubungan pribadi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 76,
+   "section": "I",
+   "question": "Bila Kepala Dinas menemukan indikasi pegawai menjual data kependudukan, langkah paling tepat adalah...",
+   "options": [
+    "Menutupi",
+    "Membiarkan",
+    "Meminta uang tutup mulut",
+    "Memproses sesuai disiplin ASN dan melaporkan ke aparat penegak hukum bila terdapat unsur pidana",
+    "Memindahkan tanpa proses"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 77,
+   "section": "I",
+   "question": "Pengendali data pribadi menurut UU Pelindungan Data Pribadi adalah...",
+   "options": [
+    "Mesin server",
+    "Pemilik data",
+    "Pegawai honorer",
+    "Pengguna aplikasi",
+    "Pihak yang menentukan tujuan dan melakukan kendali pemrosesan data pribadi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 78,
+   "section": "I",
+   "question": "Hak subjek data pribadi menurut UU PDP antara lain...",
+   "options": [
+    "Menghapus data semua orang",
+    "Memblokir lembaga pemerintah",
+    "Menjual data",
+    "Mendapatkan informasi, mengakses, memperbaiki, dan menarik persetujuan pemrosesan data",
+    "Mengubah data orang lain"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 79,
+   "section": "I",
+   "question": "Kegiatan pemrosesan data kependudukan oleh Dukcapil termasuk pemrosesan data pribadi untuk...",
+   "options": [
+    "Kepentingan politik",
+    "Kepentingan pribadi pejabat",
+    "Kepentingan iklan",
+    "Pelaksanaan kewajiban hukum dan kepentingan umum penyelenggaraan pemerintahan",
+    "Kepentingan swasta"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 80,
+   "section": "I",
+   "question": "Data pribadi yang bersifat spesifik menurut UU PDP termasuk...",
+   "options": [
+    "Pekerjaan",
+    "Kebangsaan",
+    "Jenis kelamin",
+    "Data biometrik, data genetika, data kesehatan, dan catatan kejahatan",
+    "Nama dan alamat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 81,
+   "section": "I",
+   "question": "Data biometrik dalam KTP-el termasuk kategori...",
+   "options": [
+    "Data terbuka",
+    "Data publik",
+    "Data anonim",
+    "Data pribadi yang bersifat spesifik dan memerlukan perlindungan ketat",
+    "Data umum"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 82,
+   "section": "I",
+   "question": "Langkah pimpinan jika terjadi kebocoran data pribadi pada sistem dinas adalah...",
+   "options": [
+    "Segera mitigasi, memberitahukan pihak terkait sesuai ketentuan, dan melakukan perbaikan sistem",
+    "Menghapus bukti",
+    "Menunggu hingga viral",
+    "Menyalahkan pegawai tanpa investigasi",
+    "Menyembunyikan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 83,
+   "section": "I",
+   "question": "Prinsip 'minimisasi data' dalam pelayanan Adminduk berarti...",
+   "options": [
+    "Mengumpulkan semua data",
+    "Menjual data",
+    "Menyimpan data selamanya",
+    "Menyebarkan data",
+    "Hanya mengumpulkan data yang diperlukan sesuai tujuan layanan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 84,
+   "section": "I",
+   "question": "Prinsip 'pembatasan tujuan' menegaskan bahwa data hanya digunakan untuk...",
+   "options": [
+    "Tujuan yang sah sesuai pengumpulan",
+    "Tujuan iklan",
+    "Tujuan apa pun",
+    "Tujuan politik",
+    "Tujuan komersial"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 85,
+   "section": "I",
+   "question": "Audit sistem informasi Adminduk secara berkala penting untuk...",
+   "options": [
+    "Mengubah NIK",
+    "Memastikan keamanan, kepatuhan, dan integritas data",
+    "Mengurangi pegawai",
+    "Menghapus data",
+    "Menambah biaya"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 86,
+   "section": "I",
+   "question": "Kepatuhan pada standar keamanan informasi dapat mengacu pada...",
+   "options": [
+    "Pedoman desa",
+    "ISO 27001 dan pedoman BSSN",
+    "Pedoman RT",
+    "Pedoman sekolah",
+    "ISO 9001 saja"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 87,
+   "section": "I",
+   "question": "Badan Siber dan Sandi Negara (BSSN) berperan dalam...",
+   "options": [
+    "Pemilu",
+    "Pembinaan keamanan informasi dan siber pemerintah",
+    "Pencatatan sipil",
+    "Peradilan",
+    "Imigrasi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 88,
+   "section": "I",
+   "question": "Perlindungan hukum bagi petugas yang menjalankan layanan sesuai prosedur terhadap risiko tuntutan antara lain bergantung pada...",
+   "options": [
+    "Jumlah pegawai",
+    "Ukuran kantor",
+    "Besaran anggaran",
+    "Kepatuhan pada SOP dan peraturan yang berlaku",
+    "Kedekatan dengan atasan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 89,
+   "section": "I",
+   "question": "Asas-Asas Umum Pemerintahan yang Baik (AUPB) menurut UU 30/2014 antara lain...",
+   "options": [
+    "Kepastian hukum, kemanfaatan, ketidakberpihakan, kecermatan, tidak menyalahgunakan kewenangan, keterbukaan, kepentingan umum, pelayanan yang baik",
+    "Hanya keterbukaan",
+    "Hanya kepastian hukum",
+    "Hanya kecermatan",
+    "Hanya kepentingan umum"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 90,
+   "section": "I",
+   "question": "Diskresi pejabat dalam pelayanan Adminduk hanya sah jika...",
+   "options": [
+    "Menyalahi peraturan",
+    "Bertujuan melancarkan penyelenggaraan pemerintahan, tidak bertentangan dengan peraturan, sesuai AUPB, dan dalam batas kewenangan",
+    "Tanpa dokumentasi",
+    "Dilakukan sesuka hati",
+    "Menguntungkan pribadi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 91,
+   "section": "II",
+   "question": "Pelayanan publik yang berkualitas menurut UU 25/2009 ditandai dengan asas...",
+   "options": [
+    "Kedekatan dan loyalitas pribadi",
+    "Kebiasaan lama",
+    "Senioritas dan jabatan",
+    "Kepentingan umum, kepastian hukum, kesamaan hak, keseimbangan hak dan kewajiban, keprofesionalan, partisipatif, persamaan perlakuan, keterbukaan, akuntabilitas, fasilitas bagi kelompok rentan, ketepatan waktu, kecepatan-kemudahan-keterjangkauan",
+    "Keuntungan dan efisiensi biaya semata"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 92,
+   "section": "II",
+   "question": "Seorang Kepala Dinas menemukan antrean panjang di loket KTP-el setiap pagi. Langkah analisis pertama yang paling tepat adalah...",
+   "options": [
+    "Menambah pegawai tanpa analisis",
+    "Menutup layanan sementara",
+    "Memetakan akar masalah: jumlah pemohon, kapasitas loket, SDM, sistem, dan alur layanan",
+    "Menaikkan syarat layanan",
+    "Memarahi petugas loket"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 93,
+   "section": "II",
+   "question": "Untuk mengurangi antrean layanan tatap muka secara berkelanjutan, kebijakan yang paling strategis adalah...",
+   "options": [
+    "Menghilangkan layanan cepat",
+    "Menutup loket pada jam sibuk",
+    "Membangun sistem antrean daring/pendaftaran online dan memperluas layanan digital",
+    "Menaikkan biaya layanan",
+    "Membatasi pemohon harian tanpa alternatif"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 94,
+   "section": "II",
+   "question": "Survei Kepuasan Masyarakat (SKM) sebaiknya dimanfaatkan pimpinan untuk...",
+   "options": [
+    "Dasar perbaikan layanan dan tindak lanjut terhadap unsur yang bernilai rendah",
+    "Pajangan penghargaan",
+    "Menyalahkan petugas",
+    "Sekadar memenuhi kewajiban pelaporan",
+    "Menentukan pegawai terbaik tanpa data lain"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 95,
+   "section": "II",
+   "question": "Hasil SKM menunjukkan unsur 'kecepatan waktu pelayanan' bernilai paling rendah. Tindak lanjut yang paling tepat adalah...",
+   "options": [
+    "Analisis alur dan SOP, penyederhanaan prosedur, penguatan sistem, dan pemantauan terukur",
+    "Memberi penghargaan pada petugas",
+    "Menambah syarat",
+    "Mengabaikan hasil",
+    "Mengubah angka survei"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 96,
+   "section": "II",
+   "question": "Dalam manajemen pelayanan, SOP yang baik harus...",
+   "options": [
+    "Jelas, terukur, mudah dipahami, dan dievaluasi berkala",
+    "Hanya diketahui atasan",
+    "Tidak perlu diperbarui",
+    "Rumit agar tertib",
+    "Bersifat rahasia"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 97,
+   "section": "II",
+   "question": "Penyederhanaan prosedur dalam pelayanan Adminduk dilakukan dengan cara...",
+   "options": [
+    "Mengeliminasi tahapan yang tidak bernilai tambah dan mengintegrasikan layanan",
+    "Menambah tahapan pemeriksaan",
+    "Menambah tanda tangan manual",
+    "Menambah petugas verifikasi tanpa alasan",
+    "Menambah dokumen persyaratan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 98,
+   "section": "II",
+   "question": "Mal Pelayanan Publik (MPP) memberi manfaat bagi Dukcapil terutama dalam hal...",
+   "options": [
+    "Menghilangkan fungsi dinas",
+    "Menambah retribusi",
+    "Integrasi layanan lintas instansi dalam satu lokasi sehingga mempermudah masyarakat",
+    "Mengambil alih kewenangan dinas",
+    "Menambah tarif layanan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 99,
+   "section": "II",
+   "question": "Dalam MPP, Dinas Dukcapil tetap bertanggung jawab atas...",
+   "options": [
+    "Pelayanan pajak",
+    "Kualitas, keabsahan, dan kerahasiaan produk layanan Adminduk",
+    "Pelayanan kesehatan",
+    "Pelayanan perizinan usaha",
+    "Pelayanan perbankan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 100,
+   "section": "II",
+   "question": "Penyelenggaraan MPP diatur dengan Peraturan Menteri PANRB No...",
+   "options": [
+    "90 Tahun 2021",
+    "25 Tahun 2020",
+    "92 Tahun 2021",
+    "17 Tahun 2017",
+    "14 Tahun 2017"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 101,
+   "section": "II",
+   "question": "Pengelolaan pengaduan yang baik mengharuskan setiap pengaduan...",
+   "options": [
+    "Diserahkan kepada pelapor",
+    "Hanya dijawab bila viral",
+    "Dihapus",
+    "Diabaikan jika tidak relevan",
+    "Dicatat, ditindaklanjuti, dan dijawab dalam jangka waktu yang ditetapkan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 102,
+   "section": "II",
+   "question": "SP4N-LAPOR! berfungsi...",
+   "options": [
+    "Mengelola pajak",
+    "Mengelola kepegawaian",
+    "Mengelola pemilu",
+    "Mengintegrasikan pengelolaan pengaduan pelayanan publik nasional",
+    "Mengelola keuangan daerah"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 103,
+   "section": "II",
+   "question": "Ketika sebuah pengaduan di media sosial menyatakan adanya pungli oleh oknum petugas, tindakan pimpinan yang tepat adalah...",
+   "options": [
+    "Menghapus unggahan",
+    "Segera menelusuri, mengklarifikasi, menindak sesuai aturan, dan menyampaikan hasil kepada publik secara tepat",
+    "Menyerang pelapor",
+    "Menyangkal tanpa verifikasi",
+    "Menunggu masalah reda"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 104,
+   "section": "II",
+   "question": "Zona Integritas menuju WBK/WBBM bertujuan...",
+   "options": [
+    "Memperoleh anggaran tambahan",
+    "Membangun unit kerja berintegritas, bebas korupsi, dan melayani prima",
+    "Menambah jabatan",
+    "Menaikkan tunjangan",
+    "Menghapus pengawasan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 105,
+   "section": "II",
+   "question": "Pembangunan Zona Integritas menekankan area perubahan, antara lain...",
+   "options": [
+    "Hanya pengawasan",
+    "Hanya SDM",
+    "Hanya anggaran",
+    "Manajemen perubahan, penataan tata laksana, penataan SDM, penguatan akuntabilitas, penguatan pengawasan, dan peningkatan kualitas pelayanan publik",
+    "Hanya sarana"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 106,
+   "section": "II",
+   "question": "Pemimpin unit pelayanan yang ingin membangun budaya antikorupsi sebaiknya...",
+   "options": [
+    "Menjadi teladan, membangun sistem pencegahan, dan menegakkan sanksi konsisten",
+    "Memberi imbauan saja",
+    "Mengandalkan slogan",
+    "Menunggu pengawasan eksternal",
+    "Menghukum bawahan tanpa sistem"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 107,
+   "section": "II",
+   "question": "Sistem pelaporan pelanggaran (whistleblowing system) yang efektif harus...",
+   "options": [
+    "Dipublikasikan identitas pelapor",
+    "Tidak ditanggapi",
+    "Hanya untuk pimpinan",
+    "Menjamin kerahasiaan dan perlindungan pelapor serta ditindaklanjuti",
+    "Menghukum pelapor"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 108,
+   "section": "II",
+   "question": "Gratifikasi dalam pelayanan Adminduk, yang diberikan sehubungan jabatan dan bertentangan kewajiban, harus...",
+   "options": [
+    "Dilaporkan ke KPK dalam batas waktu yang ditentukan",
+    "Diterima biasa",
+    "Dihabiskan untuk kegiatan dinas",
+    "Dibagikan ke pegawai",
+    "Disimpan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 109,
+   "section": "II",
+   "question": "Pengelolaan risiko dalam unit pelayanan dilakukan melalui...",
+   "options": [
+    "Menghindari seluruh inovasi",
+    "Identifikasi, analisis, evaluasi, dan mitigasi risiko secara sistematis",
+    "Menyembunyikan risiko",
+    "Menunggu risiko terjadi",
+    "Menyalahkan pihak lain"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 110,
+   "section": "II",
+   "question": "Sistem Pengendalian Intern Pemerintah (SPIP) diatur dengan...",
+   "options": [
+    "PP No. 40 Tahun 2019",
+    "PP No. 18 Tahun 2016",
+    "PP No. 12 Tahun 2017",
+    "PP No. 11 Tahun 2017",
+    "PP No. 60 Tahun 2008"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 111,
+   "section": "II",
+   "question": "Unsur SPIP meliputi...",
+   "options": [
+    "Hanya pelaporan",
+    "Lingkungan pengendalian, penilaian risiko, kegiatan pengendalian, informasi dan komunikasi, serta pemantauan",
+    "Hanya audit",
+    "Hanya pengawasan",
+    "Hanya anggaran"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 112,
+   "section": "II",
+   "question": "Aparat Pengawasan Intern Pemerintah (APIP) di daerah adalah...",
+   "options": [
+    "Satpol PP",
+    "Inspektorat Daerah",
+    "Dinas Dukcapil",
+    "BPKAD",
+    "Bappeda"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 113,
+   "section": "II",
+   "question": "Temuan hasil pemeriksaan BPK terhadap pengelolaan anggaran dinas harus...",
+   "options": [
+    "Ditunda",
+    "Disembunyikan",
+    "Dibantah tanpa data",
+    "Ditindaklanjuti sesuai rekomendasi dalam batas waktu yang ditentukan",
+    "Diabaikan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 114,
+   "section": "II",
+   "question": "Sebuah aplikasi layanan daring dikembangkan oleh dinas tetapi tidak menarik pengguna. Evaluasi yang paling tepat adalah...",
+   "options": [
+    "Menambah aplikasi baru tanpa kajian",
+    "Menunggu viral",
+    "Menyalahkan masyarakat",
+    "Mengevaluasi kebutuhan pengguna, kemudahan akses, sosialisasi, dan integrasi layanan",
+    "Menghentikan semua layanan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 115,
+   "section": "II",
+   "question": "Prinsip human-centered design dalam pelayanan publik berarti...",
+   "options": [
+    "Berfokus pada anggaran",
+    "Merancang layanan dengan berfokus pada kebutuhan dan pengalaman pengguna",
+    "Berfokus pada atasan",
+    "Berfokus pada citra",
+    "Berfokus pada kemudahan petugas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 116,
+   "section": "II",
+   "question": "Hal pertama yang perlu dilakukan sebelum menggagas inovasi layanan adalah...",
+   "options": [
+    "Membuat acara peluncuran",
+    "Membuat aplikasi",
+    "Membuat spanduk",
+    "Mengidentifikasi masalah dan kebutuhan masyarakat secara berbasis data",
+    "Membuat logo"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 117,
+   "section": "II",
+   "question": "Inovasi pelayanan publik yang berkelanjutan memerlukan...",
+   "options": [
+    "Hanya penghargaan",
+    "Hanya aplikasi",
+    "Hanya ide",
+    "Hanya pimpinan",
+    "Dukungan regulasi, SDM, anggaran, dan sistem pemantauan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 118,
+   "section": "II",
+   "question": "Kolaborasi pentahelix dalam pengembangan layanan Adminduk melibatkan...",
+   "options": [
+    "Hanya pemerintah",
+    "Pemerintah, akademisi, dunia usaha, komunitas, dan media",
+    "Hanya media",
+    "Hanya swasta",
+    "Hanya akademisi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 119,
+   "section": "II",
+   "question": "Pemanfaatan pihak swasta dalam pengembangan layanan Adminduk harus tetap memastikan...",
+   "options": [
+    "Data diberikan tanpa batas",
+    "Kedaulatan dan kerahasiaan data tetap berada pada pemerintah",
+    "Data dikuasai swasta",
+    "Data dibuka bebas",
+    "Data dijual swasta"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 120,
+   "section": "II",
+   "question": "Interoperabilitas sistem informasi pemerintah berarti...",
+   "options": [
+    "Kemampuan sistem berbeda untuk saling bertukar dan memanfaatkan data",
+    "Sistem yang berdiri sendiri",
+    "Sistem tertutup",
+    "Satu sistem untuk semua tanpa integrasi",
+    "Sistem manual"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 121,
+   "section": "II",
+   "question": "Arsitektur SPBE di daerah mengharuskan...",
+   "options": [
+    "Pembuatan aplikasi bebas tanpa koordinasi",
+    "Penghapusan standar",
+    "Penyelarasan aplikasi, data, infrastruktur, dan keamanan dengan kebijakan nasional",
+    "Duplikasi aplikasi",
+    "Penggunaan aplikasi asing saja"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 122,
+   "section": "II",
+   "question": "Dinas yang membangun aplikasi sendiri tanpa koordinasi berisiko menimbulkan...",
+   "options": [
+    "Keamanan",
+    "Integrasi",
+    "Efisiensi",
+    "Penghematan",
+    "Duplikasi, inefisiensi anggaran, dan data tidak terintegrasi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 123,
+   "section": "II",
+   "question": "Jika terdapat dua aplikasi yang memiliki fungsi serupa di daerah, kebijakan yang tepat adalah...",
+   "options": [
+    "Melakukan konsolidasi dan integrasi untuk menghindari duplikasi",
+    "Menambah aplikasi baru",
+    "Menghapus keduanya",
+    "Menjual aplikasi",
+    "Membiarkan keduanya"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 124,
+   "section": "II",
+   "question": "Keberhasilan transformasi digital organisasi lebih ditentukan oleh...",
+   "options": [
+    "Kepemimpinan, budaya, dan kompetensi SDM selain teknologi",
+    "Perangkat keras semata",
+    "Teknologi semata",
+    "Anggaran semata",
+    "Jumlah aplikasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 125,
+   "section": "II",
+   "question": "Strategi peningkatan kompetensi digital pegawai Dukcapil antara lain...",
+   "options": [
+    "Menunggu pegawai belajar sendiri",
+    "Membatasi akses teknologi",
+    "Pelatihan, pendampingan, dan sertifikasi sesuai kebutuhan jabatan",
+    "Mengganti seluruh pegawai",
+    "Menghentikan pelatihan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 126,
+   "section": "II",
+   "question": "Business continuity plan (BCP) diperlukan agar...",
+   "options": [
+    "Layanan tetap berjalan saat terjadi gangguan sistem atau bencana",
+    "Biaya naik",
+    "Data dihapus",
+    "Layanan dihentikan",
+    "Pegawai dikurangi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 127,
+   "section": "II",
+   "question": "Disaster recovery center (DRC) pada sistem Adminduk berfungsi...",
+   "options": [
+    "Memulihkan data dan layanan setelah gangguan besar",
+    "Menyimpan dokumen cetak",
+    "Menyimpan kendaraan",
+    "Menyimpan arsip lama",
+    "Menyimpan pegawai"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 128,
+   "section": "II",
+   "question": "Dalam situasi jaringan terputus di daerah terpencil, solusi layanan yang sesuai adalah...",
+   "options": [
+    "Menolak penduduk",
+    "Mekanisme luring terkendali yang dapat disinkronkan saat jaringan pulih",
+    "Memindahkan penduduk",
+    "Menunggu bantuan",
+    "Menghentikan layanan berbulan-bulan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 129,
+   "section": "II",
+   "question": "Kontribusi Dukcapil terhadap program perlindungan sosial berbasis data adalah...",
+   "options": [
+    "Menolak berbagi data",
+    "Menyediakan data kependudukan valid sebagai dasar penetapan penerima manfaat",
+    "Menyalurkan bantuan",
+    "Menetapkan penerima secara sepihak",
+    "Menjual data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 130,
+   "section": "II",
+   "question": "Data kependudukan yang tidak mutakhir berdampak pada program bantuan sosial berupa...",
+   "options": [
+    "Salah sasaran (inclusion dan exclusion error)",
+    "Pertumbuhan ekonomi",
+    "Tepat sasaran",
+    "Kepuasan meningkat",
+    "Hemat anggaran"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 131,
+   "section": "II",
+   "question": "Penghapusan data kependudukan penduduk meninggal memerlukan...",
+   "options": [
+    "Surat dokter semata",
+    "Berita media",
+    "Akta kematian atau dokumen pendukung yang sah",
+    "Pernyataan lisan",
+    "Surat RT"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 132,
+   "section": "II",
+   "question": "Pembersihan data kependudukan (data cleansing) dilakukan antara lain terhadap...",
+   "options": [
+    "Data aset",
+    "Data pegawai",
+    "Data keuangan",
+    "NIK ganda, data tidak lengkap, dan data tidak valid",
+    "Data yang sudah benar"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 133,
+   "section": "II",
+   "question": "Untuk menjaga kualitas data, mekanisme paling efektif adalah...",
+   "options": [
+    "Validasi di titik masuk, pemutakhiran berkala, dan pemadanan dengan sumber lain",
+    "Menunggu laporan",
+    "Mengandalkan RT",
+    "Mengabaikan",
+    "Mengganti NIK"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 134,
+   "section": "II",
+   "question": "Penetapan Target 'Zero NIK ganda' lebih tepat dikategorikan sebagai...",
+   "options": [
+    "Sasaran politik",
+    "Sasaran keuangan",
+    "Sasaran kepegawaian",
+    "Sasaran kinerja kualitas data",
+    "Sasaran sarana"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 135,
+   "section": "II",
+   "question": "Dalam perspektif manajemen, rasio petugas layanan terhadap jumlah pemohon merupakan ukuran...",
+   "options": [
+    "Akuntabilitas",
+    "Kepuasan",
+    "Kapasitas layanan",
+    "Integritas",
+    "Inovasi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 136,
+   "section": "II",
+   "question": "Penyusunan standar waktu layanan yang realistis harus mempertimbangkan...",
+   "options": [
+    "Beban kerja, kapasitas SDM, dan teknologi",
+    "Kebiasaan lama",
+    "Target politis semata",
+    "Keinginan atasan semata",
+    "Anggaran semata"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 137,
+   "section": "II",
+   "question": "Pengukuran kinerja layanan sebaiknya menggunakan indikator...",
+   "options": [
+    "Anggaran saja",
+    "Proses saja",
+    "Input saja",
+    "Input, proses, output, dan outcome",
+    "Output saja"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 138,
+   "section": "II",
+   "question": "Contoh indikator outcome layanan Adminduk adalah...",
+   "options": [
+    "Jumlah anggaran",
+    "Jumlah rapat",
+    "Jumlah kantor",
+    "Jumlah pegawai",
+    "Meningkatnya kepemilikan dokumen kependudukan dan akurasi data"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 139,
+   "section": "II",
+   "question": "Contoh indikator output layanan Adminduk adalah...",
+   "options": [
+    "Jumlah dokumen kependudukan yang diterbitkan",
+    "Meningkatnya IPM",
+    "Menurunnya kemiskinan",
+    "Meningkatnya kepercayaan",
+    "Tingkat kepuasan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 140,
+   "section": "II",
+   "question": "Contoh indikator input layanan Adminduk adalah...",
+   "options": [
+    "Kepuasan masyarakat",
+    "Anggaran, SDM, dan sarana prasarana yang digunakan",
+    "Jumlah dokumen terbit",
+    "Dampak sosial",
+    "Akurasi data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 141,
+   "section": "II",
+   "question": "Benchmarking dalam peningkatan layanan berarti...",
+   "options": [
+    "Menyembunyikan praktik",
+    "Menghentikan layanan",
+    "Menyaingi unit lain",
+    "Menyalin tanpa analisis",
+    "Membandingkan praktik terbaik dengan unit/daerah lain untuk perbaikan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 142,
+   "section": "II",
+   "question": "Lean management dalam pelayanan publik bertujuan...",
+   "options": [
+    "Mengurangi pegawai",
+    "Menambah birokrasi",
+    "Mengurangi pemborosan dan meningkatkan nilai bagi pengguna layanan",
+    "Menghapus layanan",
+    "Menaikkan biaya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 143,
+   "section": "II",
+   "question": "Penerapan SOP elektronik (e-SOP) membantu...",
+   "options": [
+    "Konsistensi, transparansi, dan akuntabilitas prosedur",
+    "Menghilangkan SOP",
+    "Mengurangi kontrol",
+    "Menghilangkan pengawasan",
+    "Menambah dokumen"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 144,
+   "section": "II",
+   "question": "Pelayanan 'jemput bola' ke desa-desa memerlukan perencanaan yang matang berupa...",
+   "options": [
+    "Tanpa koordinasi",
+    "Tanpa anggaran",
+    "Menunggu undangan",
+    "Spontanitas",
+    "Penjadwalan, logistik, SDM, koneksi, dan koordinasi dengan pemerintah desa"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 145,
+   "section": "II",
+   "question": "Kolaborasi dengan pemerintah desa dalam Adminduk dilakukan dengan...",
+   "options": [
+    "Mengabaikan desa",
+    "Menghapus peran desa",
+    "Menutup akses desa",
+    "Mengambil alih fungsi desa",
+    "Pelatihan operator desa dan pemanfaatan sistem pendaftaran berbasis desa"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 146,
+   "section": "II",
+   "question": "Konsep 'Satu Pintu Satu Data Satu Layanan' dalam konteks Adminduk berarti...",
+   "options": [
+    "Layanan hanya satu hari",
+    "Layanan terintegrasi dengan data tunggal yang konsisten",
+    "Layanan hanya satu aplikasi",
+    "Layanan hanya satu loket",
+    "Layanan hanya satu petugas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 147,
+   "section": "II",
+   "question": "Pelayanan Adminduk bagi penduduk yang berada di lembaga pemasyarakatan dan panti sosial dilakukan dengan...",
+   "options": [
+    "Mengenakan biaya",
+    "Menolak layanan",
+    "Menunda tanpa batas",
+    "Kerja sama dengan pengelola dan layanan khusus di lokasi",
+    "Menunggu bebas"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 148,
+   "section": "II",
+   "question": "Pencatatan kelahiran bagi anak yang lahir di fasilitas kesehatan sebaiknya difasilitasi...",
+   "options": [
+    "Menunggu sekolah",
+    "Menunggu laporan",
+    "Sejak dini melalui integrasi dengan fasilitas kesehatan",
+    "Setelah dewasa",
+    "Menunggu pernikahan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 149,
+   "section": "II",
+   "question": "Sinergi dengan sekolah dalam program KIA bermanfaat untuk...",
+   "options": [
+    "Menambah beban sekolah",
+    "Mengurangi jam belajar",
+    "Menjangkau anak usia sekolah secara efektif dan mempercepat cakupan KIA",
+    "Menaikkan biaya",
+    "Menghapus tugas sekolah"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 150,
+   "section": "II",
+   "question": "Penguatan peran kecamatan dalam pelayanan Adminduk dilakukan melalui...",
+   "options": [
+    "Pelimpahan kewenangan tertentu secara terukur disertai pembinaan",
+    "Penghapusan peran",
+    "Pengabaian",
+    "Pengambilalihan penuh",
+    "Pembatasan akses"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 151,
+   "section": "II",
+   "question": "Perubahan nomenklatur perangkat daerah mengikuti...",
+   "options": [
+    "PP tentang Perangkat Daerah dan peraturan terkait",
+    "Kebiasaan",
+    "Keinginan dinas",
+    "Aspirasi pegawai",
+    "Keputusan camat"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 152,
+   "section": "II",
+   "question": "Pembentukan UPTD layanan Adminduk di daerah bertujuan...",
+   "options": [
+    "Mendekatkan layanan dan mempermudah akses",
+    "Menghilangkan dinas",
+    "Menambah birokrasi",
+    "Memperumit alur",
+    "Menambah biaya"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 153,
+   "section": "II",
+   "question": "Pertimbangan membentuk UPTD layanan Adminduk adalah...",
+   "options": [
+    "Keinginan atasan semata",
+    "Anggaran semata",
+    "Tradisi",
+    "Jumlah pegawai semata",
+    "Beban kerja, luas wilayah, jumlah penduduk, dan kapasitas anggaran"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 154,
+   "section": "II",
+   "question": "Peta jabatan pada dinas Dukcapil disusun berdasarkan...",
+   "options": [
+    "Analisis jabatan dan analisis beban kerja",
+    "Kebiasaan",
+    "Keinginan pimpinan",
+    "Senioritas",
+    "Pertemanan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 155,
+   "section": "II",
+   "question": "Pola mutasi pegawai yang sesuai sistem merit didasarkan pada...",
+   "options": [
+    "Kualifikasi, kompetensi, dan kinerja",
+    "Hubungan kekerabatan",
+    "Keinginan pimpinan",
+    "Senioritas semata",
+    "Kedekatan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 156,
+   "section": "II",
+   "question": "Pembinaan pegawai yang berkinerja rendah dilakukan dengan...",
+   "options": [
+    "Pembiaran",
+    "Evaluasi, pembinaan, pelatihan, dan bila perlu sanksi sesuai aturan",
+    "Pemindahan sembarang",
+    "Pemecatan langsung",
+    "Pengucilan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 157,
+   "section": "II",
+   "question": "Sasaran Kinerja Pegawai (SKP) mengharuskan...",
+   "options": [
+    "Target rahasia",
+    "Target pribadi tanpa kaitan",
+    "Target tidak terukur",
+    "Kesesuaian dengan kinerja organisasi dan indikator terukur",
+    "Target asal"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 158,
+   "section": "II",
+   "question": "Penilaian kinerja ASN yang objektif membutuhkan...",
+   "options": [
+    "Penilaian tahunan tanpa pemantauan",
+    "Penilaian subjektif",
+    "Penilaian atasan saja tanpa data",
+    "Indikator jelas, data pendukung, dan umpan balik berkala",
+    "Penilaian rekan semata"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 159,
+   "section": "II",
+   "question": "Sistem merit dalam manajemen ASN menurut UU 20/2023 mengutamakan...",
+   "options": [
+    "Kualifikasi, kompetensi, dan kinerja secara adil dan wajar tanpa diskriminasi",
+    "Kedekatan",
+    "Hubungan politik",
+    "Senioritas",
+    "Suku dan agama"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 160,
+   "section": "II",
+   "question": "Seleksi terbuka Jabatan Pimpinan Tinggi (JPT) Pratama bertujuan...",
+   "options": [
+    "Menghabiskan anggaran",
+    "Menguji hafalan",
+    "Mendapatkan pejabat yang kompeten, berintegritas, dan berkinerja melalui proses transparan dan kompetitif",
+    "Menempatkan orang tertentu",
+    "Mengumpulkan peserta"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 161,
+   "section": "II",
+   "question": "Kompetensi manajerial JPT Pratama antara lain...",
+   "options": [
+    "Hanya integritas",
+    "Integritas, kerja sama, komunikasi, orientasi pada hasil, pelayanan publik, pengembangan diri dan orang lain, mengelola perubahan, pengambilan keputusan",
+    "Hanya orientasi hasil",
+    "Hanya kerja sama",
+    "Hanya komunikasi"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 162,
+   "section": "II",
+   "question": "Kompetensi sosial kultural dalam JPT Pratama berkaitan dengan...",
+   "options": [
+    "Kemampuan keuangan semata",
+    "Kemampuan hukum semata",
+    "Kemampuan membangun hubungan dengan keragaman masyarakat dan perekat bangsa",
+    "Kemampuan teknis semata",
+    "Kemampuan IT semata"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 163,
+   "section": "II",
+   "question": "Seorang pimpinan perangkat daerah dituntut memiliki kemampuan...",
+   "options": [
+    "Kemampuan administrasi saja",
+    "Perencanaan strategis, pengambilan keputusan berbasis data, dan akuntabilitas",
+    "Kemampuan komunikasi saja",
+    "Kemampuan keuangan saja",
+    "Kemampuan teknis operasional saja"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 164,
+   "section": "II",
+   "question": "Fungsi pimpinan dalam manajemen strategis perangkat daerah meliputi...",
+   "options": [
+    "Perumusan visi-misi, penetapan sasaran, pengendalian, dan evaluasi",
+    "Hanya pengawasan",
+    "Hanya pelaporan",
+    "Hanya pelaksanaan",
+    "Hanya perencanaan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 165,
+   "section": "II",
+   "question": "Analisis SWOT dalam penyusunan Renstra bermanfaat untuk...",
+   "options": [
+    "Memetakan kekuatan, kelemahan, peluang, dan ancaman organisasi",
+    "Mengukur aset",
+    "Mengukur biaya",
+    "Mengukur absensi",
+    "Mengukur gaji"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 166,
+   "section": "II",
+   "question": "Balanced Scorecard dapat diterapkan di sektor publik untuk...",
+   "options": [
+    "Hanya proses",
+    "Hanya pelanggan",
+    "Mengukur kinerja dari perspektif pelanggan, proses internal, pembelajaran dan pertumbuhan, serta keuangan",
+    "Hanya keuangan",
+    "Hanya SDM"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 167,
+   "section": "II",
+   "question": "Teori perubahan Kotter menekankan langkah pertama...",
+   "options": [
+    "Mengganti pegawai",
+    "Menciptakan rasa urgensi",
+    "Mengakhiri perubahan",
+    "Menghapus budaya",
+    "Merayakan keberhasilan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 168,
+   "section": "II",
+   "question": "Resistensi pegawai terhadap perubahan sebaiknya dihadapi dengan...",
+   "options": [
+    "Pemecatan",
+    "Penundaan",
+    "Ancaman",
+    "Pengabaian",
+    "Komunikasi, pelibatan, dan pendampingan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 169,
+   "section": "II",
+   "question": "Tahapan dalam siklus PDCA adalah...",
+   "options": [
+    "Plan, Do, Check, Act",
+    "Plan, Develop, Create, Apply",
+    "Predict, Decide, Choose, Act",
+    "Prepare, Deliver, Close, Audit",
+    "Plan, Delay, Control, Approve"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 170,
+   "section": "II",
+   "question": "Pengambilan keputusan strategis yang baik berbasis pada...",
+   "options": [
+    "Kepentingan pribadi",
+    "Tekanan",
+    "Data, analisis, partisipasi pemangku kepentingan, dan pertimbangan risiko",
+    "Kebiasaan",
+    "Intuisi semata"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 171,
+   "section": "II",
+   "question": "Prinsip akuntabilitas bagi pimpinan berarti...",
+   "options": [
+    "Menyembunyikan informasi",
+    "Mengalihkan kewenangan",
+    "Menyalahkan bawahan",
+    "Menghindari tanggung jawab",
+    "Siap mempertanggungjawabkan kebijakan dan hasil kepada atasan dan publik"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 172,
+   "section": "II",
+   "question": "Transparansi layanan Adminduk diwujudkan antara lain dengan...",
+   "options": [
+    "Menyembunyikan alur",
+    "Publikasi standar layanan, alur, waktu, dan kanal pengaduan",
+    "Menyembunyikan biaya",
+    "Menyembunyikan data kinerja",
+    "Menyembunyikan persyaratan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 173,
+   "section": "II",
+   "question": "Dalam melaksanakan layanan, kepatuhan terhadap kode etik ASN mencakup...",
+   "options": [
+    "Integritas, netralitas, dan profesionalisme",
+    "Kepentingan golongan",
+    "Kepentingan politik",
+    "Kedekatan pribadi",
+    "Orientasi keuntungan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 174,
+   "section": "II",
+   "question": "Netralitas ASN dalam pemilu/pilkada berarti...",
+   "options": [
+    "Memberi data ke tim sukses",
+    "Mengampanyekan calon",
+    "Mendukung calon tertentu",
+    "Tidak berpihak pada calon atau partai politik dan tidak memanfaatkan jabatan",
+    "Menggunakan fasilitas kantor"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 175,
+   "section": "II",
+   "question": "Konflik kepentingan dalam pelayanan muncul ketika...",
+   "options": [
+    "Data valid",
+    "Layanan sesuai standar",
+    "Kepentingan pribadi berpotensi memengaruhi keputusan jabatan",
+    "Pegawai bekerja sesuai SOP",
+    "Pimpinan mengambil keputusan berdasarkan aturan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 176,
+   "section": "II",
+   "question": "Cara terbaik mengelola konflik kepentingan adalah...",
+   "options": [
+    "Menyembunyikan",
+    "Mengabaikan",
+    "Menyalahkan pihak lain",
+    "Mengungkapkan dan menghindari keterlibatan dalam keputusan terkait",
+    "Memanfaatkan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 177,
+   "section": "II",
+   "question": "Evaluasi program yang baik menyajikan temuan untuk...",
+   "options": [
+    "Menyalahkan",
+    "Dasar perbaikan kebijakan dan pengambilan keputusan berikutnya",
+    "Arsip semata",
+    "Menunda",
+    "Pajangan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 178,
+   "section": "II",
+   "question": "Evidence-based policy berarti...",
+   "options": [
+    "Kebijakan berdasarkan tekanan",
+    "Kebijakan berdasarkan tradisi",
+    "Kebijakan dirumuskan berdasarkan bukti dan data yang valid",
+    "Kebijakan berdasarkan kedekatan",
+    "Kebijakan berdasarkan opini"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 179,
+   "section": "II",
+   "question": "Dalam krisis kepercayaan publik akibat kasus penyalahgunaan data, langkah komunikasi krisis yang tepat adalah...",
+   "options": [
+    "Menunggu reda",
+    "Menyangkal",
+    "Cepat, jujur, terbuka, dan menyampaikan langkah perbaikan",
+    "Diam",
+    "Menyalahkan pihak lain"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 180,
+   "section": "II",
+   "question": "Prinsip layanan prima (service excellence) mencakup...",
+   "options": [
+    "Hanya perhatian",
+    "Hanya penampilan",
+    "Sikap, perhatian, tindakan, kemampuan, penampilan, dan tanggung jawab",
+    "Hanya kecepatan",
+    "Hanya sikap"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 181,
+   "section": "III",
+   "question": "Batas waktu pelaporan kelahiran oleh penduduk kepada Instansi Pelaksana adalah paling lambat...",
+   "options": [
+    "60 hari sejak kelahiran",
+    "1 tahun sejak kelahiran",
+    "30 hari sejak kelahiran",
+    "90 hari sejak kelahiran",
+    "14 hari sejak kelahiran"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 182,
+   "section": "III",
+   "question": "Batas waktu pelaporan kematian kepada Instansi Pelaksana adalah paling lambat...",
+   "options": [
+    "7 hari sejak kematian",
+    "30 hari sejak kematian",
+    "1 tahun sejak kematian",
+    "60 hari sejak kematian",
+    "90 hari sejak kematian"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 183,
+   "section": "III",
+   "question": "Perkawinan yang sah wajib dilaporkan paling lambat...",
+   "options": [
+    "60 hari sejak tanggal perkawinan",
+    "7 hari",
+    "1 tahun",
+    "30 hari",
+    "14 hari"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 184,
+   "section": "III",
+   "question": "Perceraian wajib dilaporkan paling lambat...",
+   "options": [
+    "30 hari sebelum putusan",
+    "1 tahun",
+    "14 hari",
+    "7 hari",
+    "60 hari setelah putusan pengadilan berkekuatan hukum tetap"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 185,
+   "section": "III",
+   "question": "Pengangkatan anak wajib dilaporkan paling lambat...",
+   "options": [
+    "60 hari",
+    "90 hari",
+    "7 hari",
+    "1 tahun",
+    "30 hari sejak diterimanya salinan penetapan pengadilan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 186,
+   "section": "III",
+   "question": "Pencatatan kelahiran bagi anak yang tidak diketahui asal-usulnya atau keberadaan orang tuanya dilakukan berdasarkan...",
+   "options": [
+    "Pernyataan tetangga",
+    "Surat camat",
+    "Putusan MK",
+    "Surat RT",
+    "Laporan orang yang menemukan anak tersebut dan berita acara pemeriksaan kepolisian"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 187,
+   "section": "III",
+   "question": "Seorang bayi ditemukan di depan masjid tanpa identitas orang tua. Langkah administratif yang paling tepat adalah...",
+   "options": [
+    "Mengabaikan",
+    "Menunggu orang tua datang",
+    "Melapor ke kepolisian dan mencatatkan kelahiran berdasarkan laporan penemu serta berita acara",
+    "Mencatat tanpa dokumen",
+    "Menolak pencatatan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 188,
+   "section": "III",
+   "question": "Akta kelahiran anak yang lahir di luar perkawinan yang sah memuat...",
+   "options": [
+    "Nama ibu; nama ayah dicantumkan sesuai ketentuan hukum yang berlaku",
+    "Nama ayah saja",
+    "Nama wali",
+    "Nama kakek",
+    "Tidak ada nama orang tua"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 189,
+   "section": "III",
+   "question": "Putusan MK terkait anak di luar perkawinan menegaskan bahwa anak tersebut...",
+   "options": [
+    "Hanya dengan wali",
+    "Hanya dengan ibu",
+    "Tidak memiliki hubungan dengan siapa pun",
+    "Memiliki hubungan perdata dengan ibu dan ayah biologisnya yang dapat dibuktikan secara ilmiah/hukum",
+    "Hanya dengan ayah"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 190,
+   "section": "III",
+   "question": "Perubahan nama pada akta kelahiran dapat dilakukan setelah ada...",
+   "options": [
+    "Surat desa",
+    "Penetapan pengadilan negeri",
+    "Surat camat",
+    "Surat dinas",
+    "Surat RT"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 191,
+   "section": "III",
+   "question": "Pembetulan kesalahan penulisan nama pada akta kelahiran dilakukan...",
+   "options": [
+    "Dengan surat RT",
+    "Dengan membayar",
+    "Dengan penghapusan manual",
+    "Dengan merobek akta",
+    "Berdasarkan dokumen autentik pendukung dan sesuai prosedur pada Instansi Pelaksana"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 192,
+   "section": "III",
+   "question": "Pembatalan akta pencatatan sipil dilakukan berdasarkan...",
+   "options": [
+    "Kebijakan kepala dinas",
+    "Putusan pengadilan",
+    "Surat dinas",
+    "Permintaan lisan",
+    "Surat RT"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 193,
+   "section": "III",
+   "question": "Penduduk yang mengajukan penerbitan akta kelahiran yang lahir sebelum UU Adminduk namun belum pernah dicatat dapat dilayani...",
+   "options": [
+    "Dengan sanksi",
+    "Dengan persyaratan sesuai ketentuan peraturan, termasuk saksi dan SPTJM bila diperlukan",
+    "Dengan penolakan",
+    "Dengan biaya",
+    "Dengan pengadilan wajib"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 194,
+   "section": "III",
+   "question": "Dalam pencatatan kelahiran, surat keterangan kelahiran dapat berasal dari...",
+   "options": [
+    "Pegawai pos",
+    "Dokter, bidan, penolong kelahiran, atau kepala desa/lurah",
+    "Pegawai bank",
+    "Notaris",
+    "Pengacara"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 195,
+   "section": "III",
+   "question": "Pernyataan yang tepat tentang akta kelahiran adalah...",
+   "options": [
+    "Hanya untuk anak orang kaya",
+    "Hanya untuk anak PNS",
+    "Merupakan hak setiap anak dan bukti autentik status hukum kelahiran",
+    "Hanya untuk usia sekolah",
+    "Hanya untuk anak laki-laki"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 196,
+   "section": "III",
+   "question": "Dalam perspektif perlindungan anak, akta kelahiran penting karena...",
+   "options": [
+    "Menjadi syarat menikah saja",
+    "Menjadi syarat pajak",
+    "Menjadi syarat paspor saja",
+    "Menjamin identitas, status hukum, dan akses layanan dasar anak",
+    "Menjadi syarat KTP saja"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 197,
+   "section": "III",
+   "question": "Kebijakan 'Gerakan Indonesia Sadar Adminduk' (GISA) bertujuan...",
+   "options": [
+    "Menaikkan biaya",
+    "Mengurangi pelayanan",
+    "Menghapus dokumen",
+    "Meningkatkan kesadaran masyarakat memiliki dan memperbarui dokumen kependudukan",
+    "Mengganti NIK"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 198,
+   "section": "III",
+   "question": "Kegiatan penjangkauan (outreach) pencatatan sipil di sekolah dan posyandu dimaksudkan untuk...",
+   "options": [
+    "Menambah beban sekolah",
+    "Mendekatkan layanan pada kelompok yang sulit menjangkau kantor dinas",
+    "Menghapus posyandu",
+    "Mengurangi layanan",
+    "Menunda layanan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 199,
+   "section": "III",
+   "question": "Kematian orang yang tidak jelas keberadaannya (hilang) dicatat berdasarkan...",
+   "options": [
+    "Berita media",
+    "Surat camat",
+    "Penetapan pengadilan",
+    "Surat RT",
+    "Pernyataan keluarga"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 200,
+   "section": "III",
+   "question": "Kematian akibat bencana alam yang menimbulkan banyak korban dapat dicatat berdasarkan...",
+   "options": [
+    "Cukup pernyataan lisan",
+    "Berita media saja",
+    "Hanya putusan pengadilan wajib",
+    "Tidak perlu dicatat",
+    "Keterangan yang sah dari pihak berwenang dan saksi sesuai ketentuan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 201,
+   "section": "III",
+   "question": "Pelaporan kematian WNI di luar negeri dilakukan kepada...",
+   "options": [
+    "Hanya Dukcapil kabupaten",
+    "Hanya polisi",
+    "Perwakilan RI setempat dan selanjutnya dicatat di Indonesia sesuai ketentuan",
+    "Hanya Imigrasi",
+    "Hanya RT"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 202,
+   "section": "III",
+   "question": "Perkawinan WNI di luar negeri harus dicatatkan di Indonesia dengan cara...",
+   "options": [
+    "Mengulang pernikahan",
+    "Tidak perlu dicatat",
+    "Menunggu 5 tahun",
+    "Melapor ke RT",
+    "Melapor ke Instansi Pelaksana setelah kembali ke Indonesia dengan membawa bukti perkawinan dari luar negeri"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 203,
+   "section": "III",
+   "question": "Perkawinan campuran adalah perkawinan antara...",
+   "options": [
+    "Dua WNI berbeda agama",
+    "WNI dan WNA",
+    "Dua WNI berbeda daerah",
+    "Dua WNA",
+    "Dua WNI berbeda suku"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 204,
+   "section": "III",
+   "question": "Status kewarganegaraan anak hasil perkawinan campuran diatur dalam...",
+   "options": [
+    "UU Perpajakan",
+    "UU Kewarganegaraan (UU 12/2006)",
+    "UU Perkebunan",
+    "UU Kepegawaian",
+    "UU Pemilu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 205,
+   "section": "III",
+   "question": "Anak berkewarganegaraan ganda terbatas harus memilih kewarganegaraan pada usia...",
+   "options": [
+    "18 tahun atau sudah kawin, paling lambat 3 tahun setelahnya sesuai UU Kewarganegaraan",
+    "10 tahun",
+    "21 tahun",
+    "17 tahun",
+    "25 tahun"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 206,
+   "section": "III",
+   "question": "Pencatatan peristiwa penting bagi WNA yang berada di Indonesia dilakukan dengan...",
+   "options": [
+    "Tanpa dokumen",
+    "Dengan pengadilan wajib",
+    "Menolak pencatatan",
+    "Berdasarkan dokumen yang sah, termasuk dokumen perjalanan dan izin tinggal, sesuai ketentuan",
+    "Tanpa laporan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 207,
+   "section": "III",
+   "question": "Hak orang asing dalam pencatatan sipil di Indonesia antara lain...",
+   "options": [
+    "Memperoleh hak pilih",
+    "Memperoleh pencatatan peristiwa penting yang dialaminya di Indonesia",
+    "Memperoleh NIK tanpa izin",
+    "Memperoleh KTP-el otomatis",
+    "Tidak ada hak"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 208,
+   "section": "III",
+   "question": "Penerbitan akta kematian bagi WNA yang meninggal di Indonesia...",
+   "options": [
+    "Dibatalkan",
+    "Ditolak",
+    "Dikenai pidana",
+    "Ditunda",
+    "Dilakukan atas laporan sesuai ketentuan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 209,
+   "section": "III",
+   "question": "Peristiwa penting lainnya yang dapat dicatat berdasarkan penetapan pengadilan antara lain...",
+   "options": [
+    "Perubahan pekerjaan",
+    "Perubahan nomor telepon",
+    "Perubahan alamat",
+    "Perubahan jenis kelamin",
+    "Perubahan hobi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 210,
+   "section": "III",
+   "question": "Pencatatan perubahan jenis kelamin dilakukan setelah ada...",
+   "options": [
+    "Surat desa",
+    "Surat dokter",
+    "Surat RT",
+    "Penetapan pengadilan negeri",
+    "Surat camat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 211,
+   "section": "III",
+   "question": "Perubahan nama pada KTP-el dan KK setelah akta kelahiran diperbaiki dilakukan...",
+   "options": [
+    "Dengan surat RT",
+    "Dengan biaya",
+    "Secara berurutan menyesuaikan dokumen dasar yang sah",
+    "Tanpa dokumen",
+    "Terlebih dahulu pada KTP"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 212,
+   "section": "III",
+   "question": "Prinsip bahwa dokumen kependudukan harus bersumber dari dokumen dasar yang sah berarti...",
+   "options": [
+    "Cukup pengakuan pemohon",
+    "Setiap perubahan data harus didukung dokumen autentik",
+    "Cukup keterangan lisan",
+    "Cukup foto",
+    "Cukup surat RT"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 213,
+   "section": "III",
+   "question": "Dalam pelayanan, penolakan permohonan harus...",
+   "options": [
+    "Tanpa dasar hukum",
+    "Disertai alasan tertulis dan dasar hukum",
+    "Disembunyikan",
+    "Lisan saja",
+    "Tanpa alasan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 214,
+   "section": "III",
+   "question": "Jika pemohon tidak puas atas keputusan Dinas, jalur penyelesaian sengketa yang tersedia antara lain...",
+   "options": [
+    "Pengaduan ke RT",
+    "Demonstrasi",
+    "Keberatan/banding administratif dan gugatan ke PTUN",
+    "Pengaduan ke desa",
+    "Tidak ada"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 215,
+   "section": "III",
+   "question": "Ombudsman RI berwenang menerima laporan masyarakat terkait...",
+   "options": [
+    "Dugaan maladministrasi dalam pelayanan publik",
+    "Perkara pidana",
+    "Perkara perdata",
+    "Sengketa pemilu",
+    "Pajak"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 216,
+   "section": "III",
+   "question": "Dalam pelayanan perceraian, Dinas Dukcapil wajib memastikan...",
+   "options": [
+    "Surat desa",
+    "Kesepakatan keluarga",
+    "Persetujuan RT",
+    "Surat gereja",
+    "Adanya putusan pengadilan yang berkekuatan hukum tetap sebelum mencatat"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 217,
+   "section": "III",
+   "question": "Perubahan status perkawinan pada KK dan KTP-el dilakukan setelah...",
+   "options": [
+    "Surat camat",
+    "Surat RT",
+    "Surat desa",
+    "Pengakuan lisan",
+    "Terbit akta perceraian atau akta kematian pasangan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 218,
+   "section": "III",
+   "question": "Seorang pemohon meminta akta kelahiran dengan data orang tua yang berbeda dari KK. Langkah paling tepat petugas adalah...",
+   "options": [
+    "Melakukan verifikasi dan menyelesaikan inkonsistensi data sesuai prosedur sebelum menerbitkan",
+    "Menutup berkas",
+    "Meminta uang",
+    "Menerbitkan langsung",
+    "Menolak tanpa alasan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 219,
+   "section": "III",
+   "question": "Pemohon tidak membawa buku nikah, tetapi menyatakan telah menikah secara agama. Tindakan sesuai kebijakan percepatan akta kelahiran adalah...",
+   "options": [
+    "Menunda tanpa batas",
+    "Menyuruh membayar",
+    "Menolak total",
+    "Mengarahkan penggunaan SPTJM dan menjelaskan konsekuensi hukum sesuai ketentuan",
+    "Memalsukan buku nikah"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 220,
+   "section": "III",
+   "question": "Dalam kebijakan SPTJM, pemohon yang menyatakan data tidak benar dapat dikenai...",
+   "options": [
+    "Pembebasan",
+    "Penghargaan",
+    "Hadiah",
+    "Tidak ada sanksi",
+    "Sanksi sesuai ketentuan hukum, termasuk pidana pemalsuan keterangan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 221,
+   "section": "III",
+   "question": "Dokumen yang menjadi dasar perubahan KK akibat perkawinan adalah...",
+   "options": [
+    "Surat undangan",
+    "Surat desa",
+    "Surat RT",
+    "Kutipan akta perkawinan atau bukti perkawinan yang sah",
+    "Surat camat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 222,
+   "section": "III",
+   "question": "Seorang warga ber-KTP-el daerah A ingin mengubah alamat ke daerah B karena pindah kerja. Layanan yang tepat adalah...",
+   "options": [
+    "Menggunakan KTP lama",
+    "Membuat KTP baru tanpa surat pindah",
+    "Tidak mengurus",
+    "Mengurus surat pindah dari daerah A dan pindah datang di daerah B",
+    "Mengurus SIM saja"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 223,
+   "section": "III",
+   "question": "Mengapa penduduk yang berpindah domisili harus melaporkan pindah?",
+   "options": [
+    "Agar membayar pajak",
+    "Agar mendapat fasilitas",
+    "Agar terhindar dari polisi",
+    "Agar mendapat bantuan",
+    "Agar data penduduk akurat dan layanan publik tepat sasaran"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 224,
+   "section": "III",
+   "question": "Pada pindah antar negara bagi WNI, dokumen yang diterbitkan adalah...",
+   "options": [
+    "Surat Pindah antar kecamatan",
+    "Surat Keterangan Domisili",
+    "Surat Jalan",
+    "Surat Pindah antar kabupaten",
+    "Surat Keterangan Pindah Luar Negeri (SKPLN)"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 225,
+   "section": "III",
+   "question": "WNI yang tinggal di luar negeri secara tetap untuk jangka waktu tertentu tetap...",
+   "options": [
+    "Tidak dicatat",
+    "Dihapus",
+    "Kehilangan NIK",
+    "Memiliki NIK dan status penduduk dicatat sesuai ketentuan",
+    "Tidak memiliki hak"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 226,
+   "section": "III",
+   "question": "Pelayanan Adminduk bagi WNI di luar negeri difasilitasi melalui...",
+   "options": [
+    "Kecamatan",
+    "Bank",
+    "Desa",
+    "RT",
+    "Perwakilan RI bekerja sama dengan Kemendagri"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 227,
+   "section": "III",
+   "question": "Perubahan data kependudukan bagi anggota TNI/Polri aktif dilakukan...",
+   "options": [
+    "Hanya oleh kepolisian",
+    "Tidak diperlukan",
+    "Dilarang",
+    "Sesuai ketentuan umum Adminduk disertai penyesuaian administrasi satuan",
+    "Hanya oleh satuan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 228,
+   "section": "III",
+   "question": "Data kependudukan pegawai yang pindah tugas ke luar daerah sebaiknya diperbarui...",
+   "options": [
+    "Menunggu pensiun",
+    "Melalui pindah datang sesuai ketentuan agar layanan dan hak pilih tepat",
+    "Menunggu pajak",
+    "Menunggu pemilu",
+    "Tidak perlu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 229,
+   "section": "III",
+   "question": "Prinsip 'pindah datang' pada pelayanan Adminduk mengharuskan penduduk...",
+   "options": [
+    "Membawa SIM",
+    "Membawa NPWP",
+    "Membawa ijazah",
+    "Membawa surat pindah dari daerah asal",
+    "Tidak perlu dokumen"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 230,
+   "section": "III",
+   "question": "Data kependudukan yang dipindahkan antar daerah dikelola melalui...",
+   "options": [
+    "Fax",
+    "Telepon",
+    "Surat menyurat manual",
+    "Sistem informasi Adminduk terpusat",
+    "Kurir"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 231,
+   "section": "III",
+   "question": "Pelayanan pindah datang secara daring memberi kemudahan dengan...",
+   "options": [
+    "Pengajuan oleh RT",
+    "Pengajuan tanpa dokumen",
+    "Pengajuan online dan verifikasi dokumen digital",
+    "Pengajuan oleh polisi",
+    "Pengajuan fisik wajib"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 232,
+   "section": "III",
+   "question": "Perekaman KTP-el pada usia 17 tahun yang tertunda dapat dilakukan...",
+   "options": [
+    "Kapan saja setelah usia 17 tahun sesuai persyaratan",
+    "Hanya saat menikah",
+    "Hanya saat ujian",
+    "Hanya saat pemilu",
+    "Tidak dapat dilakukan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 233,
+   "section": "III",
+   "question": "Pemilih pemula yang belum merekam KTP-el menjelang pemilu...",
+   "options": [
+    "Dihapus",
+    "Tidak dilayani",
+    "Difasilitasi perekaman dan pencetakan, termasuk surat keterangan sebagai bukti sementara",
+    "Dikenai denda",
+    "Dilarang memilih"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 234,
+   "section": "III",
+   "question": "Dalam kebijakan, Surat Keterangan Pengganti KTP-el dapat digunakan untuk...",
+   "options": [
+    "Pengganti SIM",
+    "Pengganti ijazah",
+    "Pengganti NPWP",
+    "Bukti identitas sementara sesuai ketentuan peraturan",
+    "Pengganti paspor"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 235,
+   "section": "III",
+   "question": "Pemberian hak akses data kependudukan oleh Kemendagri kepada kementerian/lembaga dilakukan dengan...",
+   "options": [
+    "Tanpa pengawasan",
+    "Perjanjian kerja sama dan pembatasan sesuai kebutuhan",
+    "Tanpa dokumen",
+    "Pemberian bebas",
+    "Tanpa pembatasan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 236,
+   "section": "III",
+   "question": "Tindakan yang dilarang bagi petugas Adminduk yang memiliki akses sistem adalah...",
+   "options": [
+    "Melaporkan pelanggaran",
+    "Mengakses atau membagikan data tanpa kepentingan dinas",
+    "Menerbitkan dokumen sah",
+    "Melayani sesuai SOP",
+    "Memverifikasi data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 237,
+   "section": "III",
+   "question": "Penyalahgunaan hak akses sistem Adminduk dapat berujung pada...",
+   "options": [
+    "Kenaikan jabatan",
+    "Pembebasan",
+    "Tidak ada sanksi",
+    "Sanksi disiplin, pencabutan akses, dan pidana",
+    "Penghargaan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 238,
+   "section": "III",
+   "question": "Mengapa pemisahan tugas (segregation of duties) penting dalam penerbitan dokumen kependudukan?",
+   "options": [
+    "Mengurangi risiko kecurangan dengan membagi peran verifikasi, persetujuan, dan pencetakan",
+    "Menambah beban",
+    "Menghilangkan kontrol",
+    "Mempersulit pemohon",
+    "Mengurangi akurasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 239,
+   "section": "III",
+   "question": "Penggunaan tanda tangan elektronik pada dokumen kependudukan oleh pejabat harus...",
+   "options": [
+    "Menggunakan scan tanda tangan bebas",
+    "Disebarkan",
+    "Memenuhi ketentuan keamanan sertifikat elektronik yang diterbitkan penyelenggara tersertifikasi",
+    "Digunakan siapa saja",
+    "Dibagikan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 240,
+   "section": "III",
+   "question": "Pimpinan wajib memastikan arsip register akta pencatatan sipil...",
+   "options": [
+    "Dibagikan",
+    "Dibiarkan",
+    "Tersimpan aman, tertib, dan dapat diakses sesuai kewenangan",
+    "Dibuang",
+    "Dibakar"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 241,
+   "section": "III",
+   "question": "Digitalisasi arsip akta pencatatan sipil membantu...",
+   "options": [
+    "Penambahan antrian",
+    "Pelestarian data, kemudahan pencarian, dan pelayanan lebih cepat",
+    "Pengurangan keamanan",
+    "Penambahan biaya",
+    "Penghapusan arsip fisik seketika"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 242,
+   "section": "III",
+   "question": "Pengelolaan arsip statis dan dinamis pencatatan sipil harus mengacu pada...",
+   "options": [
+    "UU Pertambangan",
+    "UU Pemilu",
+    "UU Lalu Lintas",
+    "UU Kearsipan dan peraturan turunannya",
+    "UU Pajak"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 243,
+   "section": "III",
+   "question": "Retensi arsip dokumen kependudukan ditentukan oleh...",
+   "options": [
+    "Waktu luang",
+    "Jadwal Retensi Arsip (JRA) yang ditetapkan",
+    "Keputusan RT",
+    "Kebiasaan",
+    "Keinginan pegawai"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 244,
+   "section": "III",
+   "question": "Pembinaan teknis kepada operator Adminduk di kecamatan dan desa dilakukan oleh...",
+   "options": [
+    "DPR",
+    "BPS",
+    "Dinas Dukcapil kabupaten/kota",
+    "Polisi",
+    "Kementerian"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 245,
+   "section": "III",
+   "question": "Koordinasi pelaksanaan Adminduk antara Dinas dan kecamatan diatur dalam...",
+   "options": [
+    "Surat RT",
+    "Surat Camat",
+    "Kesepakatan lisan",
+    "Kebiasaan",
+    "Peraturan Bupati/Wali Kota dan pelimpahan wewenang"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 246,
+   "section": "III",
+   "question": "Penetapan operator layanan Adminduk di desa dilakukan dengan...",
+   "options": [
+    "Tanpa batasan",
+    "Penunjukan lisan",
+    "Surat keputusan dan pelatihan, serta akses sistem terbatas",
+    "Tanpa pelatihan",
+    "Tanpa SK"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 247,
+   "section": "III",
+   "question": "Mitigasi risiko penyalahgunaan akses oleh operator desa dilakukan melalui...",
+   "options": [
+    "Penghapusan SOP",
+    "Pemberian akses penuh",
+    "Pembiaran",
+    "Pembatasan hak akses, audit log, dan sanksi tegas",
+    "Penghapusan audit"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 248,
+   "section": "III",
+   "question": "Audit log pada sistem Adminduk berfungsi...",
+   "options": [
+    "Menurunkan keamanan",
+    "Merekam jejak aktivitas pengguna untuk akuntabilitas dan investigasi",
+    "Menambah beban",
+    "Mengganti NIK",
+    "Menghapus data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 249,
+   "section": "III",
+   "question": "Salah satu indikator kinerja pencatatan sipil adalah...",
+   "options": [
+    "Jumlah rapat",
+    "Jumlah kendaraan",
+    "Jumlah kantor",
+    "Persentase cakupan kepemilikan akta kelahiran terhadap penduduk usia 0–18 tahun",
+    "Jumlah pegawai"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 250,
+   "section": "III",
+   "question": "Indikator cakupan pencatatan kematian menunjukkan...",
+   "options": [
+    "Jumlah perceraian",
+    "Jumlah kelahiran",
+    "Proporsi kematian yang tercatat dalam sistem terhadap jumlah kematian sebenarnya",
+    "Jumlah perkawinan",
+    "Jumlah pindah"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 251,
+   "section": "III",
+   "question": "Rendahnya pelaporan kematian dalam masyarakat berdampak pada...",
+   "options": [
+    "Data penduduk tidak akurat dan potensi penyalahgunaan identitas",
+    "Transparansi",
+    "Data lebih akurat",
+    "Penghematan",
+    "Efisiensi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 252,
+   "section": "III",
+   "question": "Kolaborasi lintas sektor untuk mendorong pelaporan kematian antara lain dengan...",
+   "options": [
+    "Rumah sakit, puskesmas, tokoh masyarakat, kelurahan/desa, dan pengelola pemakaman",
+    "Bank",
+    "Toko",
+    "Hotel",
+    "Pasar"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 253,
+   "section": "III",
+   "question": "Faktor penghambat pencatatan sipil di masyarakat antara lain...",
+   "options": [
+    "Layanan mudah",
+    "Kurangnya kesadaran, jarak, biaya tidak langsung, dan kendala dokumen",
+    "Pelayanan yang cepat",
+    "Tidak ada hambatan",
+    "Layanan gratis"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 254,
+   "section": "III",
+   "question": "Strategi mengatasi hambatan biaya tidak langsung (transportasi) bagi masyarakat terpencil adalah...",
+   "options": [
+    "Menaikkan tarif",
+    "Menutup layanan",
+    "Menunggu",
+    "Menghapus layanan",
+    "Layanan jemput bola dan pendaftaran daring dengan pendampingan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 255,
+   "section": "III",
+   "question": "Kolaborasi dengan lembaga keagamaan dalam pencatatan perkawinan bertujuan...",
+   "options": [
+    "Mempersulit",
+    "Menghapus peran lembaga agama",
+    "Memastikan perkawinan tercatat dan terintegrasi dalam database kependudukan",
+    "Menunda pencatatan",
+    "Mengambil alih peran agama"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 256,
+   "section": "III",
+   "question": "Perkawinan yang tidak tercatat negara berimplikasi terhadap...",
+   "options": [
+    "Hanya pajak",
+    "Hanya agama",
+    "Hanya sosial",
+    "Kepastian hukum status perkawinan dan hak-hak turunannya (anak, waris, tunjangan)",
+    "Tidak ada implikasi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 257,
+   "section": "III",
+   "question": "Pendekatan persuasif dan edukatif terhadap pelaporan peristiwa penting lebih efektif dibanding...",
+   "options": [
+    "Pendekatan sanksi semata tanpa pelayanan yang mudah",
+    "Kolaborasi",
+    "Kemudahan layanan",
+    "Layanan jemput bola",
+    "Sosialisasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 258,
+   "section": "III",
+   "question": "Tanggung jawab penyelenggara dalam menjaga keberlanjutan layanan saat pergantian pimpinan dilakukan melalui...",
+   "options": [
+    "Dokumentasi, SOP, transfer pengetahuan, dan sistem yang tidak bergantung pada individu",
+    "Membuat sistem baru",
+    "Membuang arsip",
+    "Menghentikan layanan sementara",
+    "Mengganti seluruh pegawai"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 259,
+   "section": "III",
+   "question": "Mengapa sistem informasi Adminduk harus dibangun berbasis standar nasional?",
+   "options": [
+    "Agar sulit",
+    "Agar interoperabilitas data lintas daerah dan lintas lembaga terjaga",
+    "Agar berbeda tiap daerah",
+    "Agar tertutup",
+    "Agar mahal"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 260,
+   "section": "III",
+   "question": "Dalam pengadaan sarana prasarana layanan Adminduk, prinsip yang harus dipegang adalah...",
+   "options": [
+    "Harga termurah tanpa kualitas",
+    "Merek tertentu",
+    "Efisiensi, efektivitas, transparansi, akuntabilitas, dan kebutuhan layanan",
+    "Kedekatan penyedia",
+    "Selera pimpinan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 261,
+   "section": "III",
+   "question": "Pengadaan perangkat perekaman KTP-el perlu memperhatikan...",
+   "options": [
+    "Warna",
+    "Spesifikasi sesuai standar Kemendagri dan keberlanjutan pemeliharaan",
+    "Kemasan",
+    "Merek favorit",
+    "Harga terendah tanpa standar"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 262,
+   "section": "III",
+   "question": "Penyusunan anggaran program Adminduk perlu didasarkan pada...",
+   "options": [
+    "Analisis kebutuhan, target kinerja, dan prioritas daerah",
+    "Anggaran tahun lalu tanpa evaluasi",
+    "Kebiasaan",
+    "Selera",
+    "Permintaan atasan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 263,
+   "section": "III",
+   "question": "Prinsip anggaran berbasis kinerja berarti...",
+   "options": [
+    "Anggaran tanpa target",
+    "Anggaran dipangkas",
+    "Anggaran sesuai selera",
+    "Anggaran sama tiap tahun",
+    "Alokasi anggaran dikaitkan dengan output/outcome yang ditargetkan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 264,
+   "section": "III",
+   "question": "Pimpinan perangkat daerah bertanggung jawab atas penyerapan anggaran yang...",
+   "options": [
+    "Efektif, tepat sasaran, dan akuntabel",
+    "Penuh tanpa hasil",
+    "Tanpa laporan",
+    "Secepat mungkin tanpa kualitas",
+    "Tanpa evaluasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 265,
+   "section": "III",
+   "question": "Penyerapan anggaran yang tinggi tetapi capaian kinerja rendah menunjukkan...",
+   "options": [
+    "Perencanaan dan pelaksanaan belum efektif",
+    "Keberlanjutan",
+    "Efisiensi",
+    "Keberhasilan",
+    "Akuntabilitas"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 266,
+   "section": "III",
+   "question": "Pengendalian kegiatan melalui monitoring dan evaluasi dimaksudkan untuk...",
+   "options": [
+    "Mendeteksi penyimpangan dini dan melakukan perbaikan",
+    "Menunda",
+    "Menyalahkan",
+    "Menambah laporan",
+    "Menghapus"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 267,
+   "section": "III",
+   "question": "Pola 'Rapat Evaluasi Kinerja Triwulanan' berguna untuk...",
+   "options": [
+    "Menambah beban",
+    "Menghabiskan waktu",
+    "Mengendalikan capaian dan mengoreksi kegiatan sebelum akhir tahun",
+    "Formalitas",
+    "Mengurangi koordinasi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 268,
+   "section": "III",
+   "question": "Pengendalian pencapaian target KTP-el, KIA, dan akta kelahiran memerlukan...",
+   "options": [
+    "Data capaian berkala per wilayah dan intervensi pada wilayah tertinggal",
+    "Data acak",
+    "Data tahunan saja",
+    "Data rahasia",
+    "Data tidak perlu"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 269,
+   "section": "III",
+   "question": "Pemetaan wilayah dengan cakupan dokumen kependudukan rendah (hotspot) dimanfaatkan untuk...",
+   "options": [
+    "Menutup wilayah",
+    "Menentukan prioritas intervensi dan alokasi sumber daya",
+    "Menyembunyikan data",
+    "Menghapus layanan",
+    "Menghukum kecamatan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 270,
+   "section": "III",
+   "question": "Analisis akar masalah (fishbone/5 Why) dalam kegiatan perbaikan layanan digunakan untuk...",
+   "options": [
+    "Menambah dokumen",
+    "Menunda keputusan",
+    "Mengurangi anggaran",
+    "Menyalahkan individu",
+    "Mengidentifikasi penyebab mendasar masalah secara sistematis"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 271,
+   "section": "IV",
+   "question": "Sistem Informasi Administrasi Kependudukan (SIAK) berfungsi utama sebagai...",
+   "options": [
+    "Sistem kepegawaian",
+    "Sarana pengelolaan data kependudukan dan pelayanan Adminduk secara terintegrasi",
+    "Sistem keuangan daerah",
+    "Sistem perizinan",
+    "Sistem pengadaan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 272,
+   "section": "IV",
+   "question": "Basis data kependudukan nasional dikelola oleh...",
+   "options": [
+    "BPS",
+    "Kementerian Dalam Negeri melalui Ditjen Dukcapil",
+    "Kementerian Kesehatan",
+    "Kementerian Keuangan",
+    "Kepolisian"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 273,
+   "section": "IV",
+   "question": "Perbedaan utama data BPS dan data Dukcapil adalah...",
+   "options": [
+    "Keduanya identik",
+    "BPS berbasis administratif, Dukcapil berbasis survei",
+    "Keduanya berbasis survei",
+    "BPS berbasis sensus/survei statistik, Dukcapil berbasis pencatatan administratif penduduk",
+    "Tidak ada perbedaan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 274,
+   "section": "IV",
+   "question": "Sensus Penduduk dilaksanakan oleh...",
+   "options": [
+    "KPU",
+    "Kepolisian",
+    "Badan Pusat Statistik",
+    "Kemendagri",
+    "Dinas Dukcapil"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 275,
+   "section": "IV",
+   "question": "Pemanfaatan data kependudukan sebagai dasar perencanaan pembangunan mencakup...",
+   "options": [
+    "Hanya pemilu",
+    "Perencanaan pendidikan, kesehatan, perumahan, dan sosial berdasarkan struktur penduduk",
+    "Hanya keamanan",
+    "Hanya pajak",
+    "Hanya sensus"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 276,
+   "section": "IV",
+   "question": "Dasar hukum perkembangan kependudukan dan pembangunan keluarga adalah...",
+   "options": [
+    "UU No. 52 Tahun 2009",
+    "UU No. 24 Tahun 2013",
+    "UU No. 14 Tahun 2008",
+    "UU No. 23 Tahun 2006",
+    "UU No. 25 Tahun 2009"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 277,
+   "section": "IV",
+   "question": "Arah kebijakan kependudukan menurut UU 52/2009 meliputi pengendalian kuantitas, pengembangan kualitas, serta...",
+   "options": [
+    "Penghapusan mobilitas",
+    "Pembatasan kelahiran mutlak",
+    "Pembatasan pendidikan",
+    "Penutupan wilayah",
+    "Pengarahan mobilitas penduduk"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 278,
+   "section": "IV",
+   "question": "Bonus demografi terjadi ketika...",
+   "options": [
+    "Proporsi penduduk usia produktif lebih besar dibanding usia non-produktif",
+    "Migrasi meningkat",
+    "Penduduk anak lebih banyak",
+    "Penduduk menurun drastis",
+    "Penduduk lansia lebih banyak"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 279,
+   "section": "IV",
+   "question": "Rasio ketergantungan (dependency ratio) dihitung dari...",
+   "options": [
+    "Penduduk kota dibanding desa",
+    "Penduduk laki-laki dibanding perempuan",
+    "Penduduk bekerja dibanding menganggur",
+    "Penduduk dewasa dibanding anak",
+    "(Penduduk usia 0–14 + 65 ke atas) dibandingkan penduduk usia 15–64 tahun"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 280,
+   "section": "IV",
+   "question": "Rasio jenis kelamin (sex ratio) menunjukkan...",
+   "options": [
+    "Jumlah lansia per 100 anak",
+    "Jumlah kelahiran per 1.000 penduduk",
+    "Jumlah penduduk laki-laki per 100 penduduk perempuan",
+    "Jumlah penduduk perempuan per 100 laki-laki",
+    "Jumlah anak per keluarga"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 281,
+   "section": "IV",
+   "question": "Total Fertility Rate (TFR) adalah...",
+   "options": [
+    "Jumlah pernikahan",
+    "Jumlah penduduk pindah",
+    "Rata-rata jumlah anak yang dilahirkan seorang perempuan selama masa reproduksinya",
+    "Jumlah kelahiran per 1.000 penduduk",
+    "Jumlah kematian per 1.000 penduduk"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 282,
+   "section": "IV",
+   "question": "Angka Kelahiran Kasar (CBR) dinyatakan sebagai...",
+   "options": [
+    "Jumlah perceraian per 1.000 penduduk",
+    "Jumlah kematian per 1.000 penduduk",
+    "Jumlah anak per perempuan",
+    "Jumlah kelahiran hidup per 1.000 penduduk pertengahan tahun",
+    "Jumlah perkawinan per 1.000 penduduk"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 283,
+   "section": "IV",
+   "question": "Data kependudukan semesteran yang dirilis Dukcapil digunakan antara lain untuk...",
+   "options": [
+    "Menetapkan tarif listrik",
+    "Menetapkan bea cukai",
+    "Menetapkan harga BBM",
+    "Dasar perhitungan alokasi dana transfer dan perencanaan daerah",
+    "Menentukan kenaikan gaji"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 284,
+   "section": "IV",
+   "question": "Data penduduk menjadi salah satu variabel perhitungan Dana Alokasi Umum (DAU) karena...",
+   "options": [
+    "Penduduk memiliki tanah",
+    "Penduduk memilih kepala daerah",
+    "Penduduk membayar pajak",
+    "Kebutuhan fiskal daerah dipengaruhi jumlah penduduk",
+    "Penduduk memiliki kendaraan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 285,
+   "section": "IV",
+   "question": "Daerah yang data kependudukannya tidak akurat berisiko...",
+   "options": [
+    "Peningkatan PAD",
+    "Efisiensi anggaran",
+    "Memperoleh alokasi lebih",
+    "Pengurangan kemiskinan",
+    "Alokasi transfer dan program tidak optimal"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 286,
+   "section": "IV",
+   "question": "Pemadanan data kependudukan dengan data BPJS Kesehatan bermanfaat untuk...",
+   "options": [
+    "Mengurangi peserta",
+    "Menghapus layanan",
+    "Menambah biaya",
+    "Mengubah NIK",
+    "Memastikan kepesertaan jaminan kesehatan tepat sasaran"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 287,
+   "section": "IV",
+   "question": "Integrasi data kependudukan dengan data DTKS/DTSEN (data sosial ekonomi) bertujuan...",
+   "options": [
+    "Mengurangi data",
+    "Menambah dokumen",
+    "Menghapus bantuan",
+    "Meningkatkan ketepatan sasaran bantuan sosial",
+    "Menutup akses"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 288,
+   "section": "IV",
+   "question": "Data kependudukan menjadi referensi dalam penyusunan...",
+   "options": [
+    "Daftar menu",
+    "Daftar hadir",
+    "Daftar harga",
+    "Daftar pemilih tetap oleh KPU",
+    "Daftar tamu"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 289,
+   "section": "IV",
+   "question": "Bila terdapat selisih data penduduk antara Dukcapil dan BPS, langkah yang tepat adalah...",
+   "options": [
+    "Menghentikan publikasi",
+    "Mengubah data Dukcapil sesuka hati",
+    "Mengabaikan BPS",
+    "Menyalahkan BPS",
+    "Melakukan rekonsiliasi dengan memahami perbedaan metodologi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 290,
+   "section": "IV",
+   "question": "Prinsip data yang berkualitas meliputi...",
+   "options": [
+    "Banyak tetapi tidak valid",
+    "Lama tetapi lengkap",
+    "Akurat, lengkap, mutakhir, konsisten, dan dapat diakses oleh yang berhak",
+    "Terbuka seluruhnya",
+    "Rahasia sepenuhnya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 291,
+   "section": "IV",
+   "question": "Master data penduduk dalam arsitektur data pemerintah berfungsi...",
+   "options": [
+    "Sebagai anggaran",
+    "Sebagai peta",
+    "Sebagai arsip",
+    "Sebagai rujukan data tunggal bagi sistem lain",
+    "Sebagai laporan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 292,
+   "section": "IV",
+   "question": "Data governance (tata kelola data) mencakup...",
+   "options": [
+    "Kebijakan, standar, peran, dan proses pengelolaan data",
+    "Hanya publikasi",
+    "Hanya penyimpanan",
+    "Hanya keamanan",
+    "Hanya perangkat"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 293,
+   "section": "IV",
+   "question": "Wali data dalam Satu Data Indonesia adalah...",
+   "options": [
+    "Pemilik data pribadi",
+    "Pegawai honorer",
+    "Instansi pusat/daerah yang melaksanakan penyelenggaraan data",
+    "Penduduk",
+    "Vendor"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 294,
+   "section": "IV",
+   "question": "Metadata berfungsi untuk...",
+   "options": [
+    "Menghapus data",
+    "Menjelaskan data (sumber, definisi, periode, metode)",
+    "Menyimpan data",
+    "Menjual data",
+    "Menyalin data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 295,
+   "section": "IV",
+   "question": "Standar data dalam interoperabilitas berarti...",
+   "options": [
+    "Kesepakatan format, definisi, dan kode agar data dapat dipertukarkan",
+    "Data berbeda tiap instansi",
+    "Data tertutup",
+    "Data bebas",
+    "Data rahasia"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 296,
+   "section": "IV",
+   "question": "Data terbuka (open data) kependudukan hanya dapat dipublikasikan dalam bentuk...",
+   "options": [
+    "Agregat/anonim tanpa mengungkap data pribadi",
+    "Data pribadi lengkap",
+    "Data biometrik",
+    "Data alamat lengkap",
+    "Data NIK"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 297,
+   "section": "IV",
+   "question": "Anonimisasi data dilakukan untuk...",
+   "options": [
+    "Menyimpan data",
+    "Menjual data",
+    "Menghilangkan identitas individu pada data yang dipublikasikan",
+    "Menyalin data",
+    "Menghapus data"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 298,
+   "section": "IV",
+   "question": "Data Statistik Sektoral oleh Dukcapil diwujudkan antara lain dalam bentuk...",
+   "options": [
+    "Publikasi data agregat kependudukan per wilayah dan karakteristik",
+    "Daftar alamat lengkap",
+    "Daftar nama penduduk",
+    "Daftar nomor telepon",
+    "Daftar kendaraan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 299,
+   "section": "IV",
+   "question": "Pemutakhiran data penduduk di wilayah perbatasan negara memerlukan...",
+   "options": [
+    "Pembiaran",
+    "Penutupan layanan",
+    "Pembatasan akses",
+    "Penghapusan data",
+    "Pendekatan khusus dan koordinasi lintas instansi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 300,
+   "section": "IV",
+   "question": "Pencatatan penduduk di wilayah konflik atau pasca bencana difokuskan pada...",
+   "options": [
+    "Pemulihan dokumen hilang dan pencatatan peristiwa penting dengan prosedur khusus",
+    "Penghentian layanan",
+    "Penundaan lama",
+    "Pengenaan biaya",
+    "Penghapusan data"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 301,
+   "section": "IV",
+   "question": "Hak penduduk atas perlindungan data pribadi dalam konteks SIAK diwujudkan antara lain dengan...",
+   "options": [
+    "Berbagi bebas",
+    "Tanpa audit",
+    "Akses bebas",
+    "Tanpa kontrol",
+    "Pembatasan akses, enkripsi, dan audit"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 302,
+   "section": "IV",
+   "question": "Enkripsi data bertujuan...",
+   "options": [
+    "Melindungi kerahasiaan data dengan mengubahnya menjadi bentuk yang tidak terbaca tanpa kunci",
+    "Menghapus data",
+    "Menyalin data",
+    "Menjual data",
+    "Menyimpan data"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 303,
+   "section": "IV",
+   "question": "Autentikasi multi-faktor (MFA) pada sistem Adminduk meningkatkan keamanan dengan...",
+   "options": [
+    "Mengurangi kontrol",
+    "Memudahkan peretas",
+    "Menghilangkan kata sandi",
+    "Mengurangi verifikasi",
+    "Mengharuskan lebih dari satu bukti identitas pengguna"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 304,
+   "section": "IV",
+   "question": "Prinsip 'least privilege' berarti...",
+   "options": [
+    "Pengguna hanya diberi hak akses minimum sesuai tugasnya",
+    "Semua pengguna akses penuh",
+    "Akses sesuai jabatan tertinggi",
+    "Pengguna tanpa akses",
+    "Akses bergilir"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 305,
+   "section": "IV",
+   "question": "Insiden keamanan siber pada sistem Adminduk harus dilaporkan kepada...",
+   "options": [
+    "Pihak swasta",
+    "RT",
+    "Tidak perlu",
+    "Pimpinan dan instansi berwenang (misalnya BSSN) sesuai ketentuan",
+    "Media sosial"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 306,
+   "section": "IV",
+   "question": "Tanggap insiden (incident response) mencakup...",
+   "options": [
+    "Hanya analisis",
+    "Deteksi, isolasi, pemulihan, analisis, dan pencegahan",
+    "Hanya deteksi",
+    "Hanya pelaporan",
+    "Hanya pemulihan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 307,
+   "section": "IV",
+   "question": "Pencadangan (backup) data harus dilakukan...",
+   "options": [
+    "Tanpa jadwal",
+    "Berkala, tersimpan terpisah, dan diuji pemulihannya",
+    "Sekali setahun",
+    "Di tempat yang sama",
+    "Tanpa uji"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 308,
+   "section": "IV",
+   "question": "Penilaian dampak pelindungan data (DPIA) diperlukan jika...",
+   "options": [
+    "Data statistik",
+    "Tidak pernah",
+    "Data publik",
+    "Pemrosesan data berisiko tinggi terhadap subjek data",
+    "Data umum"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 309,
+   "section": "IV",
+   "question": "Pejabat/petugas pelindungan data pribadi (DPO) dalam organisasi bertugas...",
+   "options": [
+    "Mengelola SDM",
+    "Mengelola keuangan",
+    "Mengelola aset",
+    "Memastikan kepatuhan pemrosesan data pribadi terhadap UU PDP",
+    "Mengelola pengadaan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 310,
+   "section": "IV",
+   "question": "Pendekatan 'privacy by design' berarti...",
+   "options": [
+    "Perlindungan data diintegrasikan sejak perancangan sistem",
+    "Perlindungan hanya hukum",
+    "Perlindungan ditambahkan di akhir",
+    "Perlindungan opsional",
+    "Tidak ada perlindungan"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 311,
+   "section": "IV",
+   "question": "Keterbukaan informasi publik menurut UU KIP dikecualikan untuk informasi...",
+   "options": [
+    "Standar layanan",
+    "Struktur organisasi",
+    "Laporan kinerja",
+    "Yang dapat membahayakan perlindungan hak pribadi dan data pribadi yang dilindungi",
+    "Anggaran dinas"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 312,
+   "section": "IV",
+   "question": "Uji konsekuensi (consequence test) dilakukan untuk...",
+   "options": [
+    "Menentukan gaji",
+    "Menentukan sanksi",
+    "Menentukan cuti",
+    "Menentukan anggaran",
+    "Menentukan apakah suatu informasi dapat dikecualikan dari akses publik"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 313,
+   "section": "IV",
+   "question": "PPID (Pejabat Pengelola Informasi dan Dokumentasi) berperan...",
+   "options": [
+    "Mengelola pengadaan",
+    "Mengelola gaji",
+    "Mengelola kendaraan",
+    "Mengelola arsip pribadi",
+    "Mengelola dan melayani permintaan informasi publik"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 314,
+   "section": "IV",
+   "question": "Permintaan informasi data statistik kependudukan agregat oleh mahasiswa untuk penelitian...",
+   "options": [
+    "Dikenai biaya besar",
+    "Dilayani dengan data pribadi",
+    "Ditolak",
+    "Diabaikan",
+    "Dapat dilayani sesuai ketentuan informasi publik dengan menjaga kerahasiaan data pribadi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 315,
+   "section": "IV",
+   "question": "Permintaan data kependudukan perorangan oleh pihak yang mengaku sebagai penegak hukum harus...",
+   "options": [
+    "Dilayani lisan",
+    "Dilayani tanpa dokumen",
+    "Dilayani lewat telepon",
+    "Ditolak selalu",
+    "Disertai surat resmi dan dasar hukum yang jelas serta diverifikasi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 316,
+   "section": "IV",
+   "question": "Verifikasi data kependudukan oleh lembaga keuangan (perbankan) dilakukan melalui...",
+   "options": [
+    "Fotokopi KTP saja",
+    "Pencarian bebas",
+    "Pesan singkat",
+    "Surat tanpa dasar",
+    "Akses terkontrol yang disediakan berdasarkan perjanjian kerja sama"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 317,
+   "section": "IV",
+   "question": "Pemanfaatan data kependudukan oleh perbankan dan telekomunikasi memerlukan...",
+   "options": [
+    "Data bebas dipakai",
+    "Data dibuka",
+    "Data dijual",
+    "Tidak ada syarat",
+    "Persetujuan subjek data atau dasar hukum yang sah dan pengamanan yang memadai"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 318,
+   "section": "IV",
+   "question": "Pencocokan nomor ponsel dengan NIK (registrasi kartu SIM) memerlukan...",
+   "options": [
+    "Verifikasi NIK dan KK melalui mekanisme yang diatur",
+    "Data dijual",
+    "Data dipalsukan",
+    "Data dibiarkan",
+    "Data dihapus"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 319,
+   "section": "IV",
+   "question": "Penyalahgunaan NIK untuk pinjaman online ilegal dapat dicegah dengan...",
+   "options": [
+    "Penghapusan NIK",
+    "Pembukaan data",
+    "Penutupan layanan",
+    "Edukasi, penguatan verifikasi, dan penegakan hukum",
+    "Pembiaran"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 320,
+   "section": "IV",
+   "question": "Dalam menghadapi hoaks tentang kebocoran data yang tidak benar, Dinas sebaiknya...",
+   "options": [
+    "Menunggu mereda",
+    "Memberikan klarifikasi cepat, berbasis fakta, melalui kanal resmi",
+    "Menghapus akun",
+    "Menyerang penyebar",
+    "Diam"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 321,
+   "section": "IV",
+   "question": "Literasi digital masyarakat tentang keamanan data pribadi dapat ditingkatkan melalui...",
+   "options": [
+    "Pembatasan akses",
+    "Edukasi publik, media sosial resmi, dan kolaborasi dengan komunitas",
+    "Penutupan layanan",
+    "Penghapusan data",
+    "Pembiaran"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 322,
+   "section": "IV",
+   "question": "Pelayanan Adminduk yang tanggap terhadap krisis (misalnya pandemi) mengandalkan...",
+   "options": [
+    "Penghapusan layanan",
+    "Penutupan total",
+    "Pembatasan total",
+    "Penundaan lama",
+    "Layanan daring, protokol keselamatan, dan kesinambungan layanan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 323,
+   "section": "IV",
+   "question": "Pembelajaran dari pandemi menunjukkan pentingnya...",
+   "options": [
+    "Layanan manual saja",
+    "Kesiapan layanan digital dan sistem kerja fleksibel",
+    "Penutupan kantor",
+    "Penghapusan teknologi",
+    "Pengurangan pegawai"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 324,
+   "section": "IV",
+   "question": "Pengelolaan data kependudukan di era big data memerlukan...",
+   "options": [
+    "Pengumpulan tanpa batas",
+    "Pembukaan data pribadi",
+    "Penghapusan data",
+    "Penjualan data",
+    "Kebijakan analitik yang etis dan perlindungan privasi"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 325,
+   "section": "IV",
+   "question": "Pemanfaatan kecerdasan buatan (AI) untuk verifikasi dokumen Adminduk harus...",
+   "options": [
+    "Memperhatikan akurasi, bias, akuntabilitas, dan keamanan data",
+    "Tanpa pengawasan",
+    "Menggantikan pimpinan",
+    "Mengabaikan etika",
+    "Tanpa regulasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 326,
+   "section": "IV",
+   "question": "Keputusan otomatis oleh sistem terkait hak penduduk harus...",
+   "options": [
+    "Rahasia",
+    "Tanpa audit",
+    "Dapat dijelaskan, dapat diaudit, dan dapat dikoreksi melalui peninjauan manusia",
+    "Final tanpa koreksi",
+    "Tanpa penjelasan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 327,
+   "section": "IV",
+   "question": "Prinsip kehati-hatian dalam penggunaan teknologi pengenalan wajah untuk pelayanan mencakup...",
+   "options": [
+    "Tanpa pengamanan",
+    "Pembukaan data",
+    "Dasar hukum, tujuan sah, proporsionalitas, dan pengamanan data biometrik",
+    "Penjualan data",
+    "Penggunaan bebas"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 328,
+   "section": "IV",
+   "question": "Pengembangan layanan Adminduk berbasis blockchain umumnya dimaksudkan untuk...",
+   "options": [
+    "Membuka data",
+    "Meningkatkan integritas dan keterlacakan catatan, dengan tetap memperhatikan privasi",
+    "Menyembunyikan data",
+    "Menjual data",
+    "Menghapus data"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 329,
+   "section": "IV",
+   "question": "Data lake dan data warehouse digunakan dalam pengelolaan data kependudukan untuk...",
+   "options": [
+    "Penyimpanan arsip fisik",
+    "Penyimpanan kendaraan",
+    "Penyimpanan dan analisis data skala besar terintegrasi",
+    "Penyimpanan barang",
+    "Penyimpanan uang"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 330,
+   "section": "IV",
+   "question": "Dashboard kinerja Adminduk yang baik harus...",
+   "options": [
+    "Dibuat hanya untuk atasan",
+    "Tidak pernah diperbarui",
+    "Penuh angka tanpa makna",
+    "Menyajikan indikator kunci, mutakhir, dan mudah dipahami pemangku kepentingan",
+    "Rahasia"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 331,
+   "section": "IV",
+   "question": "Uji kelayakan sebelum meluncurkan sistem informasi layanan dilakukan melalui...",
+   "options": [
+    "Tanpa uji",
+    "UAT (user acceptance test), uji keamanan, dan uji beban",
+    "Hanya demonstrasi",
+    "Hanya uji internal",
+    "Peluncuran langsung"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 332,
+   "section": "IV",
+   "question": "Pengadaan sistem informasi Adminduk melalui pihak ketiga harus memperhatikan...",
+   "options": [
+    "Harga semata",
+    "Kedekatan",
+    "Kecepatan semata",
+    "Kepemilikan data, keamanan, alih pengetahuan, dan keberlanjutan",
+    "Merek semata"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 333,
+   "section": "IV",
+   "question": "Perjanjian tingkat layanan (SLA) dengan penyedia teknologi bertujuan...",
+   "options": [
+    "Menjamin ketersediaan dan kualitas layanan sesuai standar",
+    "Menghindari audit",
+    "Mengurangi tanggung jawab",
+    "Menghapus kontrol",
+    "Menaikkan harga"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 334,
+   "section": "IV",
+   "question": "Ketergantungan berlebihan pada satu vendor (vendor lock-in) berisiko...",
+   "options": [
+    "Menaikkan keamanan",
+    "Meningkatkan fleksibilitas",
+    "Mengurangi fleksibilitas dan meningkatkan biaya jangka panjang",
+    "Menghilangkan risiko",
+    "Menghemat biaya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 335,
+   "section": "IV",
+   "question": "Penyelenggaraan SPBE yang baik di daerah dinilai melalui...",
+   "options": [
+    "Evaluasi RT",
+    "Evaluasi SPBE oleh Kementerian PANRB",
+    "Evaluasi swasta",
+    "Evaluasi desa",
+    "Evaluasi pegawai"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 336,
+   "section": "IV",
+   "question": "Indeks SPBE mengukur antara lain...",
+   "options": [
+    "Kebijakan, tata kelola, manajemen, dan layanan SPBE",
+    "Hanya aplikasi",
+    "Hanya pegawai",
+    "Hanya perangkat",
+    "Hanya anggaran"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 337,
+   "section": "IV",
+   "question": "Pimpinan perangkat daerah memiliki peran dalam SPBE sebagai...",
+   "options": [
+    "Vendor",
+    "Pengawas saja",
+    "Pemilik proses bisnis dan penanggung jawab layanan",
+    "Penonton",
+    "Pengembang saja"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 338,
+   "section": "IV",
+   "question": "Peta proses bisnis (business process map) berguna untuk...",
+   "options": [
+    "Memetakan wilayah",
+    "Memetakan kendaraan",
+    "Memetakan alur kerja agar dapat disederhanakan dan diotomasi",
+    "Memetakan pegawai",
+    "Memetakan aset"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 339,
+   "section": "IV",
+   "question": "Reformasi birokrasi tematik yang relevan bagi layanan Adminduk adalah...",
+   "options": [
+    "Penghapusan jabatan",
+    "Digitalisasi layanan dan peningkatan kualitas pelayanan publik",
+    "Pembatasan layanan",
+    "Pengurangan pegawai",
+    "Penutupan kantor"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 340,
+   "section": "IV",
+   "question": "Pemetaan proses yang tidak efisien dilakukan dengan...",
+   "options": [
+    "Menambah tahapan",
+    "Mengabaikan alur",
+    "Mengidentifikasi hambatan, waktu tunggu, dan duplikasi pada alur kerja",
+    "Menyalahkan petugas",
+    "Menambah dokumen"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 341,
+   "section": "IV",
+   "question": "Kebijakan layanan 'tanpa tatap muka' (contactless) pada Adminduk mendukung...",
+   "options": [
+    "Penambahan antrean",
+    "Pembatasan layanan",
+    "Penambahan pungli",
+    "Pencegahan pungli dan kemudahan akses masyarakat",
+    "Penambahan biaya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 342,
+   "section": "IV",
+   "question": "Layanan pengantaran dokumen kependudukan ke alamat pemohon dilakukan dengan kerja sama...",
+   "options": [
+    "Pasar",
+    "PT Pos atau penyedia jasa kurir sesuai ketentuan",
+    "RT",
+    "Bank",
+    "Kecamatan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 343,
+   "section": "IV",
+   "question": "Pencetakan dokumen kependudukan mandiri (self-printing) menggunakan kertas HVS A4 berlandaskan pada...",
+   "options": [
+    "Kebijakan perizinan",
+    "Kebijakan pertanahan",
+    "Kebijakan pelayanan dokumen digital dengan tanda tangan elektronik",
+    "Kebijakan pajak",
+    "Kebijakan pemilu"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 344,
+   "section": "IV",
+   "question": "Verifikasi keaslian dokumen kependudukan digital dilakukan melalui...",
+   "options": [
+    "Kuitansi",
+    "Tanda tangan basah",
+    "Stempel manual",
+    "QR Code yang dapat dipindai dan terhubung ke sistem penerbit",
+    "Fotokopi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 345,
+   "section": "IV",
+   "question": "Dalam pelayanan elektronik, kebijakan terhadap pemohon yang tidak memiliki perangkat adalah...",
+   "options": [
+    "Penolakan",
+    "Penundaan",
+    "Menyediakan layanan alternatif seperti loket, kios, atau pendampingan",
+    "Pembatasan",
+    "Biaya tambahan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 346,
+   "section": "IV",
+   "question": "Prinsip inklusivitas layanan digital Adminduk berarti...",
+   "options": [
+    "Hanya yang melek digital",
+    "Hanya generasi muda",
+    "Hanya kelompok tertentu",
+    "Hanya perkotaan",
+    "Menjamin seluruh kelompok masyarakat dapat mengakses layanan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 347,
+   "section": "IV",
+   "question": "Kebijakan akses untuk penyandang disabilitas netra pada layanan digital antara lain...",
+   "options": [
+    "Penundaan",
+    "Antarmuka ramah pembaca layar dan pendampingan",
+    "Biaya tambahan",
+    "Pembatasan",
+    "Penolakan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 348,
+   "section": "IV",
+   "question": "Perlindungan hak penyandang disabilitas dalam pelayanan publik diatur dalam...",
+   "options": [
+    "UU No. 25 Tahun 2009 saja",
+    "UU No. 11 Tahun 2008",
+    "UU No. 12 Tahun 2011",
+    "UU No. 14 Tahun 2008",
+    "UU No. 8 Tahun 2016 tentang Penyandang Disabilitas"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 349,
+   "section": "IV",
+   "question": "Layanan prioritas bagi ibu hamil, lansia, dan disabilitas pada loket Dukcapil adalah wujud...",
+   "options": [
+    "Pelanggaran",
+    "Pemborosan",
+    "Diskriminasi",
+    "Pemenuhan asas fasilitas dan perlakuan khusus bagi kelompok rentan",
+    "Keistimewaan pejabat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 350,
+   "section": "IV",
+   "question": "Kajian dampak kebijakan (policy impact assessment) terhadap kebijakan Adminduk menilai...",
+   "options": [
+    "Dampak terhadap masyarakat, layanan, dan anggaran",
+    "Dampak terhadap pegawai saja",
+    "Dampak terhadap pimpinan saja",
+    "Dampak terhadap swasta saja",
+    "Dampak terhadap RT saja"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 351,
+   "section": "IV",
+   "question": "Prinsip partisipasi publik dalam penyusunan kebijakan daerah diwujudkan melalui...",
+   "options": [
+    "Keputusan sepihak",
+    "Keputusan rahasia",
+    "Konsultasi publik, forum pemangku kepentingan, dan kanal aspirasi",
+    "Keputusan tertutup",
+    "Keputusan tanpa kajian"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 352,
+   "section": "IV",
+   "question": "Partisipasi publik berdasarkan UU 12/2011 dalam penyusunan Perda dilakukan melalui...",
+   "options": [
+    "Rapat dengar pendapat, kunjungan kerja, sosialisasi, seminar, dan lokakarya",
+    "Hanya rapat internal",
+    "Hanya surat",
+    "Hanya media",
+    "Hanya spanduk"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 353,
+   "section": "IV",
+   "question": "Naskah akademik dalam penyusunan Perda berfungsi...",
+   "options": [
+    "Daftar pegawai",
+    "Hiasan",
+    "Arsip",
+    "Memberikan landasan ilmiah dan arah pengaturan",
+    "Anggaran"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 354,
+   "section": "IV",
+   "question": "Evaluasi Rancangan Perda kabupaten/kota sebelum penetapan dilakukan oleh...",
+   "options": [
+    "Gubernur sebagai wakil Pemerintah Pusat untuk materi tertentu",
+    "Kepala desa",
+    "Pengadilan",
+    "RT",
+    "Camat"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 355,
+   "section": "IV",
+   "question": "Peran Biro/Bagian Hukum dalam penyusunan produk hukum daerah adalah...",
+   "options": [
+    "Menolak semua",
+    "Harmonisasi dan pemastian kesesuaian dengan peraturan yang lebih tinggi",
+    "Menandatangani produk hukum",
+    "Mengesahkan",
+    "Mengabaikan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 356,
+   "section": "IV",
+   "question": "Peraturan Bupati/Wali Kota di bidang Adminduk dibentuk untuk...",
+   "options": [
+    "Mengubah PP",
+    "Mengubah Perpres",
+    "Mengubah UU",
+    "Menggantikan Perda",
+    "Melaksanakan Perda atau melaksanakan kewenangan atributif/delegatif"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 357,
+   "section": "IV",
+   "question": "Surat Edaran Kepala Dinas dalam hierarki norma merupakan...",
+   "options": [
+    "Perda",
+    "Perbup",
+    "Peraturan perundang-undangan",
+    "Peraturan kebijakan (beleidsregel) yang bersifat internal dan tidak termasuk hierarki",
+    "UU"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 358,
+   "section": "IV",
+   "question": "Pemberian sanksi administratif kepada penduduk atas pelanggaran Adminduk di daerah harus...",
+   "options": [
+    "Tanpa dasar",
+    "Ditentukan sepihak",
+    "Memiliki dasar hukum yang jelas dan tidak bertentangan dengan UU Adminduk",
+    "Menggantikan pidana",
+    "Berdasarkan selera"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 359,
+   "section": "IV",
+   "question": "Daerah tidak dapat menetapkan Perda yang memungut biaya penerbitan dokumen kependudukan karena...",
+   "options": [
+    "Tidak diatur",
+    "Tidak ada kewenangan",
+    "Tidak ada dana",
+    "Tidak perlu",
+    "Bertentangan dengan UU yang menetapkan pelayanan tanpa biaya"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 360,
+   "section": "IV",
+   "question": "Tindak lanjut terhadap Perda yang bertentangan dengan peraturan yang lebih tinggi adalah...",
+   "options": [
+    "Diperluas",
+    "Dapat dibatalkan melalui mekanisme yang diatur peraturan perundang-undangan",
+    "Diabaikan",
+    "Dibiarkan",
+    "Diperkuat"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 361,
+   "section": "V",
+   "question": "Anda Kepala Dinas. Seorang investor akan membangun pabrik di lahan ulayat yang diklaim dua marga berbeda; warga menolak, sementara investor sudah mengantongi izin dari provinsi. Langkah pertama yang paling tepat sebagai JPT adalah...",
+   "options": [
+    "Menunggu keputusan provinsi tanpa tindakan",
+    "Membentuk tim terpadu (tokoh adat kedua marga, camat, instansi investasi, BPN) dan memfasilitasi musyawarah mufakat",
+    "Menyerahkan sepenuhnya penyelesaian kepada pengadilan adat",
+    "Mengamankan investasi dan meminta polisi menjaga lokasi",
+    "Membatalkan izin investor karena warga menolak"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 362,
+   "section": "V",
+   "question": "Seorang staf kedapatan membagikan ujaran kebencian bernuansa SARA di grup WhatsApp untuk mendukung calon tertentu. Sebagai pimpinan, langkah yang paling tepat adalah...",
+   "options": [
+    "Langsung mengusulkan pemberhentian tanpa klarifikasi",
+    "Mendiamkan karena terjadi di luar jam kerja",
+    "Menegur secara lisan saja",
+    "Meminta staf menghapus unggahan lalu melupakannya",
+    "Memanggil, mengklarifikasi, membina, dan menegakkan sanksi disiplin sesuai PP 94 Tahun 2021 serta menjadikannya pembelajaran netralitas ASN"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 363,
+   "section": "V",
+   "question": "Di unit kerja Anda, ASN penyandang disabilitas dan ASN dari Papua mengalami pengucilan halus (tidak diajak rapat). Tindakan yang paling tepat adalah...",
+   "options": [
+    "Menunggu ada pengaduan resmi",
+    "Menyusun kebijakan afirmatif: SOP rapat inklusif, rotasi penanggung jawab, dan edukasi keberagaman",
+    "Meminta mereka beradaptasi sendiri",
+    "Memindahkan mereka ke unit yang dianggap lebih nyaman",
+    "Menganggapnya dinamika kantor biasa"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 364,
+   "section": "V",
+   "question": "Seorang lansia penghayat kepercayaan terhadap Tuhan YME mengeluh petugas loket menolak mencantumkan kepercayaannya karena 'agama tidak ada dalam daftar'. Sikap pimpinan yang tepat adalah...",
+   "options": [
+    "Menunda layanan sampai ada surat edaran baru",
+    "Mengosongkan kolom agama tanpa penjelasan",
+    "Meluruskan petugas berdasarkan Putusan MK 97/PUU-XIV/2016, menegakkan pelayanan non-diskriminatif, dan memperbaiki SOP serta pelatihan petugas",
+    "Menyarankan lansia memilih salah satu agama resmi",
+    "Membela petugas karena sesuai kebiasaan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 365,
+   "section": "V",
+   "question": "Sebuah komunitas adat terpencil yang hidup semi-nomaden belum memiliki dokumen kependudukan. Pendekatan yang paling sesuai adalah...",
+   "options": [
+    "Pendekatan jemput bola yang menghormati adat: koordinasi dengan tokoh adat, pendampingan, dan prosedur khusus sesuai ketentuan",
+    "Menyerahkan sepenuhnya kepada pemerintah desa",
+    "Mewajibkan mereka datang ke kantor dinas",
+    "Menunggu mereka menetap",
+    "Menerbitkan dokumen secara massal tanpa verifikasi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 366,
+   "section": "V",
+   "question": "Banyak pasangan melakukan perkawinan adat yang belum tercatat sehingga anak-anak mereka sulit memperoleh akta kelahiran. Kebijakan yang paling tepat adalah...",
+   "options": [
+    "Menolak seluruh permohonan sampai perkawinan dicatat",
+    "Menyatakan perkawinan adat tidak sah dan tidak perlu dilayani",
+    "Menyediakan jalur layanan afirmatif (misalnya SPTJM untuk akta kelahiran) disertai edukasi pencatatan perkawinan melalui tokoh adat",
+    "Menerbitkan akta tanpa persyaratan apa pun",
+    "Menghukum orang tua dengan denda"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 367,
+   "section": "V",
+   "question": "Tokoh adat menolak perekaman foto dan biometrik warganya dengan alasan keyakinan. Sikap pimpinan yang paling bijak adalah...",
+   "options": [
+    "Menyatakan warga tersebut tidak berhak dilayani",
+    "Berdialog dengan tokoh adat, menjelaskan manfaat dan jaminan keamanan data, dan mencari solusi sesuai ketentuan tanpa pemaksaan",
+    "Memaksa perekaman dengan bantuan aparat",
+    "Meminta pemerintah desa memutuskan sendiri",
+    "Menunda layanan tanpa batas waktu"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 368,
+   "section": "V",
+   "question": "Petugas loket menolak melayani warga dengan alasan 'berbeda keyakinan' dengan dirinya. Tindakan pimpinan yang tepat adalah...",
+   "options": [
+    "Segera memastikan warga dilayani, memeriksa dan membina petugas, serta menjatuhkan sanksi bila terbukti diskriminasi",
+    "Memberi warga formulir pengaduan saja",
+    "Membiarkan karena hak pribadi petugas",
+    "Memindahkan warga ke dinas lain",
+    "Menunggu viral"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 369,
+   "section": "V",
+   "question": "Beredar hoaks yang menyebut Dukcapil 'mengutamakan pendatang' dan memicu gesekan antara penduduk asli dan transmigran. Strategi jangka pendek yang tepat adalah...",
+   "options": [
+    "Meminta polisi menangkap penyebar tanpa klarifikasi",
+    "De-eskalasi: klarifikasi berbasis data, melibatkan FKUB dan tokoh adat/masyarakat, dan memantau media sosial",
+    "Menutup layanan sementara",
+    "Menghapus akun penyebar",
+    "Mengabaikan karena hanya hoaks"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 370,
+   "section": "V",
+   "question": "Pegawai senior menolak dimutasi ke kecamatan terpencil karena alasan adat dan keluarga. Pimpinan yang berempati namun tetap berintegritas akan...",
+   "options": [
+    "Mengabaikan keberatan",
+    "Memutasi pegawai lain tanpa alasan",
+    "Mendengar alasan, mempertimbangkan kondisi, dan memutuskan berdasarkan kebutuhan organisasi serta aturan manajemen ASN secara adil",
+    "Menghukum pegawai",
+    "Membatalkan mutasi karena keberatan pegawai"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 371,
+   "section": "V",
+   "question": "Rapat penting dijadwalkan bertepatan dengan hari besar keagamaan sebagian pegawai. Pendekatan kepemimpinan inklusif adalah...",
+   "options": [
+    "Membatalkan seluruh rapat bulan itu",
+    "Meminta pegawai terdampak izin tanpa dukungan",
+    "Mengatur ulang jadwal dengan mempertimbangkan hari besar keagamaan seluruh pegawai",
+    "Tetap menyelenggarakan rapat tanpa penyesuaian",
+    "Mengganti peserta rapat"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 372,
+   "section": "V",
+   "question": "Pembukaan acara internal dinas selalu menggunakan doa satu agama saja sehingga sebagian pegawai merasa terpinggirkan. Kebijakan yang tepat adalah...",
+   "options": [
+    "Menyusun tata acara yang inklusif, misalnya doa bergilir menurut keyakinan masing-masing atau hening cipta",
+    "Menyerahkan kepada panitia tanpa pedoman",
+    "Menghapus semua doa",
+    "Tetap seperti biasa",
+    "Menyuruh pegawai tidak hadir"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 373,
+   "section": "V",
+   "question": "Kolom komentar media sosial resmi dinas dipenuhi ujaran kebencian antarkelompok. Tindakan yang tepat adalah...",
+   "options": [
+    "Menghapus seluruh komentar tanpa pedoman",
+    "Menutup akun",
+    "Mengabaikan",
+    "Membalas dengan kemarahan",
+    "Menerapkan pedoman moderasi komentar, menanggapi secara santun, dan melaporkan konten yang melanggar hukum"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 374,
+   "section": "V",
+   "question": "Dalam kegiatan jemput bola di kampung adat, sikap yang paling mencerminkan kepekaan sosial kultural adalah...",
+   "options": [
+    "Menugaskan petugas yang tidak berkomunikasi",
+    "Menuntut warga menyesuaikan diri dengan jadwal dinas",
+    "Langsung membuka layanan tanpa izin",
+    "Membatasi layanan pada pemuda saja",
+    "Menyampaikan maksud kepada tokoh adat terlebih dahulu, menghormati tata krama setempat, dan menyesuaikan jadwal dengan kegiatan adat tanpa melanggar aturan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 375,
+   "section": "V",
+   "question": "Pasca konflik sosial, sejumlah korban kehilangan dokumen dan terpecah dalam pengungsian lintas etnis. Prinsip layanan Adminduk yang tepat adalah...",
+   "options": [
+    "Melayani hanya yang memiliki bukti lengkap",
+    "Menyerahkan kepada relawan",
+    "Mendahulukan etnis mayoritas",
+    "Melayani seluruh korban secara setara tanpa diskriminasi etnis, dengan prosedur khusus pemulihan dokumen",
+    "Menunda sampai konflik selesai sepenuhnya"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 376,
+   "section": "V",
+   "question": "Seorang warga komunitas minoritas mengeluh petugas berbicara kasar dan merendahkan etniknya. Tindakan yang tepat adalah...",
+   "options": [
+    "Meminta warga memaafkan",
+    "Memindahkan warga ke loket lain tanpa tindak lanjut",
+    "Menindaklanjuti pengaduan, memeriksa petugas, memberikan sanksi bila terbukti, dan melatih seluruh pegawai tentang pelayanan non-diskriminatif",
+    "Mengabaikan karena subjektif",
+    "Menghubungi tokoh etnis tanpa memeriksa petugas"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 377,
+   "section": "V",
+   "question": "Pemohon penyandang disabilitas rungu datang ke loket tanpa pendamping. Layanan yang tepat adalah...",
+   "options": [
+    "Meminta pemohon membawa pendamping lain hari",
+    "Mengarahkan ke loket yang lebih sepi tanpa bantuan",
+    "Meminta pemohon menulis semua keterangan tanpa penjelasan",
+    "Menyediakan juru bahasa isyarat atau media komunikasi alternatif agar pemohon dapat dilayani mandiri",
+    "Menolak melayani"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 378,
+   "section": "V",
+   "question": "Dalam budaya lokal, masyarakat biasa memberi 'uang terima kasih' kepada petugas yang membantu. Sikap pimpinan yang tepat adalah...",
+   "options": [
+    "Menerima asal dilaporkan nanti",
+    "Menyalahkan masyarakat",
+    "Mengedukasi masyarakat dan petugas bahwa layanan gratis, menolak pemberian, dan melaporkan gratifikasi sesuai ketentuan tanpa merendahkan budaya berterima kasih",
+    "Membiarkan karena tradisi",
+    "Mengancam pidana semua warga"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 379,
+   "section": "V",
+   "question": "Tokoh masyarakat meminta data pemilih kelompok adatnya untuk kepentingan kampanye calon tertentu. Respons yang tepat adalah...",
+   "options": [
+    "Mengabaikan permintaan",
+    "Memberikan data karena dianggap tokoh",
+    "Menolak dengan sopan, menjelaskan aturan pelindungan data dan netralitas, serta menawarkan mekanisme informasi yang sah",
+    "Memberikan sebagian data",
+    "Menjualnya secara resmi"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 380,
+   "section": "V",
+   "question": "Posko pengungsian bencana dipenuhi keluhan antarsuku soal pembagian bantuan. Peran Dukcapil yang paling mendukung perekat sosial adalah...",
+   "options": [
+    "Mengubah data penduduk",
+    "Menahan layanan sampai situasi tenang",
+    "Menyediakan layanan dokumen yang cepat dan setara bagi seluruh pengungsi sebagai dasar bantuan yang adil",
+    "Memprioritaskan satu suku",
+    "Menyerahkan kepada relawan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 381,
+   "section": "V",
+   "question": "Pimpinan baru berasal dari luar daerah dan mendapat resistensi budaya dari pegawai. Strategi yang tepat adalah...",
+   "options": [
+    "Belajar adat dan budaya setempat, mendengar tokoh dan pegawai, serta membangun kepercayaan melalui hasil kerja",
+    "Memaksakan gaya kerja asal daerah",
+    "Menunggu resistensi hilang",
+    "Mengabaikan resistensi",
+    "Mengganti seluruh pegawai"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 382,
+   "section": "V",
+   "question": "Kebijakan layanan yang ramah ibu menyusui bagi pegawai dan pemohon mencerminkan...",
+   "options": [
+    "Pemborosan anggaran",
+    "Kebijakan yang tidak relevan",
+    "Pelanggaran aturan",
+    "Responsivitas gender dan empati sosial pimpinan",
+    "Diskriminasi terhadap pegawai laki-laki"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 383,
+   "section": "V",
+   "question": "Pengarusutamaan gender dalam pembangunan nasional dilandasi oleh...",
+   "options": [
+    "Perpres No. 39 Tahun 2019",
+    "Instruksi Presiden No. 9 Tahun 2000",
+    "Perpres No. 95 Tahun 2018",
+    "PP No. 12 Tahun 2017",
+    "UU No. 25 Tahun 2009"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 384,
+   "section": "V",
+   "question": "Empat indikator moderasi beragama yang sering dirujuk dalam kebijakan nasional adalah...",
+   "options": [
+    "Disiplin, loyalitas, integritas, dan kerja sama",
+    "Transparansi, akuntabilitas, partisipasi, dan efisiensi",
+    "Komitmen kebangsaan, toleransi, anti-kekerasan, dan akomodatif terhadap budaya lokal",
+    "Pendidikan, kesehatan, ekonomi, dan hukum",
+    "Ekonomi, politik, sosial, dan budaya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 385,
+   "section": "V",
+   "question": "Penanganan konflik sosial menurut UU No. 7 Tahun 2012 meliputi tahapan...",
+   "options": [
+    "Pencegahan dan penghukuman",
+    "Pembinaan dan pengawasan",
+    "Penghentian dan pemidanaan",
+    "Pencegahan konflik, penghentian konflik, dan pemulihan pascakonflik",
+    "Pemulihan dan pemekaran"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 386,
+   "section": "V",
+   "question": "Forum Kerukunan Umat Beragama (FKUB) di daerah berfungsi antara lain...",
+   "options": [
+    "Menetapkan hukuman bagi pelanggar",
+    "Menerbitkan izin usaha",
+    "Menetapkan hasil pemilu",
+    "Mengganti fungsi pengadilan",
+    "Melakukan dialog dengan pemuka agama dan masyarakat serta menampung aspirasi dalam rangka memelihara kerukunan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 387,
+   "section": "V",
+   "question": "Sosialisasi layanan Adminduk di komunitas yang kuat tradisi lisannya paling efektif dilakukan dengan...",
+   "options": [
+    "Hanya situs web",
+    "Hanya siaran pers",
+    "Memanfaatkan tokoh adat, bahasa daerah, dan media/forum tradisional setempat",
+    "Hanya melalui spanduk di kota",
+    "Hanya surat edaran"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 388,
+   "section": "V",
+   "question": "Seorang JPT yang memiliki empati sosial ditandai dengan kemampuan...",
+   "options": [
+    "Menyampaikan simpati saat acara",
+    "Menyetujui semua tuntutan kelompok",
+    "Mengalihkan masalah ke pihak lain",
+    "Memahami kondisi dan kebutuhan kelompok yang berbeda, lalu mewujudkannya dalam kebijakan dan layanan nyata",
+    "Menghindari kelompok yang berkonflik"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 389,
+   "section": "V",
+   "question": "Kebijakan perundungan (bullying) di tempat kerja sebaiknya dikelola dengan...",
+   "options": [
+    "Pembiaran",
+    "Pemecatan massal",
+    "Meminta korban pindah",
+    "Kebijakan tertulis, kanal pengaduan aman, penanganan yang adil, dan pembinaan budaya hormat",
+    "Menunggu pengaduan polisi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 390,
+   "section": "V",
+   "question": "Prinsip akomodasi yang layak bagi pegawai penyandang disabilitas diatur dalam...",
+   "options": [
+    "UU No. 20 Tahun 2023 saja",
+    "UU No. 14 Tahun 2008",
+    "UU No. 8 Tahun 2016 tentang Penyandang Disabilitas",
+    "UU No. 25 Tahun 2009",
+    "UU No. 12 Tahun 2011"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 391,
+   "section": "V",
+   "question": "Kuota pekerja penyandang disabilitas pada instansi pemerintah menurut UU 8/2016 adalah paling sedikit...",
+   "options": [
+    "1 persen",
+    "0,5 persen",
+    "2 persen",
+    "10 persen",
+    "5 persen"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 392,
+   "section": "V",
+   "question": "Warga di wilayah perbatasan memiliki ikatan budaya dan keluarga dengan warga negara tetangga, sehingga sebagian memiliki dokumen kedua negara. Pendekatan Dinas yang tepat adalah...",
+   "options": [
+    "Menutup layanan di wilayah perbatasan",
+    "Menuduh seluruh warga tidak setia",
+    "Mengabaikan persoalan",
+    "Mencabut seluruh dokumen",
+    "Pendataan dan verifikasi yang tegas sesuai hukum kewarganegaraan, disertai komunikasi yang menghormati ikatan budaya dan tanpa stigma"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 393,
+   "section": "V",
+   "question": "Beredar hoaks bahwa chip pada KTP-el dapat melacak dan merekam kehidupan pribadi warga. Respons yang tepat adalah...",
+   "options": [
+    "Menghapus berita secara sepihak",
+    "Mengancam penyebar",
+    "Mengabaikan",
+    "Klarifikasi cepat dengan penjelasan teknis sederhana, melibatkan tokoh lokal, dan membuka kanal tanya jawab",
+    "Menutup layanan KTP-el"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 394,
+   "section": "V",
+   "question": "Ruang ibadah di kantor dinas yang melayani pegawai berbagai agama sebaiknya...",
+   "options": [
+    "Disediakan berbayar",
+    "Tidak disediakan",
+    "Hanya untuk agama mayoritas",
+    "Digunakan sebagai gudang",
+    "Disediakan secara adil dan layak bagi pegawai dari berbagai keyakinan sesuai kemampuan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 395,
+   "section": "V",
+   "question": "Budaya 'ewuh pakewuh' yang membuat bawahan enggan mengkritik atasan sebaiknya dihadapi pimpinan dengan...",
+   "options": [
+    "Membatasi rapat",
+    "Mewajibkan pujian kepada atasan",
+    "Membangun ruang aman untuk umpan balik, memberi teladan menerima kritik, dan menghargai masukan",
+    "Menghukum yang mengkritik",
+    "Mengabaikannya"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 396,
+   "section": "V",
+   "question": "Sila keempat Pancasila yang berkaitan dengan musyawarah mufakat mengajarkan pimpinan untuk...",
+   "options": [
+    "Menuruti mayoritas selalu",
+    "Menunda keputusan",
+    "Menghindari konflik dengan diam",
+    "Menentukan sendiri keputusan",
+    "Mengutamakan musyawarah dengan hikmat kebijaksanaan dalam menyelesaikan perbedaan kepentingan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 397,
+   "section": "V",
+   "question": "Pimpinan harus mengambil keputusan yang tidak populer bagi sebagian masyarakat adat tetapi benar menurut regulasi. Cara menyampaikan yang tepat adalah...",
+   "options": [
+    "Mengikuti tuntutan agar damai",
+    "Menunda tanpa batas",
+    "Berdialog dengan empati, menjelaskan dasar hukum dan manfaat, serta membuka ruang solusi yang tidak melanggar aturan",
+    "Mengumumkan sepihak tanpa dialog",
+    "Menyerahkan ke atasan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 398,
+   "section": "V",
+   "question": "Visi dan misi kepala daerah tampak bertentangan dengan nilai adat setempat. Sikap JPT yang tepat adalah...",
+   "options": [
+    "Menolak menjalankan visi",
+    "Mengabaikan adat",
+    "Diam saja",
+    "Mencari titik temu melalui dialog, memastikan kepatuhan hukum, dan menyampaikan masukan secara santun kepada pimpinan",
+    "Mengikuti adat tanpa mengindahkan hukum"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 399,
+   "section": "V",
+   "question": "Menurut Standar Kompetensi Jabatan ASN (Permenpan RB No. 38 Tahun 2017), kompetensi yang dituntut dari pejabat meliputi...",
+   "options": [
+    "Kompetensi teknis saja",
+    "Kompetensi fisik dan mental",
+    "Kompetensi akademik saja",
+    "Kompetensi hukum dan keuangan",
+    "Kompetensi teknis, kompetensi manajerial, dan kompetensi sosial kultural"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 400,
+   "section": "V",
+   "question": "'Perekat bangsa' sebagai kompetensi sosial kultural pejabat berarti...",
+   "options": [
+    "Mengutamakan kelompok sendiri",
+    "Mempromosikan toleransi, keterbukaan, dan persatuan serta peka terhadap perbedaan individu maupun kelompok",
+    "Menyerahkan urusan SARA kepada aparat",
+    "Menyeragamkan budaya",
+    "Menghindari perbedaan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 401,
+   "section": "V",
+   "question": "Pegawai Gen Z mengusulkan sistem kerja daring penuh, sementara pegawai senior ingin tatap muka. Pendekatan pimpinan yang adaptif-kolaboratif adalah...",
+   "options": [
+    "Memenangkan pegawai muda",
+    "Memenangkan pegawai senior",
+    "Menyusun pola kerja fleksibel berbasis kinerja dan kebutuhan layanan dengan melibatkan kedua kelompok",
+    "Memerintahkan aturan baru tanpa diskusi",
+    "Menolak kedua usulan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 402,
+   "section": "V",
+   "question": "Mentoring terbalik (reverse mentoring) antar generasi di dinas bermanfaat untuk...",
+   "options": [
+    "Menambah rapat",
+    "Saling berbagi keahlian: digital dari pegawai muda, pengalaman dari pegawai senior",
+    "Membuktikan siapa yang lebih unggul",
+    "Menggantikan pegawai senior",
+    "Mengurangi beban kerja"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 403,
+   "section": "V",
+   "question": "Pemuka agama diminta menyampaikan pentingnya pencatatan perkawinan dan kelahiran dalam khotbah/ceramah. Tindakan ini merupakan contoh...",
+   "options": [
+    "Pelanggaran netralitas",
+    "Mencampuradukkan agama dan negara",
+    "Pemborosan",
+    "Pengalihan tugas dinas",
+    "Pemanfaatan modal sosial dan kearifan lokal dalam kebijakan publik"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 404,
+   "section": "V",
+   "question": "Upaya mengurangi dampak pinjaman online ilegal terhadap warga melalui pendekatan sosial kultural yang paling tepat adalah...",
+   "options": [
+    "Memberi bantuan uang tunai saja",
+    "Melarang warga memakai ponsel",
+    "Menyalahkan korban",
+    "Edukasi literasi keuangan dan digital melalui tokoh agama/adat, balai pertemuan, dan arisan produktif, disertai kolaborasi penegakan hukum",
+    "Menunggu bantuan pusat"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 405,
+   "section": "V",
+   "question": "Dalam pembinaan upacara bendera, sebagian warga menolak hormat bendera karena alasan keyakinan. Pendekatan pimpinan yang tepat adalah...",
+   "options": [
+    "Mengusir mereka dari upacara",
+    "Menghormati kebebasan beragama sesuai hukum, melakukan dialog dan edukasi wawasan kebangsaan, serta mengikuti ketentuan peraturan yang berlaku tanpa kekerasan atau stigma",
+    "Mempermalukan mereka di depan umum",
+    "Mengabaikan sepenuhnya",
+    "Memaksa dengan ancaman"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 406,
+   "section": "V",
+   "question": "Salah satu cara menanamkan nilai BerAKHLAK (Adaptif dan Kolaboratif) dalam tim lintas generasi adalah...",
+   "options": [
+    "Memisahkan kelompok generasi",
+    "Membentuk tim lintas generasi untuk proyek bersama, menetapkan tujuan yang jelas, dan merayakan keberhasilan kolaborasi",
+    "Membiarkan konflik",
+    "Menyamakan cara kerja secara paksa",
+    "Menghukum perbedaan cara kerja"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 407,
+   "section": "V",
+   "question": "Penyusunan SOP pemakaian aset budaya (misalnya balai adat) oleh pemerintah dan masyarakat sebaiknya dilakukan dengan...",
+   "options": [
+    "Keputusan sepihak aparat",
+    "Keputusan sepihak tokoh adat",
+    "Melibatkan tokoh adat dan warga lintas budaya secara partisipatif",
+    "Keputusan sepihak dinas",
+    "Tanpa SOP"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 408,
+   "section": "V",
+   "question": "Festival budaya akulturasi antara warga asli dan pendatang dalam jangka panjang berfungsi...",
+   "options": [
+    "Menyeragamkan budaya",
+    "Membangun kohesi sosial dan saling pengertian lintas budaya",
+    "Menyaingi kegiatan lain",
+    "Mengisi waktu luang",
+    "Menambah anggaran pariwisata semata"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 409,
+   "section": "V",
+   "question": "Perda pelestarian budaya dan perlindungan hak masyarakat adat yang disusun daerah sebaiknya...",
+   "options": [
+    "Tidak melibatkan masyarakat",
+    "Dirancang bersama masyarakat adat dan selaras dengan peraturan perundang-undangan yang lebih tinggi",
+    "Bertentangan dengan UU bila perlu",
+    "Hanya menguntungkan pejabat",
+    "Dirancang tertutup oleh dinas"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 410,
+   "section": "V",
+   "question": "Pejabat yang menghadapi dua kelompok warga yang bersitegang sebaiknya berperan sebagai...",
+   "options": [
+    "Pembela salah satu pihak",
+    "Hakim yang menjatuhkan vonis",
+    "Fasilitator netral yang membuka dialog dan mencari solusi bersama",
+    "Penonton",
+    "Pihak yang menghindari konflik"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 411,
+   "section": "V",
+   "question": "Perbedaan antara 'fasilitasi' dan 'instruksi' dalam penyelesaian konflik sosial adalah...",
+   "options": [
+    "Keduanya identik",
+    "Fasilitasi memaksa, instruksi mengajak",
+    "Fasilitasi hanya dilakukan aparat",
+    "Fasilitasi membangun kesepakatan para pihak, sedangkan instruksi memaksakan keputusan dari atas",
+    "Instruksi selalu lebih efektif"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 412,
+   "section": "V",
+   "question": "Pelibatan pemuda dan perempuan dalam forum penyelesaian konflik lokal penting karena...",
+   "options": [
+    "Memenuhi syarat administrasi saja",
+    "Menambah peserta rapat",
+    "Meningkatkan inklusivitas, legitimasi, dan keberlanjutan solusi",
+    "Menghindari tokoh agama",
+    "Mengurangi peran tokoh adat"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 413,
+   "section": "V",
+   "question": "Strategi jangka menengah dalam menangani gesekan antarbudaya di suatu kabupaten yang paling tepat adalah...",
+   "options": [
+    "Menyusun aturan penggunaan fasilitas bersama dan membuka forum dialog lintas budaya secara rutin",
+    "Menindak tanpa dialog",
+    "Menunggu situasi tenang",
+    "Menutup fasilitas bersama",
+    "Memisahkan kelompok"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 414,
+   "section": "V",
+   "question": "Dalam penanganan kasus viral bernuansa SARA di media sosial, sikap pimpinan yang tepat adalah...",
+   "options": [
+    "Menutup akun dinas",
+    "Ikut berkomentar emosional",
+    "Cepat merespons dengan fakta, menenangkan, berkoordinasi dengan pihak berwenang, dan tidak memperkeruh narasi",
+    "Mengabaikan",
+    "Menunggu viral mereda"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 415,
+   "section": "V",
+   "question": "Pernyataan yang paling tepat tentang peran JPT sebagai perekat bangsa di era media sosial adalah...",
+   "options": [
+    "Hanya mengurus administrasi",
+    "Menjadi teladan dan penyejuk yang menyebarkan informasi akurat, memfasilitasi dialog, dan melayani semua kelompok secara setara",
+    "Mengikuti arus opini terbanyak",
+    "Menghindari media sosial",
+    "Hanya berfokus pada layanan teknis"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 416,
+   "section": "V",
+   "question": "Seorang Kepala Dinas menerima laporan bahwa target perekaman KTP-el hanya tercapai 60% pada semester pertama. Tindakan kepemimpinan yang paling tepat adalah...",
+   "options": [
+    "Menurunkan target tanpa kajian",
+    "Menganalisis penyebab, menetapkan langkah percepatan bersama tim, dan memantau secara berkala",
+    "Menyalahkan kecamatan",
+    "Mengganti seluruh staf",
+    "Menunda laporan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 417,
+   "section": "V",
+   "question": "Gaya kepemimpinan yang paling sesuai untuk memimpin transformasi digital dengan pegawai lintas generasi adalah...",
+   "options": [
+    "Birokratis kaku",
+    "Otoriter",
+    "Transformasional dan partisipatif",
+    "Transaksional murni",
+    "Laissez-faire murni"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 418,
+   "section": "V",
+   "question": "Atasan langsung (Sekda) memerintahkan Anda untuk menerbitkan dokumen kependudukan bagi seseorang tanpa memenuhi persyaratan. Sikap yang tepat adalah...",
+   "options": [
+    "Menerbitkan secara diam-diam",
+    "Mematuhi demi atasan",
+    "Menyuruh bawahan",
+    "Menjelaskan ketentuan hukum secara santun dan menolak bila bertentangan dengan peraturan, mencari solusi yang sah",
+    "Menunda tanpa penjelasan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 419,
+   "section": "V",
+   "question": "Seorang tokoh masyarakat mengeluhkan pelayanan lambat di media massa. Respons paling efektif adalah...",
+   "options": [
+    "Membantah keras",
+    "Menghubungi redaksi agar dihapus",
+    "Mengabaikan",
+    "Menyerang balik",
+    "Mendengar, mengklarifikasi fakta, memperbaiki layanan, dan mengomunikasikan perbaikan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 420,
+   "section": "V",
+   "question": "Keterbukaan pimpinan terhadap kritik membangun dari bawahan menunjukkan...",
+   "options": [
+    "Kekalahan",
+    "Kelemahan",
+    "Kematangan kepemimpinan dan budaya organisasi yang sehat",
+    "Ketidaktegasan",
+    "Ketidakmampuan"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 421,
+   "section": "V",
+   "question": "Komunikasi efektif pimpinan kepada pegawai terkait perubahan kebijakan mencakup...",
+   "options": [
+    "Surat tanpa penjelasan",
+    "Penjelasan alasan, manfaat, langkah, dan ruang dialog",
+    "Instruksi tanpa alasan",
+    "Pengumuman mendadak",
+    "Informasi tertutup"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 422,
+   "section": "V",
+   "question": "Pimpinan yang memberikan teladan integritas akan...",
+   "options": [
+    "Tidak berpengaruh",
+    "Menambah beban",
+    "Menurunkan moral",
+    "Mendorong budaya kerja yang jujur dan akuntabel",
+    "Menghambat kinerja"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 423,
+   "section": "V",
+   "question": "Pengambilan keputusan yang dilakukan di bawah tekanan waktu sebaiknya...",
+   "options": [
+    "Menyerahkan kepada orang lain",
+    "Mengikuti suara terbanyak tanpa analisis",
+    "Menunda tanpa batas",
+    "Berdasarkan insting semata",
+    "Tetap berbasis informasi terbaik yang tersedia dan mempertimbangkan risiko"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 424,
+   "section": "V",
+   "question": "Delegasi tugas yang efektif memerlukan...",
+   "options": [
+    "Tanpa pemantauan",
+    "Tanpa kewenangan",
+    "Kejelasan tujuan, kewenangan, sumber daya, dan pemantauan hasil",
+    "Tanpa sumber daya",
+    "Perintah singkat"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 425,
+   "section": "V",
+   "question": "Manajemen pemangku kepentingan (stakeholder) pada kebijakan Adminduk mencakup...",
+   "options": [
+    "Hanya swasta",
+    "Hanya masyarakat",
+    "Identifikasi, pemetaan pengaruh-kepentingan, dan strategi pelibatan",
+    "Hanya DPRD",
+    "Hanya pemerintah"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 426,
+   "section": "V",
+   "question": "Pancasila sebagai dasar negara tercantum dalam...",
+   "options": [
+    "Pasal 28 UUD 1945",
+    "Pasal 1 UUD 1945",
+    "Pasal 33 UUD 1945",
+    "Alinea keempat Pembukaan UUD 1945",
+    "Alinea pertama Pembukaan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 427,
+   "section": "V",
+   "question": "Sila kelima Pancasila relevan dengan pelayanan Adminduk dalam hal...",
+   "options": [
+    "Keistimewaan golongan tertentu",
+    "Pembatasan akses",
+    "Prioritas kota",
+    "Prioritas kaya",
+    "Keadilan akses dokumen kependudukan bagi seluruh rakyat Indonesia"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 428,
+   "section": "V",
+   "question": "Nilai 'Bhinneka Tunggal Ika' menuntut pelayanan publik yang...",
+   "options": [
+    "Mengutamakan mayoritas",
+    "Menyeragamkan",
+    "Menghargai keberagaman dan tidak diskriminatif",
+    "Mengutamakan golongan",
+    "Mengabaikan minoritas"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 429,
+   "section": "V",
+   "question": "Pasal UUD 1945 yang menegaskan hak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil adalah...",
+   "options": [
+    "Pasal 28C",
+    "Pasal 28A",
+    "Pasal 28E",
+    "Pasal 28B",
+    "Pasal 28D ayat (1)"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 430,
+   "section": "V",
+   "question": "Pasal UUD 1945 yang memuat hak anak atas identitas dan kelangsungan hidup, tumbuh, dan berkembang adalah...",
+   "options": [
+    "Pasal 28A",
+    "Pasal 28D",
+    "Pasal 28E",
+    "Pasal 28B ayat (2)",
+    "Pasal 28F"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 431,
+   "section": "V",
+   "question": "Wawasan Nusantara dalam konteks pelayanan publik berarti...",
+   "options": [
+    "Pelayanan hanya kota",
+    "Pelayanan yang merata bagi seluruh wilayah NKRI termasuk daerah terpencil",
+    "Pelayanan hanya perbatasan",
+    "Pelayanan hanya pulau besar",
+    "Pelayanan hanya pusat"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 432,
+   "section": "V",
+   "question": "Netralitas ASN berperan penting dalam menjaga...",
+   "options": [
+    "Persatuan dan profesionalisme birokrasi",
+    "Kepentingan golongan",
+    "Kepentingan kelompok",
+    "Kepentingan partai",
+    "Kepentingan pribadi"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 433,
+   "section": "V",
+   "question": "Ancaman nonmiliter terhadap kedaulatan di bidang data adalah...",
+   "options": [
+    "Sabotase fisik",
+    "Kebocoran dan penyalahgunaan data kependudukan oleh pihak yang tidak bertanggung jawab",
+    "Perang konvensional",
+    "Blokade laut",
+    "Invasi bersenjata"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 434,
+   "section": "V",
+   "question": "Bela negara bagi ASN diwujudkan antara lain dengan...",
+   "options": [
+    "Mengangkat senjata",
+    "Melaksanakan tugas dengan profesional, jujur, dan berorientasi pada kepentingan negara",
+    "Meninggalkan tugas",
+    "Menolak perubahan",
+    "Berpolitik praktis"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 435,
+   "section": "V",
+   "question": "Nilai dasar ASN BerAKHLAK meliputi...",
+   "options": [
+    "Bersih, Adil, Kuat, Hebat, Loyal, Aktif, Kompak",
+    "Bijak, Akurat, Kreatif, Handal, Loyal, Aktif, Konsisten",
+    "Berorientasi Pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, Kolaboratif",
+    "Berani, Aktif, Kreatif, Hebat, Loyal, Aman, Kuat",
+    "Baik, Amanah, Kritis, Hormat, Loyal, Adil, Kompeten"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 436,
+   "section": "V",
+   "question": "Nilai 'Berorientasi Pelayanan' dalam BerAKHLAK diwujudkan dengan...",
+   "options": [
+    "Menunda pekerjaan",
+    "Menghindari pemohon",
+    "Menyalahkan",
+    "Menunggu perintah",
+    "Ramah, cekatan, solutif, dan dapat diandalkan"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 437,
+   "section": "V",
+   "question": "Nilai 'Akuntabel' dalam BerAKHLAK berarti...",
+   "options": [
+    "Menutupi kesalahan",
+    "Bertanggung jawab atas kepercayaan yang diberikan",
+    "Menghindari tugas",
+    "Menyalahkan atasan",
+    "Menghindari laporan"
+   ],
+   "answer": 1
+  },
+  {
+   "id": 438,
+   "section": "V",
+   "question": "Nilai 'Adaptif' berarti...",
+   "options": [
+    "Menolak perubahan",
+    "Mempertahankan kebiasaan",
+    "Menunda perubahan",
+    "Terus berinovasi dan antusias dalam menggerakkan serta menghadapi perubahan",
+    "Menghindari teknologi"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 439,
+   "section": "V",
+   "question": "Nilai 'Kolaboratif' berarti...",
+   "options": [
+    "Membangun kerja sama yang sinergis",
+    "Menutup informasi",
+    "Bersaing antar unit",
+    "Menghindari koordinasi",
+    "Bekerja sendiri"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 440,
+   "section": "V",
+   "question": "Seorang pimpinan yang mencegah ASN berpolitik praktis dalam pilkada harus...",
+   "options": [
+    "Mensosialisasikan aturan netralitas dan menindak pelanggaran sesuai ketentuan",
+    "Membiarkan",
+    "Mengarahkan dukungan",
+    "Menghindar",
+    "Menutup mata"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 441,
+   "section": "V",
+   "question": "Etika pemerintahan menuntut pejabat...",
+   "options": [
+    "Mengutamakan atasan",
+    "Mengabaikan publik",
+    "Menempatkan kepentingan publik di atas kepentingan pribadi",
+    "Menempatkan kelompok di atas publik",
+    "Menempatkan kepentingan pribadi di atas publik"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 442,
+   "section": "V",
+   "question": "Tujuan LHKPN adalah...",
+   "options": [
+    "Mencegah korupsi dan meningkatkan transparansi kekayaan pejabat",
+    "Menentukan jabatan",
+    "Menghitung pajak",
+    "Menghukum pejabat",
+    "Menghitung gaji"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 443,
+   "section": "V",
+   "question": "Benturan kepentingan dalam pengadaan barang/jasa dinas dihindari dengan...",
+   "options": [
+    "Menyembunyikan hubungan",
+    "Menunda laporan",
+    "Menerima hadiah",
+    "Menolak terlibat dalam keputusan yang berkaitan dengan pihak yang memiliki hubungan pribadi",
+    "Menunjuk keluarga"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 444,
+   "section": "V",
+   "question": "Prinsip 'tone from the top' dalam integritas organisasi berarti...",
+   "options": [
+    "Bawahan sebagai contoh",
+    "Peraturan sebagai contoh",
+    "Tidak ada contoh",
+    "Pimpinan menjadi contoh nilai dan perilaku etis",
+    "Eksternal sebagai contoh"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 445,
+   "section": "V",
+   "question": "Jenis hukuman disiplin ringan antara lain...",
+   "options": [
+    "Teguran lisan, teguran tertulis, dan pernyataan tidak puas secara tertulis",
+    "Pemberhentian tidak hormat",
+    "Pembebasan jabatan",
+    "Pemberhentian",
+    "Penurunan pangkat"
+   ],
+   "answer": 0
+  },
+  {
+   "id": 446,
+   "section": "V",
+   "question": "Jabatan Pimpinan Tinggi Pratama setara dengan...",
+   "options": [
+    "Eselon I",
+    "Eselon IIIa",
+    "Eselon V",
+    "Eselon IVa",
+    "Eselon IIa (kepala dinas/badan di daerah)"
+   ],
+   "answer": 4
+  },
+  {
+   "id": 447,
+   "section": "V",
+   "question": "Prinsip 'kepentingan terbaik bagi anak' dalam layanan akta kelahiran diwujudkan dengan...",
+   "options": [
+    "Mengenakan biaya",
+    "Mengabaikan anak",
+    "Mengutamakan hak anak atas identitas meskipun terdapat kendala administratif orang tua, sesuai mekanisme hukum",
+    "Menunda anak",
+    "Menolak anak"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 448,
+   "section": "V",
+   "question": "Langkah menghadapi dilema etis yang tepat adalah...",
+   "options": [
+    "Menghindari keputusan",
+    "Menyalahkan",
+    "Mengikuti perasaan",
+    "Mengidentifikasi fakta, nilai, pemangku kepentingan, opsi, dan konsekuensi, lalu memutuskan sesuai aturan dan nilai etik",
+    "Mengikuti atasan"
+   ],
+   "answer": 3
+  },
+  {
+   "id": 449,
+   "section": "V",
+   "question": "Whistleblower dalam organisasi perlu dilindungi karena...",
+   "options": [
+    "Tidak penting",
+    "Mengganggu",
+    "Membantu mengungkap pelanggaran dan memperkuat integritas",
+    "Merugikan",
+    "Menyebarkan masalah"
+   ],
+   "answer": 2
+  },
+  {
+   "id": 450,
+   "section": "V",
+   "question": "Succession planning di dinas dilakukan untuk...",
+   "options": [
+    "Menunjuk keluarga",
+    "Menentukan favorit",
+    "Menunjuk teman",
+    "Menyiapkan calon pemimpin masa depan secara terencana berbasis merit",
+    "Menghalangi pegawai lain"
+   ],
+   "answer": 3
+  }
+ ],
+ "essay": [
+  {
+   "id": 451,
+   "question": "Cakupan kepemilikan akta kelahiran anak usia 0–18 tahun di daerah Anda baru 78%. Susunlah strategi percepatan selama 12 bulan.",
+   "keyPoints": "pemetaan data per kecamatan/desa; integrasi dengan fasyankes (surat lahir → akta); sinergi sekolah dan posyandu; SPTJM; jemput bola; pendaftaran daring; kolaborasi desa; target dan monitoring triwulanan."
+  },
+  {
+   "id": 452,
+   "question": "Jelaskan peran strategis Kepala Dinas Dukcapil dalam menjamin satu data kependudukan sebagai rujukan data lintas sektor di daerah.",
+   "keyPoints": "data tunggal berbasis NIK; pemadanan dengan Dinkes, Dinsos, BPJS, KPU, pajak; tata kelola dan wali data; kualitas data; perjanjian kerja sama; pelindungan data pribadi."
+  },
+  {
+   "id": 453,
+   "question": "Uraikan langkah menyusun Renstra Dinas Dukcapil lima tahun yang selaras dengan RPJMD.",
+   "keyPoints": "analisis lingkungan (SWOT); isu strategis; tujuan-sasaran; indikator kinerja; program-kegiatan-subkegiatan; kerangka pendanaan; matriks kinerja; keselarasan RPJMD dan prioritas nasional."
+  },
+  {
+   "id": 454,
+   "question": "Dinas Anda menerima pengaduan massal tentang pungutan liar oleh oknum pegawai. Jelaskan langkah penanganan dan pencegahan jangka panjang.",
+   "keyPoints": "verifikasi; pemeriksaan Inspektorat; sanksi disiplin/pidana; perlindungan pelapor; perbaikan sistem (layanan online, nirtunai, pengawasan); budaya integritas; komunikasi publik."
+  },
+  {
+   "id": 455,
+   "question": "Rancanglah kebijakan layanan Adminduk yang inklusif bagi penyandang disabilitas, lansia, dan masyarakat adat terpencil.",
+   "keyPoints": "UU 8/2016; layanan prioritas dan jemput bola; aksesibilitas fisik dan digital; pelatihan petugas; kolaborasi komunitas; indikator capaian dan evaluasi."
+  },
+  {
+   "id": 456,
+   "question": "Terjadi dugaan kebocoran data kependudukan di sistem dinas. Uraikan prosedur tanggap insiden, komunikasi krisis, dan pemulihan.",
+   "keyPoints": "deteksi dan isolasi; koordinasi BSSN/Kemendagri; investigasi forensik; pemberitahuan pihak terdampak sesuai UU PDP; perbaikan sistem; evaluasi kontrol akses; transparansi publik."
+  },
+  {
+   "id": 457,
+   "question": "Analisis dampak kebijakan layanan Adminduk digital terhadap kelompok masyarakat yang belum melek digital, serta usulan mitigasinya.",
+   "keyPoints": "kesenjangan digital; layanan hybrid; kios/pendamping desa; literasi digital; ketersediaan jaringan; indikator inklusivitas."
+  },
+  {
+   "id": 458,
+   "question": "Jelaskan bagaimana Anda membangun budaya pelayanan prima dan antikorupsi di Dinas Dukcapil dalam menuju Zona Integritas WBK/WBBM.",
+   "keyPoints": "enam area perubahan; teladan pimpinan; SOP; SKM; whistleblowing; sanksi; penghargaan; monitoring dan evaluasi."
+  },
+  {
+   "id": 459,
+   "question": "Bagaimana Anda memadukan prinsip efisiensi anggaran dan peningkatan kualitas layanan ketika alokasi APBD dinas dipangkas 20%?",
+   "keyPoints": "analisis prioritas; efisiensi belanja non-layanan; digitalisasi; kolaborasi pendanaan sah; perlindungan layanan dasar; komunikasi dan monitoring."
+  },
+  {
+   "id": 460,
+   "question": "Susunlah strategi peningkatan kualitas data kependudukan (NIK ganda, data tidak valid, penduduk meninggal belum terhapus).",
+   "keyPoints": "profiling data; cleansing; validasi titik masuk; integrasi pencatatan kematian; pemadanan lintas sektor; edukasi; indikator kualitas data."
+  },
+  {
+   "id": 461,
+   "question": "Seorang pejabat tinggi meminta akses data kependudukan seluruh warga untuk kepentingan politik. Bagaimana Anda bersikap?",
+   "keyPoints": "dasar hukum; kewenangan; perlindungan data; penolakan tertulis dengan alternatif sah (data agregat); konsultasi atasan/Kemendagri; integritas dan netralitas."
+  },
+  {
+   "id": 462,
+   "question": "(Perekat Bangsa) Di kabupaten Anda terjadi gesekan antara warga transmigran dan penduduk asli soal penggunaan balai adat untuk hajatan, dan sudah viral di media sosial dengan narasi provokatif. Sebagai calon JPT, uraikan strategi Anda dalam tiga langkah (jangka pendek, menengah, panjang) dengan pendekatan sosial kultural.",
+   "keyPoints": "Jangka pendek: de-eskalasi, klarifikasi hoaks berbasis fakta, menunda kegiatan yang berpotensi memicu bentrok, turun bersama FKUB dan tokoh adat/masyarakat. Menengah: SOP pemakaian aset budaya yang disusun partisipatif, forum dialog lintas budaya rutin. Panjang: festival budaya akulturasi, Perda pelestarian budaya, pendidikan keberagaman. Kata kunci: fasilitasi bukan instruksi, musyawarah, kearifan lokal, inklusif."
+  },
+  {
+   "id": 463,
+   "question": "(Empati Sosial) Data sosial menunjukkan kemiskinan ekstrem meningkat dan banyak warga menjadi korban judi online dan pinjaman online ilegal. Sebagai Kepala Dinas, program apa yang Anda rancang dengan pendekatan sosial kultural, bukan sekadar bantuan uang? Hubungkan dengan peran data kependudukan yang akurat.",
+   "keyPoints": "Pelibatan tokoh agama/adat untuk edukasi; literasi digital dan keuangan di masjid, gereja, balai warga; kearifan lokal seperti arisan produktif; kolaborasi OJK, kepolisian, Dinsos; data kependudukan sebagai dasar sasaran program dan verifikasi identitas; pendampingan korban; indikator dampak."
+  },
+  {
+   "id": 464,
+   "question": "Uraikan peran Dukcapil dalam mendukung penyusunan daftar pemilih Pemilu/Pilkada dan bagaimana menjaga netralitas.",
+   "keyPoints": "DP4/DAK2; penyerahan data sesuai jadwal; pemutakhiran; koordinasi KPU; kerahasiaan; netralitas ASN; pengawasan Bawaslu."
+  },
+  {
+   "id": 465,
+   "question": "Bagaimana Anda menyikapi putusan pengadilan terkait perubahan data kependudukan (nama, jenis kelamin, status) dalam sistem layanan?",
+   "keyPoints": "verifikasi keabsahan putusan; kekuatan hukum tetap; prosedur pencatatan; perubahan dokumen turunan; arsip; perlindungan data."
+  },
+  {
+   "id": 466,
+   "question": "Jelaskan strategi mengintegrasikan pencatatan kematian dengan fasilitas kesehatan, pemakaman, dan desa/kelurahan.",
+   "keyPoints": "surat keterangan kematian dari fasyankes; pelaporan desa; pengelola TPU; sistem terintegrasi; penghapusan data; dampak pada bansos dan pemilu."
+  },
+  {
+   "id": 467,
+   "question": "Susunlah kebijakan pelindungan data pribadi internal Dinas Dukcapil sesuai UU PDP.",
+   "keyPoints": "penunjukan DPO; klasifikasi data; akses berbasis peran; enkripsi; audit; pelatihan; prosedur insiden; hak subjek data."
+  },
+  {
+   "id": 468,
+   "question": "(Moderasi Beragama dan Wawasan Kebangsaan) Anda menjadi pembina upacara Hari Kesaktian Pancasila. Di antara peserta terdapat kelompok yang menolak memberi hormat kepada bendera karena alasan keyakinan. Bagaimana sikap Anda agar tetap menghormati hak asasi manusia sekaligus menegakkan wawasan kebangsaan?",
+   "keyPoints": "Hindari pemaksaan dan stigma; dialog dengan tokoh kelompok; edukasi makna hormat bendera sebagai penghormatan kebangsaan; ikuti ketentuan peraturan; libatkan Kesbangpol/FKUB; pendekatan persuasif jangka panjang; prinsip kebebasan beragama sesuai UUD 1945 dan kewajiban kebangsaan; komunikasi publik yang menyejukkan."
+  },
+  {
+   "id": 469,
+   "question": "(Kepemimpinan Budaya) Jelaskan bagaimana Anda menginternalisasikan nilai BerAKHLAK, khususnya Adaptif dan Kolaboratif, dalam memimpin tim yang terdiri atas tiga generasi (Baby Boomer, Milenial, Gen Z) yang sering berbenturan dalam cara kerja.",
+   "keyPoints": "Pemetaan karakter dan kekuatan tiap generasi; tim lintas generasi; reverse mentoring; pola kerja fleksibel berbasis kinerja; komunikasi dua arah; tujuan bersama dan penghargaan; keteladanan pimpinan; evaluasi berkala."
+  },
+  {
+   "id": 470,
+   "question": "Rumuskan strategi menghadapi masyarakat yang enggan melaporkan peristiwa penting karena alasan budaya, biaya tidak langsung, atau ketidaktahuan.",
+   "keyPoints": "edukasi pendekatan budaya; tokoh masyarakat; layanan gratis dan dekat; insentif administratif; integrasi layanan; monitoring."
+  },
+  {
+   "id": 471,
+   "question": "Anda menemukan bahwa data SIAK tidak konsisten dengan data desa. Jelaskan langkah rekonsiliasi dan tata kelola data.",
+   "keyPoints": "verifikasi lapangan; sumber data otoritatif; mekanisme koreksi; pembagian peran; pelatihan; audit berkala."
+  },
+  {
+   "id": 472,
+   "question": "Bagaimana peran Dinas Dukcapil dalam penanganan penduduk korban bencana yang kehilangan dokumen?",
+   "keyPoints": "penggantian dokumen prioritas; pelayanan darurat; basis data; koordinasi BPBD; prosedur sederhana; arsip digital."
+  },
+  {
+   "id": 473,
+   "question": "Uraikan langkah penerapan tanda tangan elektronik dan dokumen digital dalam pelayanan, termasuk aspek hukum dan keamanan.",
+   "keyPoints": "UU ITE; sertifikat elektronik; QR code; keamanan; sosialisasi; layanan mandiri; dampak pada kecepatan dan pungli."
+  },
+  {
+   "id": 474,
+   "question": "(Inklusivitas Layanan) Seorang penghayat kepercayaan terhadap Tuhan YME mengeluh bahwa petugas loket menolak mencatat kepercayaannya dan menyarankan memilih salah satu agama. Uraikan langkah Anda menangani kasus ini serta kebijakan pencegahan agar tidak terulang.",
+   "keyPoints": "Pastikan warga dilayani; permintaan maaf dan pemulihan layanan; dasar hukum Putusan MK 97/PUU-XIV/2016 dan UU Adminduk; pembinaan dan sanksi petugas; revisi SOP dan sistem; pelatihan non-diskriminasi; dialog dengan komunitas penghayat; monitoring pengaduan."
+  },
+  {
+   "id": 475,
+   "question": "Jelaskan tata kelola kerja sama pemanfaatan data kependudukan dengan perbankan, telekomunikasi, dan layanan publik lain.",
+   "keyPoints": "dasar hukum; perjanjian kerja sama; hak akses terbatas; audit; perlindungan data; kewajiban pengguna; sanksi."
+  },
+  {
+   "id": 476,
+   "question": "Susunlah rencana peningkatan cakupan KIA dengan memanfaatkan sekolah, PAUD, dan puskesmas.",
+   "keyPoints": "target usia; kolaborasi Disdik/Dinkes; pencetakan massal; pendampingan orang tua; monitoring; integrasi akta kelahiran."
+  },
+  {
+   "id": 477,
+   "question": "Apa langkah Anda jika terjadi gangguan sistem berkepanjangan akibat serangan siber?",
+   "keyPoints": "BCP; mode layanan manual terkontrol; koordinasi BSSN; pemulihan data; komunikasi; evaluasi; penguatan keamanan."
+  },
+  {
+   "id": 478,
+   "question": "(Masyarakat Adat Terpencil) Sebuah komunitas adat semi-nomaden di wilayah Anda belum memiliki dokumen kependudukan dan curiga terhadap petugas pemerintah. Rancang strategi pelayanan Adminduk yang menghormati budaya mereka.",
+   "keyPoints": "Pemetaan dan pendekatan melalui tokoh adat; kunjungan dengan tata krama adat; pendamping lokal; layanan jemput bola; prosedur khusus sesuai ketentuan; perlindungan data; koordinasi Dinsos, Disdik, Dinkes; pemantauan dan keberlanjutan layanan."
+  },
+  {
+   "id": 479,
+   "question": "Bagaimana membangun sistem pengendalian intern pada proses penerbitan dokumen kependudukan?",
+   "keyPoints": "lima unsur SPIP; pemisahan tugas; hak akses; audit log; verifikasi berlapis; pemantauan; tindak lanjut."
+  },
+  {
+   "id": 480,
+   "question": "Uraikan pendekatan kolaborasi pentahelix untuk meningkatkan layanan Adminduk di daerah.",
+   "keyPoints": "pemerintah, akademisi, bisnis, komunitas, media; peran masing-masing; tata kelola; manfaat; risiko."
+  },
+  {
+   "id": 481,
+   "question": "Anda diminta mengevaluasi kinerja UPTD Dukcapil di kecamatan yang capaiannya paling rendah. Jelaskan metodologi evaluasi dan tindak lanjut.",
+   "keyPoints": "data kinerja; observasi; wawancara; analisis akar masalah; rencana aksi; pembinaan; monitoring."
+  },
+  {
+   "id": 482,
+   "question": "Bagaimana Anda menerapkan prinsip kepentingan terbaik bagi anak dalam pelayanan identitas anak?",
+   "keyPoints": "hak identitas; kemudahan syarat; SPTJM; perlindungan anak terlantar; koordinasi Dinsos/KPAI; sensitivitas data."
+  },
+  {
+   "id": 483,
+   "question": "Jelaskan kebijakan Anda dalam menghadapi permintaan percepatan layanan dengan imbalan oleh pemohon.",
+   "keyPoints": "larangan gratifikasi; pelaporan KPK; layanan prioritas sah; edukasi; sistem antrean transparan; sanksi."
+  },
+  {
+   "id": 484,
+   "question": "Rancanglah mekanisme survei kepuasan masyarakat dan pemanfaatan hasilnya dalam perbaikan layanan.",
+   "keyPoints": "metodologi; unsur penilaian; sampel; analisis; publikasi; tindak lanjut; evaluasi berkelanjutan."
+  },
+  {
+   "id": 485,
+   "question": "(Perkawinan Adat) Banyak pasangan di daerah Anda menikah secara adat tanpa tercatat negara sehingga anak-anak mereka kesulitan memperoleh akta kelahiran dan berpotensi kehilangan akses layanan. Rumuskan kebijakan yang menghormati adat tetapi memberi kepastian hukum.",
+   "keyPoints": "Layanan afirmatif akta kelahiran (SPTJM sesuai ketentuan); edukasi pencatatan perkawinan melalui tokoh adat/agama; kolaborasi KUA dan Dukcapil; pencatatan massal/layanan keliling; hak anak dan kepastian hukum; monitoring dan evaluasi."
+  },
+  {
+   "id": 486,
+   "question": "(Inklusi di Tempat Kerja) Di unit kerja Anda, ASN penyandang disabilitas dan ASN dari Papua mengalami pengucilan halus (tidak diajak rapat, dikecualikan dari penugasan penting). Jelaskan kebijakan afirmatif dan langkah pembinaan budaya organisasi yang Anda terapkan.",
+   "keyPoints": "Pengakuan masalah; SOP rapat dan penugasan inklusif; akomodasi yang layak (UU 8/2016); rotasi penanggung jawab; edukasi keberagaman; kanal pengaduan aman; sanksi perundungan; indikator inklusivitas; keteladanan pimpinan."
+  },
+  {
+   "id": 487,
+   "question": "(Konflik Adat dan Investasi) Seorang investor akan membangun pabrik di lahan ulayat yang diklaim oleh dua marga berbeda. Warga menolak, sementara investor telah memiliki izin dari provinsi. Uraikan langkah Anda sebagai JPT.",
+   "keyPoints": "Hentikan potensi eskalasi; bentuk tim terpadu (tokoh adat kedua marga, camat, instansi investasi, BPN, pemda); fasilitasi musyawarah mufakat; verifikasi status lahan; kepatuhan hukum; jaminan hak masyarakat adat; opsi kemitraan atau relokasi yang disepakati; komunikasi publik; pelaporan ke atasan."
+  },
+  {
+   "id": 488,
+   "question": "Bagaimana Anda menyiapkan dinas menghadapi pemilu/pilkada dari sisi data dan layanan?",
+   "keyPoints": "pemutakhiran data; perekaman pemilih pemula; layanan percepatan; koordinasi KPU/Bawaslu; netralitas; pengamanan data."
+  },
+  {
+   "id": 489,
+   "question": "Jelaskan hubungan antara data kependudukan yang akurat dengan efektivitas perlindungan sosial dan kebijakan pembangunan.",
+   "keyPoints": "ketepatan sasaran; mengurangi inclusion/exclusion error; perencanaan layanan dasar; alokasi anggaran; evaluasi program."
+  },
+  {
+   "id": 490,
+   "question": "Bagaimana merespons putusan MK terkait kolom agama/kepercayaan atau status anak luar kawin dalam penyempurnaan sistem dan SOP?",
+   "keyPoints": "analisis putusan; penyesuaian sistem; sosialisasi petugas; non-diskriminasi; koordinasi Kemendagri."
+  },
+  {
+   "id": 491,
+   "question": "(Netralitas dan SARA) Seorang staf Anda mengunggah ujaran kebencian bernuansa SARA di grup WhatsApp untuk mendukung calon kepala daerah tertentu. Uraikan langkah penanganan dan pencegahan jangka panjang.",
+   "keyPoints": "Klarifikasi dan pemeriksaan; pembinaan; sanksi disiplin sesuai PP 94 Tahun 2021 dan ketentuan netralitas ASN; koordinasi Inspektorat/BKD; edukasi netralitas dan etika bermedia; pedoman media sosial ASN; pengawasan dan evaluasi; budaya organisasi yang inklusif."
+  },
+  {
+   "id": 492,
+   "question": "Mengapa pembinaan teknis dan pengawasan terhadap operator desa penting, dan bagaimana pelaksanaannya?",
+   "keyPoints": "risiko penyalahgunaan; SOP; audit log; pembinaan berkala; sanksi; kolaborasi pemerintah desa."
+  },
+  {
+   "id": 493,
+   "question": "(Konflik Nilai) Visi dan misi kepala daerah tampak bertentangan dengan nilai adat setempat dalam suatu kebijakan layanan. Di manakah posisi Anda sebagai JPT dan bagaimana Anda menyelesaikannya?",
+   "keyPoints": "Kajian benturan nilai dan regulasi; dialog dengan pimpinan dan tokoh adat; mencari titik temu yang tidak melanggar hukum; penyesuaian pelaksanaan; masukan santun kepada kepala daerah; transparansi; profesionalisme dan netralitas; solusi bertahap."
+  },
+  {
+   "id": 494,
+   "question": "Jelaskan peran Dukcapil dalam penanganan perkawinan antarnegara dan kewarganegaraan anak hasil perkawinan campuran.",
+   "keyPoints": "UU Kewarganegaraan; pencatatan perkawinan di luar negeri; kewarganegaraan ganda terbatas; dokumen; koordinasi Imigrasi dan Perwakilan RI."
+  },
+  {
+   "id": 495,
+   "question": "Bagaimana mengelola konflik kepentingan ketika vendor pengembang aplikasi memiliki hubungan dengan pejabat dinas?",
+   "keyPoints": "deklarasi konflik; pengadaan transparan; pemisahan peran; pengawasan APIP; sanksi."
+  },
+  {
+   "id": 496,
+   "question": "(Keputusan Tidak Populer) Ceritakan atau rancang bagaimana Anda mengambil dan mengomunikasikan keputusan yang tidak populer bagi masyarakat adat tetapi benar secara regulasi (misalnya penertiban layanan atau penetapan batas administrasi).",
+   "keyPoints": "Dasar hukum dan analisis dampak; pelibatan tokoh adat sejak awal; dialog dengan empati; penjelasan manfaat; opsi mitigasi; komunikasi bertahap lewat kanal tradisional; monitoring reaksi; evaluasi dan tindak lanjut."
+  },
+  {
+   "id": 497,
+   "question": "Bagaimana Anda mengukur dan melaporkan akuntabilitas kinerja dinas kepada kepala daerah dan publik?",
+   "keyPoints": "SAKIP; LKjIP; indikator; transparansi; kanal publik; evaluasi dan perbaikan."
+  },
+  {
+   "id": 498,
+   "question": "Jelaskan langkah mitigasi risiko dalam penerapan kecerdasan buatan untuk verifikasi dokumen kependudukan.",
+   "keyPoints": "akurasi; bias; privasi; pengawasan manusia; audit; kebijakan etika; keamanan."
+  },
+  {
+   "id": 499,
+   "question": "Bagaimana peran Dinas Dukcapil dalam mendukung Satu Data Indonesia dan SPBE di daerah?",
+   "keyPoints": "data referensi; interoperabilitas; standar; forum data; arsitektur SPBE; keamanan; kolaborasi OPD."
+  },
+  {
+   "id": 500,
+   "question": "Sebagai calon JPT Pratama, sampaikan visi, misi, dan program prioritas 100 hari Anda untuk Dinas Dukcapil.",
+   "keyPoints": "diagnosis awal; visi yang selaras RPJMD; prioritas (kualitas data, cakupan dokumen, layanan digital inklusif, integritas); quick wins; indikator; strategi kolaborasi; manajemen perubahan."
+  }
+ ]
+}
