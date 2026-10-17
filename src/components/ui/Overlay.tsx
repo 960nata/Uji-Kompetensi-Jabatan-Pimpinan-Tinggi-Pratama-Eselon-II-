@@ -39,18 +39,18 @@ export function Dialog({
       {open && (
         <motion.div
           {...backdrop}
-          className="fixed inset-0 z-50 grid place-items-center bg-black/45 p-4 backdrop-blur-sm"
+          className="fixed inset-0 z-50 grid place-items-center bg-black/40 p-4"
           onClick={onClose}
         >
           <motion.div
             role="dialog"
             aria-modal
-            initial={{ opacity: 0, scale: 0.94, y: 12 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            exit={{ opacity: 0, scale: 0.96, y: 8 }}
-            transition={{ type: "spring", stiffness: 380, damping: 30 }}
+            initial={{ opacity: 0, y: 8 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: 4 }}
+            transition={{ duration: 0.18, ease: "easeOut" }}
             onClick={(e) => e.stopPropagation()}
-            className="w-full max-w-md rounded-3xl border border-line bg-surface p-6 shadow-2xl"
+            className="w-full max-w-sm rounded-xl border border-line bg-bg p-6"
           >
             {children}
           </motion.div>
@@ -76,7 +76,7 @@ export function Sheet({
   return (
     <AnimatePresence>
       {open && (
-        <motion.div {...backdrop} className="fixed inset-0 z-50 bg-black/45 backdrop-blur-sm" onClick={onClose}>
+        <motion.div {...backdrop} className="fixed inset-0 z-50 bg-black/40" onClick={onClose}>
           <motion.div
             role="dialog"
             aria-modal
@@ -84,7 +84,7 @@ export function Sheet({
             initial={{ y: "100%" }}
             animate={{ y: 0 }}
             exit={{ y: "100%" }}
-            transition={{ type: "spring", stiffness: 340, damping: 34 }}
+            transition={{ duration: 0.25, ease: [0.32, 0.72, 0, 1] }}
             drag="y"
             dragListener={false}
             dragControls={controls}
@@ -92,17 +92,17 @@ export function Sheet({
             dragElastic={{ top: 0, bottom: 0.6 }}
             onDragEnd={(_, info) => (info.offset.y > 120 || info.velocity.y > 600) && onClose()}
             onClick={(e) => e.stopPropagation()}
-            className="absolute inset-x-0 bottom-0 flex max-h-[82dvh] flex-col rounded-t-[28px] border-t border-line bg-surface pb-[env(safe-area-inset-bottom)]"
+            className="absolute inset-x-0 bottom-0 flex max-h-[82dvh] flex-col rounded-t-xl border-t border-line bg-bg pb-[env(safe-area-inset-bottom)]"
           >
             <div
               className="flex touch-none items-center justify-between px-5 pb-2 pt-6"
               onPointerDown={(e) => controls.start(e)}
             >
-              <span className="absolute left-1/2 top-3 h-1.5 w-12 -translate-x-1/2 rounded-full bg-line" />
-              <h2 className="text-base font-extrabold">{title}</h2>
+              <span className="absolute left-1/2 top-3 h-1 w-10 -translate-x-1/2 rounded-full bg-line" />
+              <h2 className="text-sm font-medium">{title}</h2>
               <button
                 onClick={onClose}
-                className="grid size-9 place-items-center rounded-full bg-surface-2 ring-1 ring-line"
+                className="grid size-8 place-items-center rounded-md text-muted hover:text-ink"
                 aria-label="Tutup"
               >
                 <X className="size-4" />

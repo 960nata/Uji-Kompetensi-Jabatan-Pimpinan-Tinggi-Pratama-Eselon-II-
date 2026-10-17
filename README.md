@@ -23,9 +23,9 @@ Tanpa login, mobile-first, soal & opsi diacak tiap sesi.
 | 🎯 **Dua mode** | **Ujian**: nilai di akhir. **Belajar**: langsung tahu benar/salah + kunci per soal. |
 | ⚙️ **Sesi fleksibel** | Pilih 20 / 50 / 100 / 200 / semua soal, filter per bagian materi (I–V), timer opsional (1 menit/soal, auto-submit saat habis). |
 | 📝 **Latihan essay** | 50 soal essay & studi kasus, draf jawaban tersimpan otomatis, tombol *lihat pokok jawaban* + pedoman bobot penilaian. |
-| 📊 **Hasil & pembahasan** | Skor animasi, statistik benar/salah/kosong, nilai per bagian, pembahasan dengan filter. |
+| 📊 **Hasil & pembahasan** | Skor, statistik benar/salah/kosong, nilai per bagian, pembahasan dengan filter. |
 | 💾 **Tanpa database** | Progres sesi, riwayat nilai, dan draf essay disimpan di `localStorage` perangkat. Refresh tidak menghilangkan progres. |
-| 📱 **Mobile-first** | Bottom bar jempol-friendly, *bottom sheet* daftar soal, swipe kiri/kanan untuk pindah soal, dark mode otomatis. |
+| 📱 **Mobile-first & minimalis** | Tampilan monokrom, bottom bar jempol-friendly, *bottom sheet* daftar soal, swipe kiri/kanan untuk pindah soal, dark mode otomatis. |
 | ⚡ **Skeleton loading** | Shimmer skeleton di setiap halaman selama bank soal dimuat. |
 | ⌨️ **Pintasan keyboard** | `A–E` / `1–5` pilih jawaban, `← →` pindah soal, `F` tandai ragu-ragu. |
 
@@ -56,7 +56,7 @@ src/
 ├── components/
 │   ├── home/                 # SetupCard, History
 │   ├── quiz/                 # Quiz, OptionList, Navigator
-│   ├── result/               # ResultView, ScoreRing
+│   ├── result/               # ResultView
 │   ├── essay/                # EssayPractice
 │   ├── ui/Overlay.tsx        # Dialog & bottom sheet (framer-motion)
 │   └── Skeletons.tsx         # Skeleton loader

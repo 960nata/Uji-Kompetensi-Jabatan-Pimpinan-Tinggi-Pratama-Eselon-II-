@@ -1,44 +1,44 @@
 @import "tailwindcss";
 
 :root {
-  --bg: #f5f4ef;
+  --bg: #ffffff;
   --surface: #ffffff;
-  --surface-2: #faf9f5;
-  --ink: #0f1729;
-  --muted: #5d6578;
-  --line: #e3e1d8;
-  --brand: #1e3fcf;
+  --surface-2: #f6f6f6;
+  --ink: #111111;
+  --muted: #737373;
+  --line: #e7e7e7;
+  --brand: #111111;
   --brand-ink: #ffffff;
-  --brand-soft: #e8edff;
-  --accent: #d99a12;
-  --accent-soft: #fdf3dc;
-  --ok: #10805b;
-  --ok-soft: #e3f5ed;
-  --bad: #c4372c;
-  --bad-soft: #fde9e7;
-  --skeleton: #e9e7df;
-  --skeleton-shine: #f6f5f0;
+  --brand-soft: #f4f4f4;
+  --accent: #b45309;
+  --accent-soft: #fdf7ee;
+  --ok: #15803d;
+  --ok-soft: #f1f8f3;
+  --bad: #b91c1c;
+  --bad-soft: #fcf3f3;
+  --skeleton: #f0f0f0;
+  --skeleton-shine: #f8f8f8;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0a0f1d;
-    --surface: #111a2e;
-    --surface-2: #0e1628;
-    --ink: #e7ebf4;
-    --muted: #8f9bb3;
-    --line: #222d47;
-    --brand: #7b93ff;
-    --brand-ink: #0a0f1d;
-    --brand-soft: #1a2550;
-    --accent: #f0b73e;
-    --accent-soft: #3a2c0c;
-    --ok: #3cc796;
-    --ok-soft: #0f3326;
-    --bad: #f26b60;
-    --bad-soft: #3d1715;
-    --skeleton: #19233b;
-    --skeleton-shine: #233050;
+    --bg: #0b0b0b;
+    --surface: #0b0b0b;
+    --surface-2: #161616;
+    --ink: #ededed;
+    --muted: #8a8a8a;
+    --line: #262626;
+    --brand: #ededed;
+    --brand-ink: #0b0b0b;
+    --brand-soft: #1a1a1a;
+    --accent: #d6a24e;
+    --accent-soft: #1f1910;
+    --ok: #4ade80;
+    --ok-soft: #0f1a13;
+    --bad: #f87171;
+    --bad-soft: #1f1111;
+    --skeleton: #181818;
+    --skeleton-shine: #202020;
   }
 }
 
@@ -58,8 +58,8 @@
   --color-ok-soft: var(--ok-soft);
   --color-bad: var(--bad);
   --color-bad-soft: var(--bad-soft);
-  --font-sans: var(--font-jakarta);
-  --font-mono: var(--font-mono-jb);
+  --font-sans: var(--font-geist);
+  --font-mono: var(--font-geist-mono);
 }
 
 html {
@@ -69,8 +69,7 @@ html {
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: var(--font-jakarta), system-ui, sans-serif;
-  font-feature-settings: "ss01", "cv11";
+  font-family: var(--font-geist), system-ui, sans-serif;
 }
 
 .tabular {
@@ -81,7 +80,7 @@ body {
   position: relative;
   overflow: hidden;
   background: var(--skeleton);
-  border-radius: 0.5rem;
+  border-radius: 6px;
 }
 .skeleton::after {
   content: "";
@@ -95,14 +94,6 @@ body {
   100% {
     transform: translateX(100%);
   }
-}
-
-.bg-grid {
-  background-image:
-    linear-gradient(to right, color-mix(in oklab, var(--line) 70%, transparent) 1px, transparent 1px),
-    linear-gradient(to bottom, color-mix(in oklab, var(--line) 70%, transparent) 1px, transparent 1px);
-  background-size: 32px 32px;
-  mask-image: radial-gradient(ellipse at top, black 30%, transparent 75%);
 }
 
 .scrollbar-thin {
