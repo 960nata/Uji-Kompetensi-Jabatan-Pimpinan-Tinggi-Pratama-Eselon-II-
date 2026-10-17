@@ -12,9 +12,14 @@ export function Home() {
       <header className="border-b border-line">
         <div className="mx-auto flex h-14 max-w-xl items-center justify-between px-4">
           <Brand />
-          <Link href="/essay" className="text-sm text-muted transition hover:text-ink">
-            Latihan essay →
-          </Link>
+          <nav className="flex gap-4 text-sm text-muted">
+            <Link href="/kunci" className="transition hover:text-ink">
+              Kunci jawaban
+            </Link>
+            <Link href="/essay" className="transition hover:text-ink">
+              Essay
+            </Link>
+          </nav>
         </div>
       </header>
 

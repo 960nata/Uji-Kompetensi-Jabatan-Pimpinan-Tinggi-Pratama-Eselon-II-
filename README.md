@@ -52,7 +52,8 @@ src/
 │   ├── page.tsx              # Beranda: atur sesi + riwayat nilai
 │   ├── ujian/page.tsx        # Halaman ujian pilihan ganda
 │   ├── hasil/[id]/page.tsx   # Hasil & pembahasan
-│   └── essay/page.tsx        # Latihan essay
+│   ├── essay/page.tsx        # Latihan essay
+│   └── kunci/page.tsx        # Daftar kunci jawaban (PG + pokok jawaban essay)
 ├── components/
 │   ├── home/                 # SetupCard, History
 │   ├── quiz/                 # Quiz, OptionList, Navigator
