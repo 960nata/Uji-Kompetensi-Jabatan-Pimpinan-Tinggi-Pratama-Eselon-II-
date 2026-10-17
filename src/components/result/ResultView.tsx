@@ -10,7 +10,7 @@ import { Brand } from "@/components/Brand";
 import { OptionList } from "@/components/quiz/OptionList";
 import { ResultSkeleton } from "@/components/Skeletons";
 import { createSession, formatDuration, gradeLabel, isCorrect, LETTERS } from "@/lib/quiz";
-import { clearActive, loadResult, saveActive } from "@/lib/storage";
+import { clearActive, loadResult, loadSeen, saveActive, saveSeen, updateResult } from "@/lib/storage";
 import type { Result } from "@/lib/types";
 import { useBank } from "@/lib/useBank";
 
@@ -63,15 +63,35 @@ export function ResultView({ id }: { id: string }) {
 
   const retry = () => {
     clearActive();
-    saveActive(
-      createSession(bank, {
+    const essayCount = result.essayIds?.length ?? 0;
+    const { session, seen } = createSession(
+      bank,
+      {
         mode: result.mode,
-        count: result.total,
+        count: result.total + essayCount,
         sections: [...new Set(result.items.map((it) => byId.get(it.qid)!.section))],
         timed: result.durationSec !== null,
-      }),
+        withEssay: essayCount > 0,
+      },
+      loadSeen(),
     );
+    saveSeen(seen);
+    saveActive(session);
     router.push("/ujian");
+  };
+
+  const essayIds = result.essayIds ?? [];
+  const essayScores = result.essayScores ?? essayIds.map(() => null);
+  const rated = essayScores.filter((s): s is number => s !== null);
+  const essayAvg = rated.length ? rated.reduce((a, b) => a + b, 0) / rated.length : null;
+  const essayById = new Map(bank.essay.map((e) => [e.id, e]));
+
+  const rate = (k: number, v: number) => {
+    const scores = [...essayScores];
+    scores[k] = scores[k] === v ? null : v;
+    const next = { ...result, essayScores: scores };
+    setResult(next);
+    updateResult(next);
   };
 
   const counts = { salah: result.wrong, kosong: result.blank, benar: result.correct, semua: result.total };
@@ -99,8 +119,24 @@ export function ResultView({ id }: { id: string }) {
         </p>
         <div className="mt-3 flex items-baseline gap-3">
           <span className="tabular text-6xl font-semibold tracking-tight">{result.score.toFixed(1)}</span>
-          <span className="text-sm text-muted">{gradeLabel(result.score).label}</span>
+          <span className="text-sm text-muted">
+            {essayIds.length ? "Nilai PG · " : ""}
+            {gradeLabel(result.score).label}
+          </span>
         </div>
+        {essayIds.length > 0 && (
+          <p className="tabular mt-1 text-sm text-muted">
+            Nilai essay (mandiri):{" "}
+            {essayAvg === null ? (
+              "belum dinilai"
+            ) : (
+              <span className="font-medium text-ink">
+                {essayAvg.toFixed(1)}
+                {rated.length < essayIds.length && ` (${rated.length}/${essayIds.length} dinilai)`}
+              </span>
+            )}
+          </p>
+        )}
         <p className="tabular mt-3 text-sm text-muted">
           <span className="text-ok">{result.correct} benar</span> ·{" "}
           <span className="text-bad">{result.wrong} salah</span> · {result.blank} kosong · waktu{" "}
@@ -149,9 +185,57 @@ export function ResultView({ id }: { id: string }) {
           </div>
         </section>
 
+        {essayIds.length > 0 && (
+          <section className="mt-12">
+            <h2 className="text-xs font-medium uppercase tracking-wider text-muted">Essay · nilai mandiri</h2>
+            <p className="mt-1 text-sm text-muted">
+              Bandingkan jawaban Anda dengan pokok jawaban, lalu beri nilai sendiri.
+            </p>
+            <ol className="mt-4 divide-y divide-line border-y border-line">
+              {essayIds.map((id, k) => {
+                const e = essayById.get(id)!;
+                const ans = result.essayAnswers?.[k]?.trim() ?? "";
+                return (
+                  <li key={id} className="py-5">
+                    <p className="tabular mb-1 text-xs text-muted">
+                      No. {result.total + k + 1} · soal {id}
+                    </p>
+                    <p className="text-[15px] font-medium leading-relaxed">{e.question}</p>
+                    <div className="mt-3 rounded-lg bg-surface-2 p-3 text-sm leading-relaxed whitespace-pre-wrap">
+                      {ans || <span className="text-muted">Tidak dijawab.</span>}
+                    </div>
+                    <div className="mt-3 border-l-2 border-ok pl-3 text-sm leading-relaxed">
+                      <span className="font-medium">Pokok jawaban: </span>
+                      <span className="text-muted">{e.keyPoints}</span>
+                    </div>
+                    <div className="mt-4 flex items-center gap-1.5">
+                      <span className="mr-1 text-xs text-muted">Nilai</span>
+                      {[0, 25, 50, 75, 100].map((v) => (
+                        <button
+                          key={v}
+                          onClick={() => rate(k, v)}
+                          aria-pressed={essayScores[k] === v}
+                          className={clsx(
+                            "tabular h-8 min-w-10 rounded-md border px-2 text-sm transition",
+                            essayScores[k] === v
+                              ? "border-ink bg-ink text-bg"
+                              : "border-line text-muted hover:border-muted",
+                          )}
+                        >
+                          {v}
+                        </button>
+                      ))}
+                    </div>
+                  </li>
+                );
+              })}
+            </ol>
+          </section>
+        )}
+
         <section className="mt-12">
           <div className="mb-4 flex flex-wrap items-baseline justify-between gap-3">
-            <h2 className="text-xs font-medium uppercase tracking-wider text-muted">Pembahasan</h2>
+            <h2 className="text-xs font-medium uppercase tracking-wider text-muted">Pembahasan PG</h2>
             <div className="flex gap-4 text-sm">
               {(Object.keys(counts) as Filter[]).map((f) => (
                 <button

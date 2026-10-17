@@ -1,3 +1,4 @@
+import type { Seen } from "./quiz";
 import type { HistoryEntry, Result, Session } from "./types";
 
 /**
@@ -7,6 +8,7 @@ import type { HistoryEntry, Result, Session } from "./types";
 const KEY_ACTIVE = "ujian:active:v1";
 const KEY_HISTORY = "ujian:history:v1";
 const KEY_ESSAY = "ujian:essay:v1";
+const KEY_SEEN = "ujian:seen:v1";
 const resultKey = (id: string) => `ujian:result:${id}`;
 
 const MAX_HISTORY = 30;
@@ -59,6 +61,13 @@ export function saveResult(r: Result) {
 }
 
 export const loadResult = (id: string) => read<Result>(resultKey(id));
+
+/** Update hasil tanpa mengubah urutan riwayat (mis. nilai mandiri essay). */
+export const updateResult = (r: Result) => write(resultKey(r.id), r);
+
+/** Soal yang sudah pernah keluar, agar sesi berikutnya mendapat soal berbeda. */
+export const loadSeen = (): Seen => read<Seen>(KEY_SEEN) ?? { mc: [], essay: [] };
+export const saveSeen = (s: Seen) => write(KEY_SEEN, s);
 
 export function clearHistory() {
   loadHistory().forEach((h) => remove(resultKey(h.id)));

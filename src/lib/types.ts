@@ -35,6 +35,10 @@ export type Session = {
   sections: string[];
   items: SessionItem[];
   answers: (number | null)[];
+  /** Soal essay ditaruh setelah semua soal PG (indeks navigasi = items.length + i). */
+  essayIds?: number[];
+  essayAnswers?: string[];
+  /** Panjang = jumlah PG + jumlah essay. */
   flags: boolean[];
   current: number;
   startedAt: number;
@@ -52,6 +56,10 @@ export type Result = {
   durationSec: number | null;
   items: SessionItem[];
   answers: (number | null)[];
+  essayIds?: number[];
+  essayAnswers?: string[];
+  /** Nilai mandiri 0–100 per essay, null = belum dinilai. */
+  essayScores?: (number | null)[];
   total: number;
   correct: number;
   wrong: number;

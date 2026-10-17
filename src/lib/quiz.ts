@@ -26,31 +26,77 @@ export function makeId() {
   return `${Date.now().toString(36)}${randomInt(1e9).toString(36)}`;
 }
 
+export const SECONDS_PER_ESSAY = 5 * 60;
+export const ESSAY_RATIO = 0.2;
+
 export type SessionConfig = {
   mode: Mode;
+  /** 0 = semua soal pada bagian terpilih. */
   count: number;
   sections: string[];
   timed: boolean;
+  withEssay: boolean;
 };
 
-export function createSession(bank: Bank, cfg: SessionConfig): Session {
-  const pool = bank.mc.filter((q) => cfg.sections.includes(q.section));
-  const picked = shuffle(pool).slice(0, Math.min(cfg.count, pool.length));
-  const items: SessionItem[] = picked.map((q) => ({
-    qid: q.id,
-    order: shuffle(q.options.map((_, i) => i)),
+export type Seen = { mc: number[]; essay: number[] };
+
+/** Pembagian jumlah soal: 80% PG + 20% essay bila essay diikutkan. */
+export function splitCount(bank: Bank, cfg: Pick<SessionConfig, "count" | "sections" | "withEssay">) {
+  const mcPool = bank.mc.filter((q) => cfg.sections.includes(q.section)).length;
+  if (cfg.count === 0) return { mc: mcPool, essay: cfg.withEssay ? bank.essay.length : 0 };
+  const essay = cfg.withEssay ? Math.min(bank.essay.length, Math.max(1, Math.round(cfg.count * ESSAY_RATIO))) : 0;
+  return { mc: Math.min(cfg.count - essay, mcPool), essay };
+}
+
+/**
+ * Ambil n soal acak, mendahulukan soal yang belum pernah keluar.
+ * Bila stok soal baru habis, putaran direset sehingga soal lama baru muncul lagi
+ * setelah seluruh bank terpakai.
+ */
+function pickFresh(pool: number[], seen: number[], n: number) {
+  const seenSet = new Set(seen);
+  const fresh = shuffle(pool.filter((id) => !seenSet.has(id)));
+  if (fresh.length >= n) {
+    const picked = fresh.slice(0, n);
+    return { picked, seen: [...seen, ...picked] };
+  }
+  const refill = shuffle(pool.filter((id) => seenSet.has(id))).slice(0, n - fresh.length);
+  const picked = shuffle([...fresh, ...refill]);
+  // Putaran baru dimulai: hanya soal sesi ini yang dihitung sudah keluar.
+  return { picked, seen: picked };
+}
+
+export function createSession(bank: Bank, cfg: SessionConfig, seen: Seen = { mc: [], essay: [] }) {
+  const n = splitCount(bank, cfg);
+  const mcPool = bank.mc.filter((q) => cfg.sections.includes(q.section)).map((q) => q.id);
+  const mcPick = pickFresh(mcPool, seen.mc.filter((id) => mcPool.includes(id)), n.mc);
+  const essayPick = pickFresh(bank.essay.map((e) => e.id), seen.essay, n.essay);
+  const byId = new Map(bank.mc.map((q) => [q.id, q]));
+
+  const items: SessionItem[] = mcPick.picked.map((id) => ({
+    qid: id,
+    order: shuffle(byId.get(id)!.options.map((_, i) => i)),
   }));
-  return {
+  const essayIds = essayPick.picked;
+
+  const session: Session = {
     id: makeId(),
     mode: cfg.mode,
     sections: cfg.sections,
     items,
     answers: items.map(() => null),
-    flags: items.map(() => false),
+    essayIds,
+    essayAnswers: essayIds.map(() => ""),
+    flags: [...items, ...essayIds].map(() => false),
     current: 0,
     startedAt: Date.now(),
-    durationSec: cfg.timed ? items.length * SECONDS_PER_QUESTION : null,
+    durationSec: cfg.timed
+      ? items.length * SECONDS_PER_QUESTION + essayIds.length * SECONDS_PER_ESSAY
+      : null,
   };
+  // Soal PG di luar bagian terpilih tetap tercatat sebagai sudah keluar.
+  const otherSeen = seen.mc.filter((id) => !mcPool.includes(id));
+  return { session, seen: { mc: [...otherSeen, ...mcPick.seen], essay: essayPick.seen } };
 }
 
 /** Posisi tampil dari opsi yang benar setelah diacak. */
@@ -92,6 +138,9 @@ export function gradeSession(bank: Bank, s: Session): Result {
     durationSec: s.durationSec,
     items: s.items,
     answers: s.answers,
+    essayIds: s.essayIds ?? [],
+    essayAnswers: s.essayAnswers ?? [],
+    essayScores: (s.essayIds ?? []).map(() => null),
     total,
     correct,
     wrong: total - correct - blank,

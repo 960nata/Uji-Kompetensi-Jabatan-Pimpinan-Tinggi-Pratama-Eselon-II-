@@ -41,6 +41,8 @@ export function Quiz() {
   }, [session]);
 
   const byId = useMemo(() => (bank ? new Map(bank.mc.map((q) => [q.id, q])) : null), [bank]);
+  const essayById = useMemo(() => new Map(bank?.essay.map((e) => [e.id, e]) ?? []), [bank]);
+  const [showKey, setShowKey] = useState(false);
   const sectionTitle = useMemo(
     () => new Map(bank?.sections.map((s) => [s.id, s.title]) ?? []),
     [bank],
@@ -69,7 +71,9 @@ export function Quiz() {
 
   const go = useCallback((i: number) => {
     setSession((s) => {
-      if (!s || i < 0 || i >= s.items.length || i === s.current) return s;
+      const total = s ? s.items.length + (s.essayIds?.length ?? 0) : 0;
+      if (!s || i < 0 || i >= total || i === s.current) return s;
+      setShowKey(false);
       setDir(i > s.current ? 1 : -1);
       return { ...s, current: i };
     });
@@ -77,11 +81,20 @@ export function Quiz() {
 
   const choose = useCallback((c: number) => {
     setSession((s) => {
-      if (!s) return s;
+      if (!s || s.current >= s.items.length) return s;
       if (s.mode === "belajar" && s.answers[s.current] !== null) return s;
       const answers = [...s.answers];
       answers[s.current] = s.mode === "ujian" && answers[s.current] === c ? null : c;
       return { ...s, answers };
+    });
+  }, []);
+
+  const writeEssay = useCallback((text: string) => {
+    setSession((s) => {
+      if (!s || s.current < s.items.length) return s;
+      const essayAnswers = [...(s.essayAnswers ?? [])];
+      essayAnswers[s.current - s.items.length] = text;
+      return { ...s, essayAnswers };
     });
   }, []);
 
@@ -98,6 +111,8 @@ export function Quiz() {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (!session || navOpen || confirmOpen || e.metaKey || e.ctrlKey || e.altKey) return;
+      const tag = (e.target as HTMLElement | null)?.tagName;
+      if (tag === "TEXTAREA" || tag === "INPUT") return;
       const k = e.key.toLowerCase();
       const idx = "abcde".indexOf(k) >= 0 ? "abcde".indexOf(k) : "12345".indexOf(k);
       if (idx >= 0 && k.length === 1) choose(idx);
@@ -115,14 +130,20 @@ export function Quiz() {
     );
   if (!bank || !session || !byId) return <QuizSkeleton />;
 
-  const total = session.items.length;
+  const essayIds = session.essayIds ?? [];
+  const essayAnswers = session.essayAnswers ?? [];
+  const total = session.items.length + essayIds.length;
   const cur = session.current;
-  const item = session.items[cur];
-  const q = byId.get(item.qid)!;
-  const choice = session.answers[cur];
+  const isEssay = cur >= session.items.length;
+  const item = isEssay ? null : session.items[cur];
+  const q = item ? byId.get(item.qid)! : null;
+  const essay = isEssay ? essayById.get(essayIds[cur - session.items.length])! : null;
+  const essayText = isEssay ? (essayAnswers[cur - session.items.length] ?? "") : "";
+  const choice = isEssay ? null : session.answers[cur];
   const learn = session.mode === "belajar";
   const reveal = learn && choice !== null;
-  const answered = session.answers.filter((a) => a !== null).length;
+  const answered =
+    session.answers.filter((a) => a !== null).length + essayAnswers.filter((t) => t.trim()).length;
   const flagged = session.flags.filter(Boolean).length;
   const isLast = cur === total - 1;
   const lowTime = remaining !== null && remaining <= 60;
@@ -183,7 +204,7 @@ export function Quiz() {
               animate="center"
               exit="exit"
               transition={{ duration: 0.15, ease: "easeOut" }}
-              drag="x"
+              drag={isEssay ? false : "x"}
               dragConstraints={{ left: 0, right: 0 }}
               dragElastic={0.12}
               dragDirectionLock
@@ -193,27 +214,71 @@ export function Quiz() {
               }}
               className="touch-pan-y"
             >
-              <p className="mb-3 text-xs text-muted">
-                Bagian {q.section}
-                <span className="hidden sm:inline"> · {sectionTitle.get(q.section)}</span>
-                {session.flags[cur] && <span className="text-accent"> · Ragu-ragu</span>}
-              </p>
+              {q && item ? (
+                <>
+                  <p className="mb-3 text-xs text-muted">
+                    Bagian {q.section}
+                    <span className="hidden sm:inline"> · {sectionTitle.get(q.section)}</span>
+                    {session.flags[cur] && <span className="text-accent"> · Ragu-ragu</span>}
+                  </p>
 
-              <h1 className="mb-6 text-pretty text-lg font-medium leading-relaxed">{q.question}</h1>
+                  <h1 className="mb-6 text-pretty text-lg font-medium leading-relaxed">{q.question}</h1>
 
-              <OptionList q={q} item={item} choice={choice} reveal={reveal} onChoose={choose} />
+                  <OptionList q={q} item={item} choice={choice} reveal={reveal} onChoose={choose} />
 
-              {reveal && (
-                <motion.p
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                  className={clsx("mt-4 text-sm", isCorrect(q, item, choice) ? "text-ok" : "text-bad")}
-                >
-                  {isCorrect(q, item, choice)
-                    ? "Benar."
-                    : `Salah. Jawaban yang benar: ${LETTERS[correctDisplayIndex(q, item)]}.`}
-                </motion.p>
-              )}
+                  {reveal && (
+                    <motion.p
+                      initial={{ opacity: 0 }}
+                      animate={{ opacity: 1 }}
+                      className={clsx("mt-4 text-sm", isCorrect(q, item, choice) ? "text-ok" : "text-bad")}
+                    >
+                      {isCorrect(q, item, choice)
+                        ? "Benar."
+                        : `Salah. Jawaban yang benar: ${LETTERS[correctDisplayIndex(q, item)]}.`}
+                    </motion.p>
+                  )}
+                </>
+              ) : essay ? (
+                <>
+                  <p className="mb-3 text-xs text-muted">
+                    Essay · No. {essay.id}
+                    {session.flags[cur] && <span className="text-accent"> · Ragu-ragu</span>}
+                  </p>
+                  <h1 className="mb-6 text-pretty text-lg font-medium leading-relaxed">{essay.question}</h1>
+                  <div className="rounded-lg border border-line focus-within:border-muted">
+                    <textarea
+                      value={essayText}
+                      onChange={(e) => writeEssay(e.target.value)}
+                      placeholder="Tulis jawaban: masalah → dasar hukum → analisis → rekomendasi → tindak lanjut"
+                      rows={9}
+                      className="block w-full resize-y bg-transparent p-4 text-[15px] leading-relaxed outline-none placeholder:text-muted"
+                    />
+                    <div className="tabular border-t border-line px-4 py-2 text-xs text-muted">
+                      {essayText.trim() ? essayText.trim().split(/\s+/).length : 0} kata · dinilai mandiri
+                      setelah dikumpulkan
+                    </div>
+                  </div>
+                  {learn && (
+                    <>
+                      <button
+                        onClick={() => setShowKey((v) => !v)}
+                        className="mt-4 text-sm underline underline-offset-4"
+                      >
+                        {showKey ? "Sembunyikan pokok jawaban" : "Lihat pokok jawaban"}
+                      </button>
+                      {showKey && (
+                        <motion.div
+                          initial={{ opacity: 0 }}
+                          animate={{ opacity: 1 }}
+                          className="mt-4 border-l-2 border-ok pl-3 text-sm leading-relaxed text-muted"
+                        >
+                          {essay.keyPoints}
+                        </motion.div>
+                      )}
+                    </>
+                  )}
+                </>
+              ) : null}
 
               <p className="mt-8 hidden text-xs text-muted lg:block">
                 Pintasan: A–E pilih · ← → pindah · F ragu-ragu

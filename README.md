@@ -20,6 +20,8 @@ Tanpa login, mobile-first, soal & opsi diacak tiap sesi.
 | | |
 |---|---|
 | 🔀 **Acak soal & opsi** | Urutan soal dan opsi A–E diacak setiap sesi (Fisher–Yates + `crypto.getRandomValues`). Kunci jawaban otomatis mengikuti posisi opsi yang baru. |
+| ♻️ **Tidak berulang** | Soal yang sudah pernah keluar tidak muncul lagi sampai seluruh bank soal terpakai, lalu putaran baru dimulai. |
+| 🧩 **PG + essay** | Sesi ujian otomatis 80% pilihan ganda + 20% essay (mis. 50 → 40 PG + 10 essay). Essay dinilai mandiri dengan pokok jawaban. |
 | 🎯 **Dua mode** | **Ujian**: nilai di akhir. **Belajar**: langsung tahu benar/salah + kunci per soal. |
 | ⚙️ **Sesi fleksibel** | Pilih 20 / 50 / 100 / 200 / semua soal, filter per bagian materi (I–V), timer opsional (1 menit/soal, auto-submit saat habis). |
 | 📝 **Latihan essay** | 50 soal essay & studi kasus, draf jawaban tersimpan otomatis, tombol *lihat pokok jawaban* + pedoman bobot penilaian. |

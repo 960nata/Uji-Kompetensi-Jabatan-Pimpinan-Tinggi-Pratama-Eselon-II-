@@ -2,10 +2,10 @@
 
 import clsx from "clsx";
 import { useRouter } from "next/navigation";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { HomeSetupSkeleton } from "@/components/Skeletons";
-import { createSession, SECONDS_PER_QUESTION } from "@/lib/quiz";
-import { clearActive, loadActive, saveActive } from "@/lib/storage";
+import { createSession, SECONDS_PER_ESSAY, SECONDS_PER_QUESTION, splitCount } from "@/lib/quiz";
+import { clearActive, loadActive, loadSeen, saveActive, saveSeen } from "@/lib/storage";
 import type { Mode, Session } from "@/lib/types";
 import { useBank } from "@/lib/useBank";
 
@@ -26,6 +26,7 @@ export function SetupCard() {
   const [mode, setMode] = useState<Mode>("ujian");
   const [count, setCount] = useState<number>(50);
   const [timed, setTimed] = useState(true);
+  const [withEssay, setWithEssay] = useState(true);
   const [sections, setSections] = useState<string[]>([]);
   const [active, setActive] = useState<Session | null>(null);
   const [starting, setStarting] = useState(false);
@@ -35,11 +36,9 @@ export function SetupCard() {
     if (bank && sections.length === 0) setSections(bank.sections.map((s) => s.id));
   }, [bank, sections.length]);
 
-  const poolSize = useMemo(
-    () => (bank ? bank.mc.filter((q) => sections.includes(q.section)).length : 0),
-    [bank, sections],
-  );
-  const effective = count === 0 ? poolSize : Math.min(count, poolSize);
+  const split = bank ? splitCount(bank, { count, sections, withEssay }) : { mc: 0, essay: 0 };
+  const effective = split.mc + split.essay;
+  const minutes = Math.round((split.mc * SECONDS_PER_QUESTION + split.essay * SECONDS_PER_ESSAY) / 60);
 
   const toggleSection = (id: string) =>
     setSections((prev) =>
@@ -50,7 +49,9 @@ export function SetupCard() {
     if (!bank || !effective) return;
     setStarting(true);
     clearActive();
-    saveActive(createSession(bank, { mode, count: effective, sections, timed }));
+    const { session, seen } = createSession(bank, { mode, count, sections, timed, withEssay }, loadSeen());
+    saveSeen(seen);
+    saveActive(session);
     router.push("/ujian");
   };
 
@@ -149,10 +150,25 @@ export function SetupCard() {
 
       <label className="flex cursor-pointer items-center justify-between gap-4 text-sm">
         <span>
+          <span className="block font-medium">Sertakan essay</span>
+          <span className="tabular block text-muted">
+            {withEssay ? `${split.mc} pilihan ganda + ${split.essay} essay` : "Pilihan ganda saja"}
+          </span>
+        </span>
+        <input
+          type="checkbox"
+          checked={withEssay}
+          onChange={(e) => setWithEssay(e.target.checked)}
+          className="size-4 accent-[var(--ink)]"
+        />
+      </label>
+
+      <label className="flex cursor-pointer items-center justify-between gap-4 text-sm">
+        <span>
           <span className="block font-medium">Batas waktu</span>
           <span className="tabular block text-muted">
             {timed
-              ? `${Math.round((effective * SECONDS_PER_QUESTION) / 60)} menit (1 menit/soal)`
+              ? `${minutes} menit (PG 1 menit, essay 5 menit)`
               : "Tidak aktif"}
           </span>
         </span>

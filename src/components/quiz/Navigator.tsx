@@ -22,6 +22,7 @@ export function Navigator({ session, byId, onJump }: Props) {
         ["bg-ink", "Terjawab"],
         ["bg-accent", "Ragu"],
       ];
+  if (session.essayIds?.length) legend.push(["border border-dashed border-muted", "Essay"]);
 
   return (
     <div>
@@ -44,6 +45,29 @@ export function Navigator({ session, byId, onJump }: Props) {
               className={clsx(
                 "tabular aspect-square rounded-md text-xs transition",
                 cls,
+                session.current === i && "ring-2 ring-ink ring-offset-2 ring-offset-bg",
+              )}
+            >
+              {i + 1}
+            </button>
+          );
+        })}
+        {(session.essayIds ?? []).map((id, k) => {
+          const i = session.items.length + k;
+          const written = !!session.essayAnswers?.[k]?.trim();
+          return (
+            <button
+              key={`e${id}`}
+              onClick={() => onJump(i)}
+              aria-label={`Essay ${k + 1}`}
+              aria-current={session.current === i}
+              className={clsx(
+                "tabular aspect-square rounded-md text-xs italic transition",
+                session.flags[i]
+                  ? "bg-accent text-bg"
+                  : written
+                    ? "bg-ink text-bg"
+                    : "border border-dashed border-line text-muted hover:border-muted",
                 session.current === i && "ring-2 ring-ink ring-offset-2 ring-offset-bg",
               )}
             >
